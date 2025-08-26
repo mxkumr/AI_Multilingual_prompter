@@ -1,0 +1,130 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\en.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "dest",
+          "n",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "n",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "source",
+          "target"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "source",
+          "target"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\hi.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\es.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ta": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\ta.py",
+      "elements": {
+        "identifiers": [
+          "copy_memory",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_memory"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

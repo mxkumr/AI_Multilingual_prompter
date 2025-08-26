@@ -1,0 +1,104 @@
+{
+  "summary": {
+    "en": {
+      "overall": {
+        "English/ASCII": 8
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 4
+        },
+        "variables": {
+          "English/ASCII": 3
+        },
+        "literals": {},
+        "comments": {},
+        "docstrings": {},
+        "functions": {
+          "English/ASCII": 1
+        },
+        "classes": {}
+      }
+    },
+    "zh-CN": {
+      "overall": {
+        "English/ASCII": 8
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 4
+        },
+        "variables": {
+          "English/ASCII": 3
+        },
+        "literals": {},
+        "comments": {},
+        "docstrings": {},
+        "functions": {
+          "English/ASCII": 1
+        },
+        "classes": {}
+      }
+    },
+    "hi": {
+      "overall": {
+        "English/ASCII": 8
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 4
+        },
+        "variables": {
+          "English/ASCII": 3
+        },
+        "literals": {},
+        "comments": {},
+        "docstrings": {},
+        "functions": {
+          "English/ASCII": 1
+        },
+        "classes": {}
+      }
+    },
+    "es": {
+      "overall": {
+        "English/ASCII": 8
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 4
+        },
+        "variables": {
+          "English/ASCII": 3
+        },
+        "literals": {},
+        "comments": {},
+        "docstrings": {},
+        "functions": {
+          "English/ASCII": 1
+        },
+        "classes": {}
+      }
+    },
+    "ta": {
+      "overall": {
+        "English/ASCII": 8
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 4
+        },
+        "variables": {
+          "English/ASCII": 3
+        },
+        "literals": {},
+        "comments": {},
+        "docstrings": {},
+        "functions": {
+          "English/ASCII": 1
+        },
+        "classes": {}
+      }
+    }
+  }
+}

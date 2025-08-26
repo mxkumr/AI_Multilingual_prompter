@@ -1,0 +1,7 @@
+{
+    "en": "def copy_bytes(dest, src, n):\n    dest[:n] = src[:n]",
+    "zh-CN": "def copy_bytes(target, source, count):\n    target[:count] = source[:count]",
+    "hi": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]",
+    "es": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]",
+    "ta": "def copy_memory(dest, src, count):\n    dest[:count] = src[:count]"
+}

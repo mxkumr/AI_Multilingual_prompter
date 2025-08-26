@@ -1,0 +1,18 @@
+============================================================
+PYTHON AST ANALYSIS SUMMARY REPORT
+============================================================
+
+Total languages analyzed: 1
+Languages with valid code: 1
+Languages with parsing errors: 0
+
+PER-LANGUAGE SUMMARY:
+----------------------------------------
+
+EN:
+  Functions: 1
+  Classes: 0
+  Imports: 0
+  Variables: 7
+  Function calls: 7
+  Function names: calculator
