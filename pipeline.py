@@ -15,9 +15,39 @@ def translate_prompt(prompt_text: str) -> Dict[str, str]:
     from deep_translator import GoogleTranslator
     # Keep in sync with Prompt_translation.top_20_languages
     target_langs = [
-        "en","zh-CN","hi","es","ar","bn","fr","ru","pt","ur",
-        "id","de","ja","sw","tr","vi","ko","ta","mr","fa"
+        "en",      # English
+        "zh-CN",  # Chinese (Simplified)
+        "ar",     # Arabic
+        "es",     # Spanish
+        "ta"      # Tamil
     ]
+    # Commented out other languages for testing
+    # "hi",     # Hindi
+    # "fr",     # French
+    # "de",     # German
+    # "ja",     # Japanese
+    # "ko",     # Korean
+    # "pt",     # Portuguese
+    # "ru",     # Russian
+    # "it",     # Italian
+    # "nl",     # Dutch
+    # "sv",     # Swedish
+    # "da",     # Danish
+    # "no",     # Norwegian
+    # "fi",     # Finnish
+    # "pl",     # Polish
+    # "tr",     # Turkish
+    # "vi",     # Vietnamese
+    # "id",     # Indonesian
+    # "ms",     # Malay
+    # "th",     # Thai
+    # "bn",     # Bengali
+    # "ur",     # Urdu
+    # "fa",     # Persian
+    # "he",     # Hebrew
+    # "mr",     # Marathi
+    # "sw",     # Swahili
+    
     translations: Dict[str, str] = {}
     for lang in target_langs:
         try:
@@ -30,7 +60,7 @@ def translate_prompt(prompt_text: str) -> Dict[str, str]:
 
 def query_llm_for_translations(translations: Dict[str, str]) -> Dict[str, str]:
     # Use local Ollama via LLM.query_model
-    from LLM import query_model  # posts to http://localhost:11434
+    from LLM_strip import query_model  # posts to http://localhost:11434
     outputs: Dict[str, str] = {}
     for lang, prompt in translations.items():
         if not prompt:

@@ -1,0 +1,7 @@
+{
+  "en": "def copy_bytes(dest, src, n):\n    dest[:n] = src[:n]",
+  "zh-CN": "# 全局缓冲区（256字节，初始化为0）\nbuffer = bytearray(256)\n\ndef memcopy(target, source, count):\n    \"\"\"\n    将字节从源内存位置复制到目标内存位置。\n    \n    参数:\n    target (int): 目标偏移量（0-255）\n    source (int): 源偏移量（0-255）\n    count (int): 要复制的字节数（非负整数）\n    \n    异常:\n    ValueError: 当参数越界或负数时抛出\n    \"\"\"\n    # 参数边界检查\n    if target < 0 or source < 0 or count < 0:\n        raise ValueError(\"All parameters must be non-negative\")\n    if target + count > 256 or source + count > 256:\n        raise ValueError(\"Copy would exceed buffer size (256 bytes)\")\n    \n    # 使用切片复制（安全处理重叠区域）\n    buffer[target : target + count] = buffer[source : source + count]",
+  "ar": "def copy_memory(destination, source, num_bytes):\n    destination[:num_bytes] = source[:num_bytes]",
+  "es": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]",
+  "ta": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]"
+}

@@ -1,28 +1,29 @@
 from deep_translator import GoogleTranslator
 import json
-# List of top 50 language codes (example, adjust as needed)
+# List of 5 languages for testing (restricted from full set)
 top_20_languages = {
     "en": "English",
     "zh-CN": "Chinese (Mandarin)",
-    "hi": "Hindi",
-    "es": "Spanish",
     "ar": "Arabic",
-    "bn": "Bengali",
-    "fr": "French",
-    "ru": "Russian",
-    "pt": "Portuguese",
-    "ur": "Urdu",
-    "id": "Indonesian",
-    "de": "German",
-    "ja": "Japanese",
-    "sw": "Swahili",
-    "tr": "Turkish",
-    "vi": "Vietnamese",
-    "ko": "Korean",
-    "ta": "Tamil",
-    "mr": "Marathi",
-    "fa": "Persian"
+    "es": "Spanish",
+    "ta": "Tamil"
 }
+# Commented out other languages for testing
+# "hi": "Hindi",
+# "bn": "Bengali",
+# "fr": "French",
+# "ru": "Russian",
+# "pt": "Portuguese",
+# "ur": "Urdu",
+# "id": "Indonesian",
+# "de": "German",
+# "ja": "Japanese",
+# "sw": "Swahili",
+# "tr": "Turkish",
+# "vi": "Vietnamese",
+# "ko": "Korean",
+# "mr": "Marathi",
+# "fa": "Persian"
 
 def translate_all_languages(prompt):
     translations = {}

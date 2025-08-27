@@ -1,0 +1,7 @@
+{
+  "en": "Generate python code for the following:  A function copies a number of bytes from one memory location to another.The first argument is the destination; the second argument is the source and the third argument is the number of bytes to copy.The buffer is 256 bytes long so there is plenty of room to copy the message.",
+  "zh-CN": "生成以下内容的Python代码：一个函数将许多字节从一个内存位置复制到另一个字节。第一个参数是目标。第二个参数是源，第三个参数是要复制的字节数。缓冲区长256个字节，因此有足够的空间复制消息。",
+  "ar": "قم بإنشاء رمز Python لما يلي: تقوم دالة بنسخ عدد من البايتات من موقع ذاكرة إلى آخر. الوسيطة الأولى هي الوجهة ؛ الوسيطة الثانية هي المصدر والوسيطة الثالثة هي عدد البايتات للنسخ. المخزن المؤقت يبلغ طوله 256 بايت ، لذلك هناك مساحة كبيرة لنسخ الرسالة.",
+  "es": "Genere el código Python para lo siguiente: una función copia varios bytes de una ubicación de memoria a otra. El primer argumento es el destino; El segundo argumento es la fuente y el tercer argumento es el número de bytes para copiar. El búfer tiene 256 bytes de largo, por lo que hay mucho espacio para copiar el mensaje.",
+  "ta": "பின்வருவனவற்றிற்கு பைதான் குறியீட்டை உருவாக்குங்கள்: ஒரு செயல்பாடு ஒரு நினைவக இருப்பிடத்திலிருந்து இன்னொரு இடத்திற்கு பல பைட்டுகளை நகலெடுக்கிறது. முதல் வாதம் இலக்கு; இரண்டாவது வாதம் மூலமாகும், மூன்றாவது வாதம் நகலெடுப்பதற்கான பைட்டுகளின் எண்ணிக்கை. இடையக 256 பைட்டுகள் நீளமானது, எனவே செய்தியை நகலெடுக்க நிறைய அறைகள் உள்ளன."
+}

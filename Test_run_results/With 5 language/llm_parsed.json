@@ -4,7 +4,7 @@
     "en": {
       "success": true,
       "language": "python",
-      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\en.py",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_4fkq5bhk\\en.py",
       "elements": {
         "identifiers": [
           "copy_bytes",
@@ -29,49 +29,68 @@
     "zh-CN": {
       "success": true,
       "language": "python",
-      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\zh-CN.py",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_4fkq5bhk\\zh-CN.py",
       "elements": {
         "identifiers": [
-          "copy_bytes",
+          "ValueError",
+          "buffer",
+          "bytearray",
           "count",
+          "memcopy",
           "source",
           "target"
         ],
-        "literals": [],
+        "literals": [
+          "256",
+          "0",
+          "0",
+          "0",
+          "All parameters must be non-negative",
+          "256",
+          "256",
+          "Copy would exceed buffer size (256 bytes)"
+        ],
         "variables": [
+          "buffer",
           "count",
           "source",
           "target"
         ],
-        "comments": [],
-        "docstrings": [],
+        "comments": [
+          "全局缓冲区（256字节，初始化为0）",
+          "参数边界检查",
+          "使用切片复制（安全处理重叠区域）"
+        ],
+        "docstrings": [
+          "\r\n    将字节从源内存位置复制到目标内存位置。\r\n    \r\n    参数:\r\n    target (int): 目标偏移量（0-255）\r\n    source (int): 源偏移量（0-255）\r\n    count (int): 要复制的字节数（非负整数）\r\n    \r\n    异常:\r\n    ValueError: 当参数越界或负数时抛出\r\n    "
+        ],
         "functions": [
-          "copy_bytes"
+          "memcopy"
         ],
         "classes": []
       }
     },
-    "hi": {
+    "ar": {
       "success": true,
       "language": "python",
-      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\hi.py",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_4fkq5bhk\\ar.py",
       "elements": {
         "identifiers": [
-          "copy_bytes",
-          "count",
-          "dest",
-          "src"
+          "copy_memory",
+          "destination",
+          "num_bytes",
+          "source"
         ],
         "literals": [],
         "variables": [
-          "count",
-          "dest",
-          "src"
+          "destination",
+          "num_bytes",
+          "source"
         ],
         "comments": [],
         "docstrings": [],
         "functions": [
-          "copy_bytes"
+          "copy_memory"
         ],
         "classes": []
       }
@@ -79,7 +98,7 @@
     "es": {
       "success": true,
       "language": "python",
-      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\es.py",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_4fkq5bhk\\es.py",
       "elements": {
         "identifiers": [
           "copy_bytes",
@@ -104,24 +123,24 @@
     "ta": {
       "success": true,
       "language": "python",
-      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_5daqu42m\\ta.py",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_4fkq5bhk\\ta.py",
       "elements": {
         "identifiers": [
-          "copy_memory",
+          "copy_bytes",
           "count",
-          "dest",
-          "src"
+          "destination",
+          "source"
         ],
         "literals": [],
         "variables": [
           "count",
-          "dest",
-          "src"
+          "destination",
+          "source"
         ],
         "comments": [],
         "docstrings": [],
         "functions": [
-          "copy_memory"
+          "copy_bytes"
         ],
         "classes": []
       }

@@ -22,25 +22,32 @@
     },
     "zh-CN": {
       "overall": {
-        "English/ASCII": 8
+        "English/ASCII": 20,
+        "CJK Unified Ideographs": 4
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 4
+          "English/ASCII": 7
         },
         "variables": {
-          "English/ASCII": 3
+          "English/ASCII": 4
         },
-        "literals": {},
-        "comments": {},
-        "docstrings": {},
+        "literals": {
+          "English/ASCII": 8
+        },
+        "comments": {
+          "CJK Unified Ideographs": 3
+        },
+        "docstrings": {
+          "CJK Unified Ideographs": 1
+        },
         "functions": {
           "English/ASCII": 1
         },
         "classes": {}
       }
     },
-    "hi": {
+    "ar": {
       "overall": {
         "English/ASCII": 8
       },
