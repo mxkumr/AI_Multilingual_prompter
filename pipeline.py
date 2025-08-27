@@ -16,38 +16,27 @@ def translate_prompt(prompt_text: str) -> Dict[str, str]:
     # Keep in sync with Prompt_translation.top_20_languages
     target_langs = [
         "en",      # English
-        "zh-CN",  # Chinese (Simplified)
-        "ar",     # Arabic
+        "zh-CN",  # Chinese (Mandarin)
+        "hi",     # Hindi
         "es",     # Spanish
-        "ta"      # Tamil
+        "ar",     # Arabic
+        "bn",     # Bengali
+        "fr",     # French
+        "ru",     # Russian
+        "pt",     # Portuguese
+        "ur",     # Urdu
+        "id",     # Indonesian
+        "de",     # German
+        "ja",     # Japanese
+        "sw",     # Swahili
+        "tr",     # Turkish
+        "vi",     # Vietnamese
+        "ko",     # Korean
+        "ta",     # Tamil
+        "mr",     # Marathi
+        "fa"      # Persian
     ]
-    # Commented out other languages for testing
-    # "hi",     # Hindi
-    # "fr",     # French
-    # "de",     # German
-    # "ja",     # Japanese
-    # "ko",     # Korean
-    # "pt",     # Portuguese
-    # "ru",     # Russian
-    # "it",     # Italian
-    # "nl",     # Dutch
-    # "sv",     # Swedish
-    # "da",     # Danish
-    # "no",     # Norwegian
-    # "fi",     # Finnish
-    # "pl",     # Polish
-    # "tr",     # Turkish
-    # "vi",     # Vietnamese
-    # "id",     # Indonesian
-    # "ms",     # Malay
-    # "th",     # Thai
-    # "bn",     # Bengali
-    # "ur",     # Urdu
-    # "fa",     # Persian
-    # "he",     # Hebrew
-    # "mr",     # Marathi
-    # "sw",     # Swahili
-    
+
     translations: Dict[str, str] = {}
     for lang in target_langs:
         try:

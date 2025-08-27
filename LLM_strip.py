@@ -4,7 +4,7 @@ import time
 import re
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "qwen3:30b-a3b"  # Change to your model name if needed
+MODEL = "deepseek-r1"  # Change to your model name if needed
 
 
 def extract_code_from_response(response_text):

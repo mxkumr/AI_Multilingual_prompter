@@ -1,0 +1,707 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\en.py",
+      "elements": {
+        "identifiers": [
+          "dest",
+          "memcopy",
+          "n",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "n",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "memcopy"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "min",
+          "n",
+          "source",
+          "target"
+        ],
+        "literals": [],
+        "variables": [
+          "n",
+          "source",
+          "target"
+        ],
+        "comments": [
+          "确保n不超过缓冲区实际长度（安全防护）",
+          "使用切片操作高效复制"
+        ],
+        "docstrings": [
+          "\r\n    将源缓冲区的前n个字节复制到目标缓冲区。\r\n    \r\n    参数:\r\n    target (bytearray): 目标缓冲区（长度至少为256）\r\n    source (bytearray): 源缓冲区（长度至少为256）\r\n    n (int): 要复制的字节数（不超过256）\r\n    \r\n    注意: 函数会自动处理边界（n不超过缓冲区长度）\r\n    "
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\hi.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [
+          "\r\n    Copies 'count' bytes from the source buffer to the destination buffer.\r\n    \r\n    Args:\r\n        dest (bytearray): Destination buffer (must be mutable, e.g., bytearray).\r\n        src (bytes): Source buffer (can be bytes or bytearray).\r\n        count (int): Number of bytes to copy.\r\n    "
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\es.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\ar.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [
+          "\r\n    نسخ عدد من البايتات من المصدر إلى الوجهة.\r\n    \r\n    الوسيطات:\r\n    dest (bytearray): الوجهة التي سيتم نسخ البايتات إليها.\r\n    src (bytearray): المصدر الذي سيتم نسخ البايتات منه.\r\n    count (int): عدد البايتات المراد نسخها.\r\n    "
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\bn.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [
+          "\r\n    Copies num_bytes from src to dest.\r\n    \r\n    Args:\r\n        dest (bytearray): Destination buffer (must be a bytearray of sufficient size)\r\n        src (bytes or bytearray): Source buffer\r\n        num_bytes (int): Number of bytes to copy (<= 256)\r\n    "
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\fr.py",
+      "elements": {
+        "identifiers": [
+          "dest",
+          "memcopy",
+          "n",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "n",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [
+          "\r\n    Copie n octets de la source vers la destination.\r\n    \r\n    Args:\r\n        dest (bytearray): Buffer de destination (256 octets minimum).\r\n        src (bytes or bytearray): Données source à copier.\r\n        n (int): Nombre d'octets à copier (doit être <= 256).\r\n    "
+        ],
+        "functions": [
+          "memcopy"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\ru.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "dest",
+          "n",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "n",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [
+          "\r\n    Копирует n байтов из источника (src) в назначение (dest).\r\n    \r\n    Параметры:\r\n    dest (bytearray): Буфер назначения (должен быть достаточно большим).\r\n    src (bytearray): Буфер источника.\r\n    n (int): Количество байтов для копирования.\r\n    "
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\pt.py",
+      "elements": {
+        "identifiers": [
+          "dest",
+          "memcopy",
+          "n",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "n",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [
+          "\r\n    Copia n bytes da fonte (src) para o destino (dest).\r\n    \r\n    Parâmetros:\r\n    dest (bytearray): Buffer de destino (deve ter tamanho >= n)\r\n    src (bytes ou bytearray): Buffer de origem\r\n    n (int): Número de bytes a copiar\r\n    "
+        ],
+        "functions": [
+          "memcopy"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\ur.py",
+      "elements": {
+        "identifiers": [
+          "Buffer",
+          "Byte",
+          "Copy",
+          "Destination",
+          "EBX",
+          "ECX",
+          "EDX",
+          "First",
+          "Load",
+          "Note",
+          "Parameters",
+          "Second",
+          "Segment",
+          "Source",
+          "The",
+          "Third",
+          "This",
+          "address",
+          "are",
+          "argument",
+          "assumed",
+          "assumes",
+          "be",
+          "bit",
+          "both",
+          "buffer",
+          "byte",
+          "bytes",
+          "calling",
+          "cdecl",
+          "code",
+          "context",
+          "convention",
+          "copies",
+          "copy",
+          "correct",
+          "count",
+          "destination",
+          "each",
+          "ebp",
+          "ecx",
+          "edi",
+          "esi",
+          "esp",
+          "exceed",
+          "for",
+          "guaranteed",
+          "incrementing",
+          "iteration",
+          "left",
+          "long",
+          "memcpy",
+          "memory",
+          "mov",
+          "movsb",
+          "must",
+          "number",
+          "of",
+          "operations",
+          "parameters",
+          "point",
+          "pointers",
+          "pop",
+          "properly",
+          "push",
+          "pushed",
+          "registers",
+          "rep",
+          "ret",
+          "right",
+          "safe",
+          "segments",
+          "size",
+          "so",
+          "source",
+          "standard",
+          "times",
+          "to",
+          "valid",
+          "where",
+          "will"
+        ],
+        "literals": [
+          "256",
+          "8",
+          "12",
+          "16",
+          "8",
+          "12",
+          "16",
+          "``",
+          "32",
+          "`count`",
+          "`source`",
+          "`destination`",
+          "256",
+          "`ecx`",
+          "`rep movsb`",
+          "`[esi]`",
+          "`[edi]`",
+          "`DS`",
+          "`ES`"
+        ],
+        "variables": [
+          "Buffer",
+          "Byte",
+          "Copy",
+          "Destination",
+          "EBX",
+          "ECX",
+          "EDX",
+          "First",
+          "Load",
+          "Note",
+          "Parameters",
+          "Second",
+          "Segment",
+          "Source",
+          "The",
+          "Third",
+          "This",
+          "address",
+          "are",
+          "argument",
+          "assumed",
+          "assumes",
+          "be",
+          "bit",
+          "both",
+          "buffer",
+          "byte",
+          "bytes",
+          "calling",
+          "cdecl",
+          "code",
+          "context",
+          "convention",
+          "copies",
+          "copy",
+          "correct",
+          "count",
+          "destination",
+          "each",
+          "ebp",
+          "ecx",
+          "edi",
+          "esi",
+          "esp",
+          "exceed",
+          "for",
+          "guaranteed",
+          "incrementing",
+          "iteration",
+          "long",
+          "memcpy",
+          "memory",
+          "mov",
+          "movsb",
+          "must",
+          "number",
+          "of",
+          "operations",
+          "parameters",
+          "point",
+          "pointers",
+          "pop",
+          "properly",
+          "push",
+          "pushed",
+          "rep",
+          "ret",
+          "right",
+          "safe",
+          "size",
+          "so",
+          "source",
+          "standard",
+          "times",
+          "to",
+          "valid",
+          "where",
+          "will"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\id.py",
+      "elements": {
+        "identifiers": [
+          "count",
+          "dest",
+          "memcpy",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [
+          "Salin maksimal 'count' byte dari sumber ke tujuan"
+        ],
+        "docstrings": [
+          "\r\n    Menyalin sejumlah byte dari sumber ke tujuan.\r\n    \r\n    Args:\r\n        dest (bytearray): Buffer tujuan berukuran minimal 256 byte.\r\n        src (bytes or bytearray): Sumber data yang akan disalin.\r\n        count (int): Jumlah byte yang akan disalin.\r\n    "
+        ],
+        "functions": [
+          "memcpy"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\de.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "dest",
+          "n",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "n",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\ja.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "sw": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\sw.py",
+      "elements": {
+        "identifiers": [
+          "bytearray",
+          "copy_buffer",
+          "count",
+          "dest",
+          "source",
+          "start"
+        ],
+        "literals": [
+          "256"
+        ],
+        "variables": [
+          "count",
+          "dest",
+          "source",
+          "start"
+        ],
+        "comments": [
+          "Initialize 256-byte destination buffer",
+          "Copy 'count' bytes from source"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_buffer"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\tr.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\vi.py",
+      "elements": {
+        "identifiers": [
+          "copy_memory",
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [
+          "\r\n    Sao chép num_bytes từ nguồn (src) sang đích (dest).\r\n    \r\n    Args:\r\n        dest (bytearray): Bộ đệm đích (phải là bytearray).\r\n        src (bytearray): Bộ đệm nguồn (phải là bytearray).\r\n        num_bytes (int): Số byte cần sao chép.\r\n    "
+        ],
+        "functions": [
+          "copy_memory"
+        ],
+        "classes": []
+      }
+    },
+    "ko": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\ko.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ta": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\ta.py",
+      "elements": {
+        "identifiers": [
+          "count",
+          "destination",
+          "memcpy",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "memcpy"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\mr.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "fa": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_y3vgain1\\fa.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    }
+  }
+}
