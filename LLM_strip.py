@@ -4,7 +4,7 @@ import time
 import re
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "deepseek-r1"  # Change to your model name if needed
+MODEL = "qwen3:30b-a3b"  # Change to your model name if needed
 
 
 def extract_code_from_response(response_text):
@@ -34,7 +34,8 @@ def query_model(prompt, model=MODEL):
         "stream": False,
         "enable_thinking": False,
         "thinking": False,
-        "think": False
+        "think": False,
+        # Hint Ollama to use GPU where available (offload as many layers as possible)
     }
     response = requests.post(OLLAMA_URL, json=payload)
     response.raise_for_status()

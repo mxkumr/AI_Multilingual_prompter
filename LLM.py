@@ -23,7 +23,11 @@ def query_model(prompt=None, model=MODEL, messages=None, tokenizer=None):
         "prompt": prompt_to_send,
         "system": "/no_think You are a code generator. Always respond with only the code in a Python fenced code block. No explanation. No thinking steps.",
         "stream": False,
-        "enable_thinking": False
+        "enable_thinking": False,
+        # Hint Ollama to use GPU where available (offload as many layers as possible)
+       # "options": {
+        #    "num_gpu": 999
+        #}
     }
     response = requests.post(OLLAMA_URL, json=payload)
     response.raise_for_status()
