@@ -1,0 +1,1271 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\en.py",
+      "elements": {
+        "identifiers": [
+          "IndexError",
+          "TypeError",
+          "_getbyteskind",
+          "array",
+          "copy_bytes",
+          "copybytes",
+          "count",
+          "dest",
+          "frombytes",
+          "isinstance",
+          "src"
+        ],
+        "literals": [
+          "B",
+          "Dest must be an array of bytes",
+          "B",
+          "Src must be an array of bytes",
+          "Count exceeds number of elements in source buffer",
+          "B",
+          "B",
+          "0",
+          "256",
+          "b'A\\x1b\\x00",
+          "Bytes copied successfully"
+        ],
+        "variables": [
+          "_getbyteskind",
+          "array",
+          "copybytes",
+          "count",
+          "dest",
+          "frombytes",
+          "src"
+        ],
+        "comments": [
+          "Example usage:",
+          "Destination buffer initialized with 256 zeros",
+          "Copy some bytes",
+          "Add sample data to source buffer",
+          "Copy from source to destination"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "IndexError",
+          "ValueError",
+          "array",
+          "copyof",
+          "count",
+          "destination",
+          "e",
+          "isinstance",
+          "memory_copy_bytes",
+          "source"
+        ],
+        "literals": [
+          "Source and destination must be array.array instances.",
+          "Not enough bytes available in source or destination.",
+          "0",
+          "f\"Error: {e}"
+        ],
+        "variables": [
+          "ValueError",
+          "array",
+          "copyof",
+          "count",
+          "destination",
+          "e",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [
+          "将count个字节从source复制到destination."
+        ],
+        "functions": [
+          "memory_copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\hi.py",
+      "elements": {
+        "identifiers": [
+          "Exception",
+          "ValueError",
+          "copy_bytes",
+          "count",
+          "dest",
+          "destination",
+          "e",
+          "mmap",
+          "mmap_buf",
+          "pack",
+          "packed_dest",
+          "packed_source",
+          "source",
+          "src",
+          "struct"
+        ],
+        "literals": [
+          "0",
+          "0",
+          "0",
+          "256",
+          "Invalid byte address",
+          ">I",
+          ">I",
+          "f\"Failed to copy bytes. Error: {e}"
+        ],
+        "variables": [
+          "Exception",
+          "count",
+          "dest",
+          "destination",
+          "e",
+          "mmap",
+          "mmap_buf",
+          "pack",
+          "packed_dest",
+          "packed_source",
+          "source",
+          "src",
+          "struct"
+        ],
+        "comments": [
+          "Convert addresses to four-byte big-endian integers",
+          "Copy the bytes from source buffer to destination buffer"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\es.py",
+      "elements": {
+        "identifiers": [
+          "TextIOBase",
+          "TypeError",
+          "ValueError",
+          "copy",
+          "copy_bytes",
+          "dest",
+          "e",
+          "format",
+          "functools",
+          "i",
+          "io",
+          "isinstance",
+          "maxsize",
+          "memoize",
+          "n",
+          "read",
+          "seek",
+          "src",
+          "wraps",
+          "write"
+        ],
+        "literals": [
+          "Destination must be a textio.TextIOBase instance.",
+          "Source must be a textio.TextIOBase instance.",
+          "0",
+          "Number of bytes to copy must be non-negative.",
+          "0",
+          "0",
+          "1",
+          "An error occurred during copying: {}",
+          "0"
+        ],
+        "variables": [
+          "TextIOBase",
+          "TypeError",
+          "ValueError",
+          "copy",
+          "dest",
+          "e",
+          "format",
+          "functools",
+          "i",
+          "io",
+          "maxsize",
+          "memoize",
+          "n",
+          "read",
+          "seek",
+          "src",
+          "wraps",
+          "write"
+        ],
+        "comments": [
+          "Ensure destination is at position 0"
+        ],
+        "docstrings": [
+          "\r\n    Copy several bytes from source to destination.\r\n\r\n    Args:\r\n        dest (textio.TextIOBase): Destination for copied bytes.\r\n        src (textio.TextIOBase): Source of bytes to copy.\r\n        n (int): Number of bytes to copy.\r\n\r\n    Returns:\r\n        int: Number of bytes actually copied.\r\n\r\n    Raises:\r\n        TypeError: If dest or src is not a textio.TextIOBase instance.\r\n        ValueError: If n is not an integer or less than 0.\r\n    "
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\ar.py",
+      "elements": {
+        "identifiers": [
+          "byref",
+          "copy_bytes",
+          "ctypes",
+          "destination",
+          "length",
+          "memmove",
+          "offset",
+          "self",
+          "source"
+        ],
+        "literals": [
+          "0"
+        ],
+        "variables": [
+          "byref",
+          "ctypes",
+          "destination",
+          "length",
+          "memmove",
+          "offset",
+          "self",
+          "source"
+        ],
+        "comments": [
+          "获取目标窗口的句柄",
+          "示例使用方法：",
+          "result = copy_bytes(None, b\"Original\", 5)  # 复制字节0-4到result中"
+        ],
+        "docstrings": [
+          "\r\n    Clipboard 复制一定数量的字节到内存位置。\r\n    \r\n    Args:\r\n        self: 窗体对象\r\n        offset (int): 目标内存的位置偏移量\r\n        source (ctypes.c_char_p): 源内容\r\n        length (int): 要复制的字节数\r\n    "
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\bn.py",
+      "elements": {
+        "identifiers": [
+          "ADD",
+          "Address",
+          "Buff",
+          "Destination_Address",
+          "Dst_Address",
+          "RLC",
+          "Source_Address",
+          "Src_Address",
+          "_MOV",
+          "c_uint32",
+          "copy_memory",
+          "ctypes",
+          "ctypesd",
+          "ctypesr",
+          "dna",
+          "dst",
+          "dst_address",
+          "i",
+          "naa",
+          "src",
+          "src_address",
+          "src_ptr",
+          "val"
+        ],
+        "literals": [
+          "1",
+          "0",
+          "0x01",
+          "1"
+        ],
+        "variables": [
+          "Address",
+          "Buff",
+          "Destination_Address",
+          "Dst_Address",
+          "RLC",
+          "Source_Address",
+          "Src_Address",
+          "c_uint32",
+          "copy_memory",
+          "ctypes",
+          "ctypesd",
+          "ctypesr",
+          "dna",
+          "dst",
+          "dst_address",
+          "i",
+          "naa",
+          "src",
+          "src_address",
+          "src_ptr",
+          "val"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "_MOV"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\fr.py",
+      "elements": {
+        "identifiers": [
+          "IndexError",
+          "TypeError",
+          "ValueError",
+          "buffer",
+          "buffer_size",
+          "byte",
+          "copy_bytes",
+          "dest_addr",
+          "dest_index",
+          "e",
+          "i",
+          "isinstance",
+          "max",
+          "max_bytes_to_copy",
+          "min",
+          "n",
+          "source_index",
+          "src_addr"
+        ],
+        "literals": [
+          "256",
+          "256",
+          "0",
+          "1",
+          "0",
+          "Aucun octet à copier",
+          " Les adresses source et destination doivent être des entiers",
+          "0",
+          "1",
+          "2",
+          "f\"Le conteneur à l'index {source_index} n'est pas un octet",
+          "f\"Erreur lors de la copie : {e}",
+          "L'source est hors du tableau",
+          "Copie réussie avec",
+          "octets"
+        ],
+        "variables": [
+          "IndexError",
+          "buffer",
+          "buffer_size",
+          "byte",
+          "dest_addr",
+          "dest_index",
+          "e",
+          "i",
+          "max_bytes_to_copy",
+          "n",
+          "source_index",
+          "src_addr"
+        ],
+        "comments": [
+          "Initialisation d'un tableau de 256 zéros pour le tampon",
+          "Calcul du nombre d'octets à copier",
+          "Vérification des bornes d'indices",
+          "Augmentation du tableau si nécessaire"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\ru.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "array",
+          "c_uint",
+          "cast",
+          "cdll",
+          "copy_bytes",
+          "count",
+          "ctypes",
+          "decode",
+          "dest",
+          "dest_arr",
+          "dest_ptr",
+          "dsrc",
+          "len_dest",
+          "len_src",
+          "libc",
+          "max_copy",
+          "memcpy",
+          "min",
+          "src",
+          "src_arr"
+        ],
+        "literals": [
+          "Dest and source must be non-None",
+          "0",
+          "Q",
+          "Q",
+          "utf-8",
+          "stdi"
+        ],
+        "variables": [
+          "array",
+          "c_uint",
+          "cast",
+          "count",
+          "ctypes",
+          "dest",
+          "dest_arr",
+          "dest_ptr",
+          "dsrc",
+          "len_dest",
+          "len_src",
+          "libc",
+          "max_copy",
+          "memcpy",
+          "src",
+          "src_arr"
+        ],
+        "comments": [
+          "Ensure that the arrays are treated as C contiguous",
+          "Get pointers compatible with ctypes",
+          "Note: This is a simplification; actual casting depends on data type",
+          "Assuming stdi is the shared object containing memcpy"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\pt.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "all",
+          "buffer_size",
+          "copy_bytes",
+          "data_to_copy",
+          "dest_address",
+          "end",
+          "memory",
+          "num_bytes",
+          "source_address",
+          "src_address",
+          "start"
+        ],
+        "literals": [
+          "All arguments are required",
+          "256",
+          "0",
+          "0",
+          "Addresses out of buffer range",
+          "1",
+          "Attempting to copy beyond buffer size",
+          "1"
+        ],
+        "variables": [
+          "buffer_size",
+          "data_to_copy",
+          "dest_address",
+          "end",
+          "memory",
+          "num_bytes",
+          "source_address",
+          "src_address",
+          "start"
+        ],
+        "comments": [
+          "Validação das addresses",
+          "Calculando o endereço do final dos bytes a serem copiados",
+          "Verificando se a endereço é dentro do buffer",
+          "Copiando os bytes"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\ur.py",
+      "elements": {
+        "identifiers": [
+          "Check",
+          "Copy",
+          "Destination",
+          "Use",
+          "buf",
+          "buffer",
+          "char",
+          "copy",
+          "copy_bytes",
+          "destination",
+          "direct",
+          "dst",
+          "enough",
+          "i",
+          "if",
+          "instead",
+          "main",
+          "memcpy",
+          "memory",
+          "n",
+          "num_bytes",
+          "of",
+          "return",
+          "s",
+          "size",
+          "sizeof",
+          "source",
+          "space",
+          "src",
+          "the",
+          "there",
+          "twice",
+          "unsigned",
+          "void"
+        ],
+        "literals": [
+          "0",
+          "Error: Invalid source or destination address.\\n",
+          "Error: Memory allocation failed.\\n",
+          "Error: Destination buffer does not have enough space for %zu bytes.\\n",
+          "0x01",
+          "0x02",
+          "0x03",
+          "0x04",
+          "10",
+          "2",
+          "0",
+          "0",
+          "%x",
+          "0",
+          "``"
+        ],
+        "variables": [
+          "Check",
+          "Copy",
+          "Destination",
+          "Use",
+          "buf",
+          "buffer",
+          "char",
+          "copy",
+          "destination",
+          "direct",
+          "dst",
+          "enough",
+          "i",
+          "instead",
+          "memcpy",
+          "memory",
+          "n",
+          "num_bytes",
+          "of",
+          "return",
+          "s",
+          "size",
+          "source",
+          "space",
+          "src",
+          "the",
+          "there",
+          "twice",
+          "unsigned",
+          "void"
+        ],
+        "comments": [
+          "include <stdio.h>",
+          "include <stdlib.h>"
+        ],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\id.py",
+      "elements": {
+        "identifiers": [
+          "Catatan",
+          "Exception",
+          "Fungsi",
+          "Memastikan",
+          "Mengembalikan",
+          "Menggunakan",
+          "OverflowError",
+          "RuntimeError",
+          "True",
+          "Used",
+          "ValueError",
+          "adalah",
+          "bahwa",
+          "batas",
+          "berhasil",
+          "buffer",
+          "byte",
+          "copy_bytes",
+          "count",
+          "dalam",
+          "dan",
+          "dari",
+          "dest",
+          "digunakan",
+          "e",
+          "error",
+          "gagal",
+          "ini",
+          "isinstance",
+          "jika",
+          "jumlah",
+          "kedua",
+          "max_copy",
+          "melebihi",
+          "mengasumsikan",
+          "menunjukkan",
+          "min",
+          "objek",
+          "raise",
+          "saat",
+          "setelah",
+          "src",
+          "srcUsed",
+          "sudah",
+          "sumber",
+          "tidak",
+          "untuk",
+          "yang"
+        ],
+        "literals": [
+          "0",
+          "Invalid count value",
+          "f\"Cannot copy {count} bytes due to buffer overflow (only {max_copy} can be copied safely)",
+          "f\"Failed to copy bytes: {e}",
+          "``",
+          "`dest`",
+          "`src`",
+          "`bytes`",
+          "`Used()`"
+        ],
+        "variables": [
+          "Catatan",
+          "Exception",
+          "Fungsi",
+          "Memastikan",
+          "Mengembalikan",
+          "Menggunakan",
+          "True",
+          "adalah",
+          "bahwa",
+          "batas",
+          "berhasil",
+          "buffer",
+          "byte",
+          "count",
+          "dalam",
+          "dan",
+          "dari",
+          "dest",
+          "digunakan",
+          "e",
+          "error",
+          "gagal",
+          "ini",
+          "jika",
+          "jumlah",
+          "kedua",
+          "max_copy",
+          "melebihi",
+          "mengasumsikan",
+          "menunjukkan",
+          "objek",
+          "raise",
+          "saat",
+          "setelah",
+          "src",
+          "sudah",
+          "sumber",
+          "tidak",
+          "untuk",
+          "yang"
+        ],
+        "comments": [
+          "Calculate available space in both buffers"
+        ],
+        "docstrings": [
+          "\r\n    Copier \"count\" bytes from \"src\" to \"dest\".\r\n\r\n    Parameter:\r\n        dest (bytes): destination buffer\r\n        src (bytes): source buffer\r\n        count (int): number of bytes to copy\r\n    "
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\de.py",
+      "elements": {
+        "identifiers": [
+          "Exception",
+          "all",
+          "buffer_size",
+          "bytes_to_read",
+          "chunk",
+          "copy_buffer",
+          "copy_bytes",
+          "count",
+          "current_dest_length",
+          "current_src_length",
+          "dest_file",
+          "dest_pos",
+          "destination",
+          "e",
+          "exists",
+          "fileno",
+          "fsync",
+          "i",
+          "min",
+          "open",
+          "os",
+          "path",
+          "read",
+          "source",
+          "src_chunk",
+          "src_file",
+          "src_pos",
+          "strip",
+          "tell",
+          "write"
+        ],
+        "literals": [
+          "f\"Error: One or both files '{source}' and/or '{destination}' do not exist",
+          "0",
+          "0",
+          "r+",
+          "r",
+          "256",
+          "rb",
+          "0",
+          "b'\\x00",
+          "rb",
+          "f\"Error during copy operation: {str(e)}",
+          "f\"copied {min(count, bytes_to_read)} bytes from '{source}' to '{destination}'. Remaining bytes in source: {(bytes_to_read - count) if count < bytes_to_read else 0} (excluding any copied data)",
+          "0"
+        ],
+        "variables": [
+          "Exception",
+          "buffer_size",
+          "bytes_to_read",
+          "chunk",
+          "copy_buffer",
+          "count",
+          "current_dest_length",
+          "current_src_length",
+          "dest_file",
+          "dest_pos",
+          "destination",
+          "e",
+          "exists",
+          "fileno",
+          "fsync",
+          "i",
+          "os",
+          "path",
+          "read",
+          "source",
+          "src_chunk",
+          "src_file",
+          "src_pos",
+          "strip",
+          "tell",
+          "write"
+        ],
+        "comments": [
+          "Copy only the part of source that hasn't been copied yet"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\ja.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "array",
+          "array_move",
+          "big",
+          "byteorder",
+          "copy_bytes",
+          "dest_buffer",
+          "dest_max",
+          "dest_offset",
+          "dest_type",
+          "element_size",
+          "element_type",
+          "endian",
+          "isinstance",
+          "max_bytes",
+          "min",
+          "new_buffer",
+          "num_bytes",
+          "num_elements",
+          "result_buffer",
+          "slice",
+          "source_buffer",
+          "source_type",
+          "src_max",
+          "src_type",
+          "typecode"
+        ],
+        "literals": [
+          "8",
+          "I",
+          "0",
+          "Number of bytes to copy exceeds available space in buffers",
+          "I",
+          ">I",
+          "<I",
+          ">Q",
+          "<Q",
+          "B",
+          ">b",
+          "<b",
+          ">q",
+          "<q",
+          "x",
+          "x"
+        ],
+        "variables": [
+          "array",
+          "big",
+          "byteorder",
+          "dest_buffer",
+          "dest_max",
+          "dest_offset",
+          "dest_type",
+          "element_size",
+          "element_type",
+          "endian",
+          "max_bytes",
+          "new_buffer",
+          "num_bytes",
+          "num_elements",
+          "result_buffer",
+          "slice",
+          "source_buffer",
+          "source_type",
+          "src_max",
+          "src_type",
+          "typecode"
+        ],
+        "comments": [
+          "Calculate maximum possible bytes that can be copied without overlapping",
+          "Determine the element type from the source buffer",
+          "Copy and move bytes for unsigned integer type",
+          "Copy and move bytes for signed integer type",
+          "Copy and move bytes for other types",
+          "Perform the byte copying using array_move"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "sw": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\sw.py",
+      "elements": {
+        "identifiers": [
+          "TextIOBase",
+          "TextIOWrapper",
+          "buffer_manager",
+          "io",
+          "mode",
+          "opener",
+          "text"
+        ],
+        "literals": [
+          "r",
+          "w"
+        ],
+        "variables": [
+          "TextIOBase",
+          "TextIOWrapper",
+          "io",
+          "mode",
+          "opener",
+          "text"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "buffer_manager"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\tr.py",
+      "elements": {
+        "identifiers": [
+          "IndexError",
+          "ValueError",
+          "_",
+          "copy_bytes",
+          "e",
+          "end_pos",
+          "i",
+          "isinstance",
+          "memory",
+          "num_bytes",
+          "source_address",
+          "target_address",
+          "value"
+        ],
+        "literals": [
+          "0x100000000",
+          "Buffer too small to copy all requested bytes",
+          "0",
+          "0x100",
+          "Memory content is outside valid byte range",
+          "f\"IndexError: {e}",
+          "0"
+        ],
+        "variables": [
+          "IndexError",
+          "_",
+          "e",
+          "end_pos",
+          "i",
+          "memory",
+          "num_bytes",
+          "source_address",
+          "target_address",
+          "value"
+        ],
+        "comments": [
+          "Calculate end position after copying",
+          "Maximum buffer size is 256 bytes (0x10000)",
+          "Reset the registers at destination to zero after copy operation"
+        ],
+        "docstrings": [
+          "\r\n    Copies a specified number of bytes from a source memory address to a target memory address.\r\n\r\n    Args:\r\n        target_address (int): The destination address where the data will be copied.\r\n        source_address (int): The source address containing the data to be copied.\r\n        num_bytes (int): The number of bytes to copy.\r\n\r\n    Raises:\r\n        IndexError: If the addresses are out of bounds or copying beyond buffer size\r\n    "
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\vi.py",
+      "elements": {
+        "identifiers": [
+          "array",
+          "bytes_to_write",
+          "copy_bytes",
+          "count",
+          "ctypes",
+          "data",
+          "dest_addr",
+          "dest_addr_int",
+          "min",
+          "src_addr1",
+          "src_addr1_int",
+          "src_addr2",
+          "src_addr2_int"
+        ],
+        "literals": [
+          "0",
+          "0x100",
+          "0",
+          "0x100",
+          "0",
+          "0x100",
+          "1",
+          "B",
+          "0",
+          "0x100",
+          "16",
+          "16",
+          "16",
+          "0x100",
+          "0",
+          "1",
+          "0",
+          "1",
+          "0"
+        ],
+        "variables": [
+          "array",
+          "bytes_to_write",
+          "count",
+          "ctypes",
+          "data",
+          "dest_addr",
+          "dest_addr_int",
+          "src_addr1",
+          "src_addr1_int",
+          "src_addr2",
+          "src_addr2_int"
+        ],
+        "comments": [
+          "Kiểm tra các addres có nằm trong 0-255 không",
+          "Tạo mảng unsigned byte để lưu trữ dữ liệu",
+          "Chuyển đổi các addres thành int đểammu nhanh",
+          "Tính số byte cần lưu trữ",
+          "Số byte có thể được lưu trữ ở vị trí đích",
+          "Kiểm tra xem số byte muốn lưu trữ có bịodi ngoài các addres đã được sử dụng không",
+          "Di chuyển dữ liệu từ nguồn đến đích",
+          "Ví dụ sử dụng:",
+          "copy_bytes(0x00, 0xFF, 0x83FFC45E, 4)"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ko": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\ko.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "c_uint",
+          "copy_bytes",
+          "count",
+          "ctypes",
+          "dest",
+          "dest_buffer",
+          "from_buffer",
+          "pdest",
+          "psrc",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "buffer",
+          "count",
+          "ctypes",
+          "dest",
+          "dest_buffer",
+          "pdest",
+          "psrc",
+          "src"
+        ],
+        "comments": [
+          "Example usage:",
+          "result = copy_bytes(0x7FF000000000, 0xFF0000000000, 4)"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ta": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\ta.py",
+      "elements": {
+        "identifiers": [
+          "first",
+          "pypit",
+          "repetitions",
+          "second"
+        ],
+        "literals": [
+          "*"
+        ],
+        "variables": [
+          "first",
+          "repetitions",
+          "second"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "pypit"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\mr.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "dst_base",
+          "dst_reg",
+          "end",
+          "equ",
+          "gpr1",
+          "loop_count",
+          "looped_copy",
+          "lsl",
+          "op256",
+          "r0",
+          "r1",
+          "short",
+          "src_base",
+          "src_length",
+          "src_reg",
+          "start",
+          "xor"
+        ],
+        "literals": [
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "A",
+          "128",
+          "0",
+          "1",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "1",
+          "1"
+        ],
+        "variables": [
+          "buffer",
+          "dst_base",
+          "dst_reg",
+          "end",
+          "equ",
+          "gpr1",
+          "loop_count",
+          "looped_copy",
+          "lsl",
+          "op256",
+          "r0",
+          "r1",
+          "short",
+          "src_base",
+          "src_length",
+          "src_reg",
+          "start",
+          "xor"
+        ],
+        "comments": [
+          "Python Code:",
+          "Initialize registers and setup for memory copying operation",
+          "Setup buffer to be copied (256 bytes)",
+          "Copy data from source memory location to destination using looped copying operation",
+          "3",
+          "2"
+        ],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fa": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_aooh36r5\\fa.py",
+      "elements": {
+        "identifiers": [
+          "_",
+          "bytes_sent",
+          "chunk_size",
+          "copy_bytes",
+          "dst_address",
+          "min",
+          "num_bytes",
+          "remaining_bytes",
+          "sendto",
+          "src_address"
+        ],
+        "literals": [
+          "0",
+          "256",
+          "1",
+          "f\"Copied {bytes_sent} of {remaining_bytes}",
+          "0",
+          "f\"Total of {num_bytes} bytes copied successfully"
+        ],
+        "variables": [
+          "_",
+          "bytes_sent",
+          "chunk_size",
+          "dst_address",
+          "num_bytes",
+          "remaining_bytes",
+          "src_address"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

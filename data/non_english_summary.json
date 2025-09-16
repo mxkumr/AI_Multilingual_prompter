@@ -2,7 +2,7 @@
   "summary": {
     "en": {
       "overall": {
-        "English/ASCII": 39
+        "English/ASCII": 26
       },
       "by_category": {
         "identifiers": {
@@ -11,12 +11,8 @@
         "variables": {
           "English/ASCII": 10
         },
-        "literals": {
-          "English/ASCII": 7
-        },
-        "comments": {
-          "English/ASCII": 6
-        },
+        "literals": {},
+        "comments": {},
         "docstrings": {},
         "functions": {
           "English/ASCII": 2
@@ -26,26 +22,20 @@
     },
     "zh-CN": {
       "overall": {
-        "English/ASCII": 34,
-        "CJK Unified Ideographs": 12
+        "English/ASCII": 32
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 17
+          "English/ASCII": 14
         },
         "variables": {
           "English/ASCII": 11
         },
         "literals": {
-          "English/ASCII": 4,
-          "CJK Unified Ideographs": 3
+          "English/ASCII": 5
         },
-        "comments": {
-          "CJK Unified Ideographs": 7
-        },
-        "docstrings": {
-          "CJK Unified Ideographs": 2
-        },
+        "comments": {},
+        "docstrings": {},
         "functions": {
           "English/ASCII": 2
         },
@@ -54,48 +44,44 @@
     },
     "hi": {
       "overall": {
-        "English/ASCII": 87
+        "English/ASCII": 40
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 32
+          "English/ASCII": 16
         },
         "variables": {
-          "English/ASCII": 26
+          "English/ASCII": 14
         },
         "literals": {
-          "English/ASCII": 15
+          "English/ASCII": 8
         },
         "comments": {
-          "English/ASCII": 10
+          "English/ASCII": 1
         },
-        "docstrings": {
-          "English/ASCII": 2
-        },
+        "docstrings": {},
         "functions": {
-          "English/ASCII": 2
+          "English/ASCII": 1
         },
         "classes": {}
       }
     },
     "es": {
       "overall": {
-        "English/ASCII": 26,
-        "Other Non-English": 3
+        "English/ASCII": 18,
+        "Other Non-English": 1
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 10
+          "English/ASCII": 6
         },
         "variables": {
-          "English/ASCII": 8
+          "English/ASCII": 5
         },
-        "literals": {
-          "English/ASCII": 4
-        },
+        "literals": {},
         "comments": {
-          "Other Non-English": 3,
-          "English/ASCII": 3
+          "English/ASCII": 6,
+          "Other Non-English": 1
         },
         "docstrings": {},
         "functions": {
@@ -106,47 +92,44 @@
     },
     "ar": {
       "overall": {
-        "English/ASCII": 39,
-        "Arabic": 10
+        "English/ASCII": 23
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 17
+          "English/ASCII": 11
         },
         "variables": {
-          "English/ASCII": 13
+          "English/ASCII": 6
         },
         "literals": {
-          "English/ASCII": 7
+          "English/ASCII": 3
         },
         "comments": {
-          "Arabic": 10
+          "English/ASCII": 2
         },
         "docstrings": {},
         "functions": {
-          "English/ASCII": 2
+          "English/ASCII": 1
         },
         "classes": {}
       }
     },
     "bn": {
       "overall": {
-        "English/ASCII": 987,
-        "Bengali": 2
+        "English/ASCII": 36
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 420
+          "English/ASCII": 13
         },
         "variables": {
-          "English/ASCII": 408
+          "English/ASCII": 11
         },
         "literals": {
-          "English/ASCII": 102,
-          "Bengali": 2
+          "English/ASCII": 8
         },
         "comments": {
-          "English/ASCII": 56
+          "English/ASCII": 3
         },
         "docstrings": {},
         "functions": {
@@ -157,74 +140,92 @@
     },
     "fr": {
       "overall": {
-        "English/ASCII": 1023,
-        "CJK Unified Ideographs": 169
+        "English/ASCII": 89,
+        "Other Non-English": 13
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 489,
-          "CJK Unified Ideographs": 84
+          "English/ASCII": 40,
+          "Other Non-English": 5
         },
         "variables": {
-          "English/ASCII": 487,
-          "CJK Unified Ideographs": 84
+          "English/ASCII": 35,
+          "Other Non-English": 4
         },
         "literals": {
-          "English/ASCII": 42
+          "English/ASCII": 13,
+          "Other Non-English": 1
         },
         "comments": {
-          "English/ASCII": 5,
-          "CJK Unified Ideographs": 1
+          "Other Non-English": 3
         },
         "docstrings": {},
-        "functions": {},
+        "functions": {
+          "English/ASCII": 1
+        },
         "classes": {}
       }
     },
     "ru": {
       "overall": {
-        "English/ASCII": 115,
-        "CJK Unified Ideographs": 76,
-        "Devanagari (Hindi, etc.)": 2
+        "English/ASCII": 12,
+        "Cyrillic": 1
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 55,
-          "CJK Unified Ideographs": 38,
-          "Devanagari (Hindi, etc.)": 1
+          "English/ASCII": 6
         },
         "variables": {
-          "English/ASCII": 55,
-          "CJK Unified Ideographs": 38,
-          "Devanagari (Hindi, etc.)": 1
-        },
-        "literals": {
           "English/ASCII": 4
         },
-        "comments": {
+        "literals": {
           "English/ASCII": 1
         },
-        "docstrings": {},
-        "functions": {},
+        "comments": {},
+        "docstrings": {
+          "Cyrillic": 1
+        },
+        "functions": {
+          "English/ASCII": 1
+        },
         "classes": {}
       }
     },
     "pt": {
       "overall": {
-        "English/ASCII": 48,
-        "CJK Unified Ideographs": 26
+        "English/ASCII": 26
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 23,
-          "CJK Unified Ideographs": 13
+          "English/ASCII": 12
         },
         "variables": {
-          "English/ASCII": 23,
-          "CJK Unified Ideographs": 13
+          "English/ASCII": 10
         },
         "literals": {
           "English/ASCII": 2
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {
+          "English/ASCII": 2
+        },
+        "classes": {}
+      }
+    },
+    "ur": {
+      "overall": {
+        "English/ASCII": 60
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 25
+        },
+        "variables": {
+          "English/ASCII": 20
+        },
+        "literals": {
+          "English/ASCII": 15
         },
         "comments": {},
         "docstrings": {},
@@ -232,172 +233,97 @@
         "classes": {}
       }
     },
-    "ur": {
-      "overall": {
-        "English/ASCII": 111,
-        "CJK Unified Ideographs": 72
-      },
-      "by_category": {
-        "identifiers": {
-          "English/ASCII": 53,
-          "CJK Unified Ideographs": 35
-        },
-        "variables": {
-          "English/ASCII": 53,
-          "CJK Unified Ideographs": 35
-        },
-        "literals": {
-          "English/ASCII": 5
-        },
-        "comments": {
-          "CJK Unified Ideographs": 2
-        },
-        "docstrings": {},
-        "functions": {},
-        "classes": {}
-      }
-    },
     "id": {
       "overall": {
-        "English/ASCII": 934,
-        "CJK Unified Ideographs": 1064,
-        "Other Non-English": 8,
-        "Japanese (Hiragana/Katakana/Kanji)": 8,
-        "Cyrillic": 20,
-        "Hangul (Korean)": 2
+        "English/ASCII": 88,
+        "CJK Unified Ideographs": 1
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 417,
-          "CJK Unified Ideographs": 526,
-          "Other Non-English": 4,
-          "Japanese (Hiragana/Katakana/Kanji)": 4,
-          "Cyrillic": 10,
-          "Hangul (Korean)": 1
+          "English/ASCII": 34
         },
         "variables": {
-          "English/ASCII": 417,
-          "CJK Unified Ideographs": 526,
-          "Other Non-English": 4,
-          "Japanese (Hiragana/Katakana/Kanji)": 4,
-          "Cyrillic": 10,
-          "Hangul (Korean)": 1
+          "English/ASCII": 30
         },
         "literals": {
-          "English/ASCII": 86
-        },
-        "comments": {
-          "CJK Unified Ideographs": 12,
           "English/ASCII": 14
         },
+        "comments": {
+          "English/ASCII": 8,
+          "CJK Unified Ideographs": 1
+        },
         "docstrings": {},
-        "functions": {},
+        "functions": {
+          "English/ASCII": 2
+        },
         "classes": {}
       }
     },
     "de": {
       "overall": {
-        "English/ASCII": 741,
-        "CJK Unified Ideographs": 834,
-        "Other Non-English": 5,
-        "Japanese (Hiragana/Katakana/Kanji)": 10,
-        "Hangul (Korean)": 6,
-        "Cyrillic": 16
+        "English/ASCII": 49,
+        "Other Non-English": 2
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 325,
-          "CJK Unified Ideographs": 416,
-          "Other Non-English": 2,
-          "Japanese (Hiragana/Katakana/Kanji)": 5,
-          "Hangul (Korean)": 3,
-          "Cyrillic": 8
+          "English/ASCII": 23,
+          "Other Non-English": 1
         },
         "variables": {
-          "English/ASCII": 325,
-          "CJK Unified Ideographs": 416,
-          "Other Non-English": 2,
-          "Japanese (Hiragana/Katakana/Kanji)": 5,
-          "Hangul (Korean)": 3,
-          "Cyrillic": 8
+          "English/ASCII": 19
         },
         "literals": {
-          "English/ASCII": 80
+          "English/ASCII": 5
         },
         "comments": {
-          "English/ASCII": 11,
-          "Other Non-English": 1,
-          "CJK Unified Ideographs": 2
+          "English/ASCII": 1
         },
         "docstrings": {},
-        "functions": {},
+        "functions": {
+          "English/ASCII": 1,
+          "Other Non-English": 1
+        },
         "classes": {}
       }
     },
     "ja": {
       "overall": {
-        "English/ASCII": 286,
-        "CJK Unified Ideographs": 167,
-        "Japanese (Hiragana/Katakana/Kanji)": 2,
-        "Cyrillic": 2
+        "English/ASCII": 36
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 139,
-          "CJK Unified Ideographs": 82,
-          "Japanese (Hiragana/Katakana/Kanji)": 1,
-          "Cyrillic": 1
+          "English/ASCII": 17
         },
         "variables": {
-          "English/ASCII": 139,
-          "CJK Unified Ideographs": 82,
-          "Japanese (Hiragana/Katakana/Kanji)": 1,
-          "Cyrillic": 1
+          "English/ASCII": 13
         },
         "literals": {
-          "English/ASCII": 8
+          "English/ASCII": 5
         },
-        "comments": {
-          "CJK Unified Ideographs": 3
-        },
+        "comments": {},
         "docstrings": {},
-        "functions": {},
+        "functions": {
+          "English/ASCII": 1
+        },
         "classes": {}
       }
     },
     "sw": {
       "overall": {
-        "English/ASCII": 773,
-        "CJK Unified Ideographs": 896,
-        "Japanese (Hiragana/Katakana/Kanji)": 8,
-        "Cyrillic": 4,
-        "Bengali": 2,
-        "Hangul (Korean)": 4
+        "English/ASCII": 30
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 357,
-          "CJK Unified Ideographs": 446,
-          "Japanese (Hiragana/Katakana/Kanji)": 4,
-          "Cyrillic": 2,
-          "Bengali": 1,
-          "Hangul (Korean)": 2
+          "English/ASCII": 11
         },
         "variables": {
-          "English/ASCII": 357,
-          "CJK Unified Ideographs": 446,
-          "Japanese (Hiragana/Katakana/Kanji)": 4,
-          "Cyrillic": 2,
-          "Bengali": 1,
-          "Hangul (Korean)": 2
+          "English/ASCII": 7
         },
         "literals": {
-          "English/ASCII": 58,
-          "CJK Unified Ideographs": 1
+          "English/ASCII": 9
         },
         "comments": {
-          "CJK Unified Ideographs": 3,
-          "English/ASCII": 1
+          "English/ASCII": 3
         },
         "docstrings": {},
         "functions": {},
@@ -406,230 +332,149 @@
     },
     "tr": {
       "overall": {
-        "English/ASCII": 1544,
-        "CJK Unified Ideographs": 1715,
-        "Other Non-English": 16,
-        "Japanese (Hiragana/Katakana/Kanji)": 13,
-        "Cyrillic": 24,
-        "Arabic": 4,
-        "Hangul (Korean)": 6
+        "English/ASCII": 36
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 665,
-          "CJK Unified Ideographs": 852,
-          "Other Non-English": 8,
-          "Japanese (Hiragana/Katakana/Kanji)": 6,
-          "Cyrillic": 12,
-          "Arabic": 2,
-          "Hangul (Korean)": 3
+          "English/ASCII": 13
         },
         "variables": {
-          "English/ASCII": 665,
-          "CJK Unified Ideographs": 852,
-          "Other Non-English": 8,
-          "Japanese (Hiragana/Katakana/Kanji)": 6,
-          "Cyrillic": 12,
-          "Arabic": 2,
-          "Hangul (Korean)": 3
+          "English/ASCII": 12
         },
         "literals": {
-          "English/ASCII": 202
+          "English/ASCII": 5
         },
         "comments": {
-          "CJK Unified Ideographs": 11,
-          "English/ASCII": 12,
-          "Japanese (Hiragana/Katakana/Kanji)": 1
+          "English/ASCII": 4
         },
-        "docstrings": {},
-        "functions": {},
+        "docstrings": {
+          "English/ASCII": 1
+        },
+        "functions": {
+          "English/ASCII": 1
+        },
         "classes": {}
       }
     },
     "vi": {
       "overall": {
-        "English/ASCII": 962,
-        "CJK Unified Ideographs": 836,
-        "Other Non-English": 2,
-        "Cyrillic": 2,
-        "Arabic": 4,
-        "Japanese (Hiragana/Katakana/Kanji)": 4
+        "English/ASCII": 16
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 445,
-          "CJK Unified Ideographs": 415,
-          "Other Non-English": 1,
-          "Cyrillic": 1,
-          "Arabic": 2,
-          "Japanese (Hiragana/Katakana/Kanji)": 2
+          "English/ASCII": 6
         },
         "variables": {
-          "English/ASCII": 445,
-          "CJK Unified Ideographs": 415,
-          "Other Non-English": 1,
-          "Cyrillic": 1,
-          "Arabic": 2,
-          "Japanese (Hiragana/Katakana/Kanji)": 2
+          "English/ASCII": 5
         },
         "literals": {
-          "English/ASCII": 70
+          "English/ASCII": 2
         },
         "comments": {
-          "English/ASCII": 2,
-          "CJK Unified Ideographs": 6
+          "English/ASCII": 2
         },
         "docstrings": {},
-        "functions": {},
+        "functions": {
+          "English/ASCII": 1
+        },
         "classes": {}
       }
     },
     "ko": {
       "overall": {
-        "English/ASCII": 4688,
-        "CJK Unified Ideographs": 5328,
-        "Cyrillic": 28,
-        "Thai": 8,
-        "Hangul (Korean)": 10,
-        "Japanese (Hiragana/Katakana/Kanji)": 40,
-        "Other Non-English": 10,
-        "Arabic": 10
+        "English/ASCII": 29
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 2044,
-          "CJK Unified Ideographs": 2657,
-          "Cyrillic": 14,
-          "Thai": 4,
-          "Hangul (Korean)": 5,
-          "Japanese (Hiragana/Katakana/Kanji)": 20,
-          "Other Non-English": 5,
-          "Arabic": 5
+          "English/ASCII": 8
         },
         "variables": {
-          "English/ASCII": 2044,
-          "CJK Unified Ideographs": 2657,
-          "Cyrillic": 14,
-          "Thai": 4,
-          "Hangul (Korean)": 5,
-          "Japanese (Hiragana/Katakana/Kanji)": 20,
-          "Other Non-English": 5,
-          "Arabic": 5
+          "English/ASCII": 7
         },
         "literals": {
-          "English/ASCII": 582
+          "English/ASCII": 8
         },
         "comments": {
-          "CJK Unified Ideographs": 14,
-          "English/ASCII": 18
+          "English/ASCII": 5
         },
         "docstrings": {},
-        "functions": {},
+        "functions": {
+          "English/ASCII": 1
+        },
         "classes": {}
       }
     },
     "ta": {
       "overall": {
-        "English/ASCII": 1765,
-        "CJK Unified Ideographs": 1741,
-        "Thai": 2,
-        "Japanese (Hiragana/Katakana/Kanji)": 4,
-        "Hangul (Korean)": 2,
-        "Cyrillic": 6,
-        "Arabic": 4,
-        "Other Non-English": 3
+        "English/ASCII": 143
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 791,
-          "CJK Unified Ideographs": 871,
-          "Thai": 1,
-          "Japanese (Hiragana/Katakana/Kanji)": 2,
-          "Hangul (Korean)": 1,
-          "Cyrillic": 3,
-          "Arabic": 2,
-          "Other Non-English": 1
+          "English/ASCII": 51
         },
         "variables": {
-          "English/ASCII": 788,
-          "CJK Unified Ideographs": 870,
-          "Thai": 1,
-          "Japanese (Hiragana/Katakana/Kanji)": 2,
-          "Hangul (Korean)": 1,
-          "Cyrillic": 3,
-          "Arabic": 2,
-          "Other Non-English": 1
+          "English/ASCII": 44
         },
         "literals": {
-          "English/ASCII": 183
+          "English/ASCII": 41
         },
         "comments": {
-          "English/ASCII": 1,
-          "Other Non-English": 1
+          "English/ASCII": 1
         },
         "docstrings": {},
-        "functions": {},
-        "classes": {
-          "English/ASCII": 2
-        }
+        "functions": {
+          "English/ASCII": 6
+        },
+        "classes": {}
       }
     },
     "mr": {
       "overall": {
-        "English/ASCII": 1976,
-        "CJK Unified Ideographs": 1985,
-        "Cyrillic": 16,
-        "Devanagari (Hindi, etc.)": 2,
-        "Japanese (Hiragana/Katakana/Kanji)": 12,
-        "Thai": 8,
-        "Arabic": 4,
-        "Hebrew": 2,
-        "Hangul (Korean)": 2
+        "English/ASCII": 50
       },
       "by_category": {
         "identifiers": {
-          "English/ASCII": 900,
-          "CJK Unified Ideographs": 992,
-          "Cyrillic": 8,
-          "Devanagari (Hindi, etc.)": 1,
-          "Japanese (Hiragana/Katakana/Kanji)": 6,
-          "Thai": 4,
-          "Arabic": 2,
-          "Hebrew": 1,
-          "Hangul (Korean)": 1
+          "English/ASCII": 17
         },
         "variables": {
-          "English/ASCII": 900,
-          "CJK Unified Ideographs": 992,
-          "Cyrillic": 8,
-          "Devanagari (Hindi, etc.)": 1,
-          "Japanese (Hiragana/Katakana/Kanji)": 6,
-          "Thai": 4,
-          "Arabic": 2,
-          "Hebrew": 1,
-          "Hangul (Korean)": 1
+          "English/ASCII": 14
         },
         "literals": {
-          "English/ASCII": 175
+          "English/ASCII": 13
         },
         "comments": {
-          "CJK Unified Ideographs": 1,
           "English/ASCII": 1
         },
-        "docstrings": {},
-        "functions": {},
+        "docstrings": {
+          "English/ASCII": 2
+        },
+        "functions": {
+          "English/ASCII": 3
+        },
         "classes": {}
       }
     },
     "fa": {
-      "overall": {},
+      "overall": {
+        "English/ASCII": 54
+      },
       "by_category": {
-        "identifiers": {},
-        "variables": {},
-        "literals": {},
-        "comments": {},
+        "identifiers": {
+          "English/ASCII": 26
+        },
+        "variables": {
+          "English/ASCII": 22
+        },
+        "literals": {
+          "English/ASCII": 2
+        },
+        "comments": {
+          "English/ASCII": 1
+        },
         "docstrings": {},
-        "functions": {},
+        "functions": {
+          "English/ASCII": 3
+        },
         "classes": {}
       }
     }

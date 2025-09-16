@@ -1,0 +1,22 @@
+{
+  "en": "vehicles = [\"Car\", \"Truck\", \"Motorcycle\", \"Bicycle\"]\n\nindex_input = input(\"Enter an index of a vehicle: \")\ntry:\n    index = int(index_input)\n    if 0 <= index < len(vehicles):\n        print(vehicles[index])\n    else:\n        print(\"Error: Index out of range.\")\nexcept ValueError:\n    print(\"Error: Please enter a valid integer.\")",
+  "zh-CN": "# 定义车辆列表（示例数据）\nvehicles = [\"Toyota Camry\", \"Honda Accord\", \"Ford Mustang\", \"Chevrolet Malibu\", \"BMW 3 Series\"]\n\n# 提示用户输入车辆索引\nindex_input = input(\"请输入车辆索引（0-4）: \")\n\n# 将输入转换为整数\ntry:\n    index = int(index_input)\n    \n    # 检查索引是否在有效范围内\n    if 0 <= index < len(vehicles):\n        # 打印对应索引的车辆\n        print(f\"您选择的车辆: {vehicles[index]}\")\n    else:\n        print(f\"错误：索引必须在 0 到 {len(vehicles)-1} 之间\")\n        \nexcept ValueError:\n    print(\"错误：请输入有效的整数\")",
+  "hi": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Enter the index: \"))\nprint(vehicles[index])",
+  "es": "vehicles = ['Car', 'Bike', 'Truck', 'Bus']\nindex = int(input(\"Enter the index of the vehicle: \"))\nprint(vehicles[index])",
+  "ar": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Enter vehicle index: \"))\nprint(vehicles[index])",
+  "bn": "cars = ['Toyota', 'Honda', 'Ford', 'Chevrolet', 'BMW']\nindex = int(input(\"Enter a car index: \"))\nprint(cars[index])",
+  "fr": "index = input(\"Veuillez saisir l'index du véhicule : \")",
+  "ru": "vehicles = ['Car', 'Bike', 'Truck', 'Plane']\n\ntry:\n    index = int(input(\"Введите индекс транспортного средства: \"))\n    if 0 <= index < len(vehicles):\n        print(vehicles[index])\n    else:\n        print(\"Ошибка: индекс вне диапазона.\")\nexcept ValueError:\n    print(\"Ошибка: введите целое число.\")",
+  "pt": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Enter the index of the vehicle: \"))\nprint(vehicles[index])",
+  "ur": "# گاڑیوں کی فہرست بنائیں\ncars = [\"Toyota\", \"Honda\", \"Ford\", \"Chevrolet\"]\n\n# صارف سے انڈیکس داخل کرنے کو کہیں\nindex_input = input(\"گاڑی کا انڈیکس داخل کریں: \")\n\n# انڈیکس کو عدد میں تبدیل کریں\nindex = int(index_input)\n\n# انڈیکس کے مطابق گاڑی کو پرنٹ کریں\nprint(f\"انڈیکس {index} پر گاڑی: {cars[index]}\")",
+  "id": "vehicles = ['Car', 'Bike', 'Bus', 'Truck']\nindex = int(input(\"Masukkan indeks kendaraan: \"))\nprint(vehicles[index])",
+  "de": "vehicles = [\"Car\", \"Bike\", \"Truck\"]\nindex = int(input(\"Geben Sie den Index des Fahrzeugs ein: \"))\nprint(vehicles[index])",
+  "ja": "vehicles = ['Car', 'Truck', 'Bike', 'Bus']\nindex = int(input('Enter vehicle index: '))\nprint(vehicles[index])",
+  "sw": "plate = input(\"Enter car license plate: \").upper()\nresult = ''\n\nfor char in plate:\n    if char.isalpha():\n        num = ord(char) - ord('A') + 1\n        result += str(num)\n    else:\n        result += char\n\nprint(\"Converted number:\", result)",
+  "tr": "cars = [\"Toyota\", \"Honda\", \"Ford\", \"BMW\", \"Audi\"]\nindex = int(input(\"Dizin girin: \"))\nprint(cars[index])",
+  "vi": "cars = [\"Toyota\", \"Honda\", \"Ford\", \"Chevrolet\", \"BMW\"]\nindex = int(input(\"Nhập chỉ mục của chiếc xe: \"))\nprint(cars[index])",
+  "ko": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"차량 색인을 입력하세요: \"))\nprint(vehicles[index])",
+  "ta": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\ncode = input(\"Enter vehicle code: \")\nindex = int(code)\nprint(vehicles[index])",
+  "mr": "vehicles = ['Car', 'Bike', 'Truck', 'Bus']\nindex = int(input(\"वाहनाचा निर्देशांक प्रविष्ट करा: \"))\nprint(vehicles[index])",
+  "fa": "vehicles = ['Car', 'Bike', 'Truck', 'Bus']\nindex = int(input(\"Enter the index: \"))\nprint(vehicles[index])"
+}

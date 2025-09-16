@@ -32,14 +32,15 @@ def query_model(prompt, model=MODEL):
         "model": model,
         "prompt": prompt,
         "stream": False,
-        "enable_thinking": False,
-        "thinking": False,
-        "think": False,
-        # Hint Ollama to use GPU where available (offload as many layers as possible)
+        "options": {"num_gpu": 10}
     }
-    response = requests.post(OLLAMA_URL, json=payload)
-    response.raise_for_status()
-    raw_response = response.json()["response"]
+    try:
+        response = requests.post(OLLAMA_URL, json=payload, timeout=(60, 3600))
+        if not response.ok:
+            raise RuntimeError(f"{response.status_code} {response.reason}: {response.text}")
+        raw_response = response.json().get("response", "")
+    except requests.RequestException as e:
+        raise RuntimeError(f"Request failed: {e}")
     
     # Extract only the code
     code_only = extract_code_from_response(raw_response)
