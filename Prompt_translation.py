@@ -1,5 +1,6 @@
 from deep_translator import GoogleTranslator
 import json
+import re
 # List of 20 languages for full run
 top_20_languages = {
     "en": "English",
@@ -23,11 +24,20 @@ top_20_languages = {
     "mr": "Marathi",
     "fa": "Persian"
 }
+
+SENTENCE_PUNCT = re.compile(r'([.!?])(?!\s|$)')
+
+def normalize_text(text):
+    # Ensure a single space after sentence-ending punctuation and collapse multiple spaces
+    text = SENTENCE_PUNCT.sub(r'\1 ', text)
+    return re.sub(r'\s{2,}', ' ', text).strip()
+
 def translate_all_languages(prompt):
+    prompt = normalize_text(prompt)
     translations = {}
     for lang in top_20_languages:
         try:
-            translated = GoogleTranslator(source='en', target=lang).translate(prompt)
+            translated = GoogleTranslator(source='auto', target=lang).translate(prompt)
             translations[lang] = translated
         except Exception as e:
             print(f"Error translating to {lang}: {e}")
@@ -40,8 +50,7 @@ if __name__ == "__main__":
     for lang, text in translations.items():
         print(f"{lang}: {text}")
 
-
-translated = f"data/translated_prompts.json"
-with open(translated, "w", encoding="utf-8") as f:
-    json.dump(translations, f, ensure_ascii=False, indent=4)
+    translated = f"data/translated_prompts.json"
+    with open(translated, "w", encoding="utf-8") as f:
+        json.dump(translations, f, ensure_ascii=False, indent=4)
 

@@ -1,0 +1,832 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\en.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "dest",
+          "encode",
+          "i",
+          "isinstance",
+          "memcpy",
+          "n",
+          "source_str",
+          "src",
+          "src_bytes"
+        ],
+        "literals": [
+          "ascii",
+          "5",
+          "Hello"
+        ],
+        "variables": [
+          "buffer",
+          "dest",
+          "encode",
+          "i",
+          "n",
+          "source_str",
+          "src",
+          "src_bytes"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "memcpy"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "actual",
+          "buffer",
+          "bytearray",
+          "dest",
+          "encode",
+          "isinstance",
+          "memcpy",
+          "min",
+          "n",
+          "src"
+        ],
+        "literals": [
+          "utf-8",
+          "5",
+          "Hello",
+          "5",
+          "复制后的缓冲区:"
+        ],
+        "variables": [
+          "actual",
+          "buffer",
+          "dest",
+          "encode",
+          "n",
+          "src"
+        ],
+        "comments": [
+          "如果源是字符串，转换为UTF-8字节",
+          "计算实际可复制的字节数（不超过源长度）",
+          "执行字节复制（使用切片赋值）",
+          "创建缓冲区（大小至少为\"Hello\"的长度5字节）",
+          "初始化为5个0字节",
+          "将字符串\"Hello\"复制到缓冲区（复制5字节）",
+          "验证结果（可选）",
+          "输出: bytearray(b'Hello')"
+        ],
+        "docstrings": [
+          "\r\n    将源的前n个字节复制到目标（模拟内存复制）\r\n    :param dest: 目标缓冲区（可变序列，如bytearray）\r\n    :param src: 源（字符串或字节序列）\r\n    :param n: 要复制的字节数\r\n    "
+        ],
+        "functions": [
+          "memcpy"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\hi.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "dest",
+          "encode",
+          "n",
+          "num_bytes",
+          "s",
+          "source_bytes",
+          "source_str",
+          "src",
+          "string_length"
+        ],
+        "literals": [
+          "5",
+          "hello",
+          "utf-8"
+        ],
+        "variables": [
+          "buffer",
+          "dest",
+          "encode",
+          "n",
+          "num_bytes",
+          "s",
+          "source_bytes",
+          "source_str",
+          "src"
+        ],
+        "comments": [
+          "Copy string \"hello\" into a buffer",
+          "Create buffer of 5 bytes",
+          "Convert string to bytes",
+          "Get length (5)",
+          "Verify the buffer contains \"hello\"",
+          "Output: bytearray(b'hello')"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\es.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "dest",
+          "n",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "b\"Hola",
+          "4"
+        ],
+        "variables": [
+          "buffer",
+          "dest",
+          "n",
+          "src"
+        ],
+        "comments": [
+          "Create a buffer (bytearray) to hold the string",
+          "Copy the bytes of \"Hola\" (4 bytes) into the buffer"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\ar.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copied_length",
+          "copy_bytes",
+          "dest",
+          "encode",
+          "n",
+          "source",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "Hello",
+          "ascii",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "copied_length",
+          "dest",
+          "encode",
+          "n",
+          "source",
+          "src"
+        ],
+        "comments": [
+          "نسخ n بايت من المصدر إلى الوجهة",
+          "إرجاع طول السلسلة المنسوخة (عدد البايتات)",
+          "مثال: نسخ السلسلة \"Hello\" إلى مخزن مؤقت",
+          "مخزن مؤقت بحجم 5 بايت",
+          "تحويل السلسلة إلى بايتات",
+          "يطبع: 5"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\bn.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "dest",
+          "memcpy",
+          "num_bytes",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "b\"hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "comments": [
+          "Copy \"hello\" string into a buffer",
+          "Create a 5-byte buffer initialized to zeros",
+          "Copy 5 bytes from \"hello\" to buffer"
+        ],
+        "docstrings": [
+          "Copies num_bytes from source to destination (bytearray)."
+        ],
+        "functions": [
+          "memcpy"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\fr.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "count",
+          "dest",
+          "encode",
+          "memcpy",
+          "s",
+          "source",
+          "src",
+          "strlen"
+        ],
+        "literals": [
+          "0",
+          "0",
+          "10",
+          "bonjour",
+          "ascii"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "encode",
+          "s",
+          "source",
+          "src"
+        ],
+        "comments": [
+          "Copie de la chaîne \"bonjour\" dans un tampon (bytearray)",
+          "Tampon de 10 octets",
+          "Chaîne à copier"
+        ],
+        "docstrings": [
+          "Copie 'count' octets de 'src' vers 'dest'.",
+          "Renvoie la longueur d'une chaîne."
+        ],
+        "functions": [
+          "memcpy",
+          "strlen"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\ru.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "dest",
+          "encode",
+          "len_str",
+          "n",
+          "s",
+          "s_bytes",
+          "src"
+        ],
+        "literals": [
+          "привет",
+          "utf-8"
+        ],
+        "variables": [
+          "buffer",
+          "dest",
+          "encode",
+          "n",
+          "s",
+          "s_bytes",
+          "src"
+        ],
+        "comments": [
+          "Копируем строку \"привет\" в буфер",
+          "Преобразуем строку в байты",
+          "Определяем количество байт",
+          "Создаем буфер достаточного размера",
+          "Копируем байты",
+          "Для проверки (выведет байты строки \"привет\" в UTF-8)"
+        ],
+        "docstrings": [
+          "Копирует n байт из источника в пункт назначения.",
+          "Возвращает длину строки (в символах)."
+        ],
+        "functions": [
+          "copy_bytes",
+          "len_str"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\pt.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "dest",
+          "encode",
+          "memcopy",
+          "num_bytes",
+          "source"
+        ],
+        "literals": [
+          "Hello",
+          "Hello",
+          "ascii",
+          "Hello"
+        ],
+        "variables": [
+          "buffer",
+          "dest",
+          "encode",
+          "num_bytes",
+          "source"
+        ],
+        "comments": [
+          "Exemplo: copiar \"Hello\" para um buffer",
+          "Cria buffer com tamanho igual ao comprimento da string",
+          "Converte string para bytes ASCII",
+          "Saída: bytearray(b'Hello')"
+        ],
+        "docstrings": [
+          "Copia num_bytes de source para dest (dest deve ser um bytearray)."
+        ],
+        "functions": [
+          "memcopy"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\ur.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [
+          "0",
+          "0",
+          "5",
+          "b'hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\id.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "dest",
+          "encode",
+          "length",
+          "n",
+          "s",
+          "source_bytes",
+          "source_str",
+          "src",
+          "string_length"
+        ],
+        "literals": [
+          "4",
+          "halo",
+          "utf-8"
+        ],
+        "variables": [
+          "buffer",
+          "dest",
+          "encode",
+          "length",
+          "n",
+          "s",
+          "source_bytes",
+          "source_str",
+          "src"
+        ],
+        "comments": [
+          "Salin string \"halo\" ke buffer",
+          "Buffer dengan ukuran 4 byte",
+          "Konversi string ke byte",
+          "Output: bytearray(b'halo')"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\de.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "dest",
+          "encode",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "Hallo",
+          "utf-8",
+          "Hallo"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "encode",
+          "src"
+        ],
+        "comments": [
+          "Kopieren der Zeichenfolge \"Hallo\" in einen Puffer"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\ja.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "dest",
+          "encode",
+          "src"
+        ],
+        "literals": [
+          "ascii",
+          "5",
+          "Hello",
+          "Hello"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "encode",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "sw": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\sw.py",
+      "elements": {
+        "identifiers": [
+          "chanzo",
+          "idadi_ya_ka",
+          "kazi",
+          "marudio"
+        ],
+        "literals": [],
+        "variables": [
+          "chanzo",
+          "idadi_ya_ka",
+          "marudio"
+        ],
+        "comments": [
+          "Kumbukumbu ya kwanza (marudio) inaleta idadi ya kumbukumbu ya pili (chanzo) kutoka kwenye kumbukumbu ya kwanza.",
+          "Kumbukumbu ya pili (chanzo) inaleta idadi ya kumbukumbu ya pili (idadi ya ka ya kunakili) kutoka kwenye kumbukumbu ya pili.",
+          "Hivyo, kazi inarudisha urefu wa kamba ya chanzo."
+        ],
+        "docstrings": [],
+        "functions": [
+          "kazi"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\tr.py",
+      "elements": {
+        "identifiers": [
+          "bytearray",
+          "count",
+          "dest",
+          "dest_buffer",
+          "encode",
+          "i",
+          "memcpy",
+          "source_bytes",
+          "source_str",
+          "src"
+        ],
+        "literals": [
+          "Merhaba",
+          "utf-8"
+        ],
+        "variables": [
+          "count",
+          "dest",
+          "dest_buffer",
+          "encode",
+          "i",
+          "source_bytes",
+          "source_str",
+          "src"
+        ],
+        "comments": [
+          "Copy \"Merhaba\" string into a buffer"
+        ],
+        "docstrings": [],
+        "functions": [
+          "memcpy"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\vi.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_memory",
+          "count",
+          "dest",
+          "encode",
+          "s",
+          "source_bytes",
+          "source_str",
+          "src",
+          "string_length"
+        ],
+        "literals": [
+          "10",
+          "Xin chào",
+          "utf-8",
+          "Bộ đệm sau khi sao chép:"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "encode",
+          "s",
+          "source_bytes",
+          "source_str",
+          "src"
+        ],
+        "comments": [
+          "Sao chép chuỗi \"Xin chào\" vào bộ đệm",
+          "Bộ đệm đủ lớn để chứa chuỗi",
+          "Chuyển thành bytes UTF-8",
+          "In kết quả để kiểm tra (tùy chọn)"
+        ],
+        "docstrings": [
+          "Sao chép số byte từ nguồn sang đích.",
+          "Trả về độ dài của chuỗi (số ký tự)."
+        ],
+        "functions": [
+          "copy_memory",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "ko": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\ko.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "dest",
+          "encode",
+          "num_bytes",
+          "source",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "Hello",
+          "ascii"
+        ],
+        "variables": [
+          "buffer",
+          "dest",
+          "encode",
+          "num_bytes",
+          "source",
+          "src"
+        ],
+        "comments": [
+          "\"Hello\"를 버퍼에 복사",
+          "5바이트 버퍼 생성",
+          "ASCII로 인코딩 (5바이트)",
+          "결과 확인",
+          "출력: bytearray(b'Hello')"
+        ],
+        "docstrings": [
+          "소스에서 목적지로 num_bytes 수의 바이트를 복사합니다."
+        ],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ta": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\ta.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "source",
+          "target"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "source",
+          "target"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\mr.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "count",
+          "dest",
+          "memcpy",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "b'hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [
+          "Example usage: Copy \"hello\" string (as bytes) to buffer",
+          "Output: bytearray(b'hello')"
+        ],
+        "docstrings": [],
+        "functions": [
+          "memcpy"
+        ],
+        "classes": []
+      }
+    },
+    "fa": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_wr9kbw6c\\fa.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "byte_count",
+          "bytearray",
+          "copy_bytes",
+          "dest",
+          "encode",
+          "isinstance",
+          "n",
+          "s",
+          "source",
+          "src",
+          "string_length"
+        ],
+        "literals": [
+          "utf-8",
+          "سلام",
+          "utf-8"
+        ],
+        "variables": [
+          "buffer",
+          "byte_count",
+          "dest",
+          "encode",
+          "n",
+          "s",
+          "source",
+          "src"
+        ],
+        "comments": [
+          "Copy the string \"سلام\" to a buffer"
+        ],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

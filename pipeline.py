@@ -92,6 +92,14 @@ def main() -> None:
         print("Empty prompt; aborting.")
         return
 
+    # Normalize prompt formatting (spaces after punctuation, collapse multiple spaces)
+    try:
+        from Prompt_translation import normalize_text
+        prompt_text = normalize_text(prompt_text)
+    except Exception:
+        # Fallback to original prompt if normalization import fails
+        pass
+
     # 2) Translate
     print("Translating prompt to multiple languages...")
     translations = translate_prompt(prompt_text)

@@ -8,34 +8,55 @@ MODEL = "qwen3:30b-a3b"  # Change to your model name if needed
 
 
 def extract_code_from_response(response_text):
-    """Extract only the code from the LLM response, removing thinking process and explanations."""
-    # Remove thinking process if present
-    if '<think>' in response_text:
-        response_text = re.sub(r'<think>.*?</think>', '', response_text, flags=re.DOTALL)
-    # Look for Python code blocks
-    code_block_match = re.search(r'```python\s*(.*?)\s*```', response_text, re.DOTALL)
-    if code_block_match:
-        return code_block_match.group(1).strip()
-    
-    # If no code block, look for any code-like content
-    # Remove common explanation prefixes
-    response_text = re.sub(r'^.*?(def |class |import |from |#)', r'\1', response_text, flags=re.DOTALL)
-    
-    # Clean up the response
-    response_text = response_text.strip()
-    
-    return response_text
+    """Extract only the code from the LLM response, removing thinking/narrative.
+
+    Strategy:
+    1) Strip <think>...</think> blocks if present.
+    2) Prefer fenced code blocks (any language). If multiple, return the longest.
+    3) If no fences, try to detect code by finding the first code token and return from there.
+    4) If nothing code-like is detected, return an empty string to avoid prose leakage.
+    """
+    if not response_text:
+        return ""
+
+    # Remove thinking process and common preambles
+    response_text = re.sub(r"<think>[\s\S]*?</think>", "", response_text, flags=re.DOTALL)
+    response_text = re.sub(r"(?i)^(thoughts?|reasoning|analysis)\s*:.*?$", "", response_text, flags=re.MULTILINE)
+
+    # Prefer fenced code blocks of any language
+    fenced_blocks = re.findall(r"```[a-zA-Z0-9_+-]*\s*([\s\S]*?)\s*```", response_text)
+    if fenced_blocks:
+        # Choose the longest block assuming it's the main solution
+        longest = max((b.strip() for b in fenced_blocks), key=len, default="")
+        return longest
+
+    # Heuristic fallback: try to start from first code-ish token
+    code_start = re.search(r"(^|\n)\s*(def |class |import |from |@|if __name__ == ['\"]__main__['\"]:)", response_text)
+    if code_start:
+        candidate = response_text[code_start.start():].strip()
+        # Truncate trailing non-code sections if they start with typical prose markers
+        candidate = re.split(r"\n\s*(Explanation|Notes?|Output|Result|Example)\s*:|\n\s*#\s*End", candidate)[0]
+        return candidate.strip()
+
+    # No detectable code found; return empty to avoid dumping narrative into JSON
+    return ""
 
 
 def query_model(prompt, model=MODEL):
+    # Prepend strict instruction to enforce code-only output
+    instruction = (
+        "You are to output ONLY Python code that solves the user's request. "
+        "Respond with a single fenced block using ```python ... ```. "
+        "Do not include any explanations, narration, or thinking outside the fence.\n\n"
+    )
     payload = {
         "model": model,
-        "prompt": prompt,
+        "prompt": instruction + prompt,
         "stream": False,
         "options": {"num_gpu": 10}
     }
     try:
-        response = requests.post(OLLAMA_URL, json=payload, timeout=(60, 3600))
+        response = requests.post(OLLAMA_URL, json=payload, timeout=(120, 36000))
         if not response.ok:
             raise RuntimeError(f"{response.status_code} {response.reason}: {response.text}")
         raw_response = response.json().get("response", "")
@@ -44,6 +65,17 @@ def query_model(prompt, model=MODEL):
     
     # Extract only the code
     code_only = extract_code_from_response(raw_response)
+    # If still no code was detected, make one retry with an even stricter instruction
+    if not code_only.strip():
+        retry_instruction = (
+            "Return ONLY a single fenced Python block with the final code. "
+            "Absolutely no prose. If you cannot, return an empty code block.\n\n"
+        )
+        payload["prompt"] = retry_instruction + prompt
+        response = requests.post(OLLAMA_URL, json=payload, timeout=(120, 36000))
+        if response.ok:
+            raw_response = response.json().get("response", "")
+            code_only = extract_code_from_response(raw_response)
     return code_only
 
 
