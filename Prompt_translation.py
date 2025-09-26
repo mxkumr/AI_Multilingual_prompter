@@ -4,25 +4,23 @@ import re
 # List of 20 languages for full run
 top_20_languages = {
     "en": "English",
-    "zh-CN": "Chinese (Mandarin)",
+    "zh-CN": "Mandarin Chinese",
     "hi": "Hindi",
     "es": "Spanish",
-    "ar": "Arabic",
-    "bn": "Bengali",
+    "ar": "Standard Arabic",
     "fr": "French",
-    "ru": "Russian",
+    "bn": "Bengali",
     "pt": "Portuguese",
-    "ur": "Urdu",
+    "ru": "Russian",
     "id": "Indonesian",
-    "de": "German",
+    "ur": "Urdu",
+    "de": "Standard German",
     "ja": "Japanese",
-    "sw": "Swahili",
-    "tr": "Turkish",
-    "vi": "Vietnamese",
-    "ko": "Korean",
-    "ta": "Tamil",
     "mr": "Marathi",
-    "fa": "Persian"
+    "vi": "Vietnamese",
+    "te": "Telugu",
+    "ha": "Hausa",
+    "tr": "Turkish"
 }
 
 SENTENCE_PUNCT = re.compile(r'([.!?])(?!\s|$)')
@@ -53,4 +51,3 @@ if __name__ == "__main__":
     translated = f"data/translated_prompts.json"
     with open(translated, "w", encoding="utf-8") as f:
         json.dump(translations, f, ensure_ascii=False, indent=4)
-

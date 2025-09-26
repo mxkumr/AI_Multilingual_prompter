@@ -1,0 +1,534 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\en.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Toyota",
+          "Honda",
+          "Ford",
+          "Chevrolet",
+          "Enter index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Enter vehicle index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\hi.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Enter vehicle index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\es.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "car",
+          "bike",
+          "truck",
+          "bus",
+          "Ingrese el índice del vehículo: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\ar.py",
+      "elements": {
+        "identifiers": [
+          "cars",
+          "index"
+        ],
+        "literals": [
+          "Toyota",
+          "Honda",
+          "Ford",
+          "Chevrolet",
+          "Enter car index: "
+        ],
+        "variables": [
+          "cars",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\bn.py",
+      "elements": {
+        "identifiers": [
+          "cars",
+          "index"
+        ],
+        "literals": [
+          "Toyota",
+          "Honda",
+          "Ford",
+          "Chevrolet",
+          "BMW",
+          "Enter car index: "
+        ],
+        "variables": [
+          "cars",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\fr.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Entrez l'index : "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\ru.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "car",
+          "bike",
+          "bus",
+          "train",
+          "Введите индекс: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\pt.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "carro",
+          "moto",
+          "ônibus",
+          "caminhão",
+          "Insira o índice do veículo: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\ur.py",
+      "elements": {
+        "identifiers": [
+          "cars",
+          "index"
+        ],
+        "literals": [
+          "Toyota",
+          "Honda",
+          "Ford",
+          "Chevrolet",
+          "Tesla",
+          "Enter car index: "
+        ],
+        "variables": [
+          "cars",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\id.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Masukkan indeks kendaraan: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\de.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Geben Sie einen Index eines Fahrzeugs ein: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\ja.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Enter index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "sw": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\sw.py",
+      "elements": {
+        "identifiers": [
+          "c",
+          "cars",
+          "index",
+          "num",
+          "ord",
+          "plate",
+          "sum"
+        ],
+        "literals": [
+          "Toyota",
+          "Honda",
+          "Ford",
+          "Chevrolet",
+          "BMW"
+        ],
+        "variables": [
+          "c",
+          "cars",
+          "index",
+          "num",
+          "plate"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\tr.py",
+      "elements": {
+        "identifiers": [
+          "arac_dizisi",
+          "index"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Enter index: "
+        ],
+        "variables": [
+          "arac_dizisi",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\vi.py",
+      "elements": {
+        "identifiers": [
+          "cars",
+          "index"
+        ],
+        "literals": [
+          "Toyota",
+          "Honda",
+          "Ford",
+          "Chevrolet",
+          "BMW",
+          "Enter index: "
+        ],
+        "variables": [
+          "cars",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ko": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\ko.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "차량 색인을 입력하세요: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ta": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\ta.py",
+      "elements": {
+        "identifiers": [
+          "code",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Enter vehicle code: "
+        ],
+        "variables": [
+          "code",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\mr.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Enter the index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fa": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v26slaso\\fa.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus"
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}

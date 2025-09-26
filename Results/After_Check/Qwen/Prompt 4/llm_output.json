@@ -1,0 +1,22 @@
+{
+    "en": "vehicles = [\"Toyota\", \"Honda\", \"Ford\", \"Chevrolet\"]\nindex = int(input(\"Enter index: \"))\nprint(vehicles[index])",
+    "zh-CN": "vehicles = ['Car', 'Bike', 'Truck', 'Bus']\nindex = int(input(\"Enter vehicle index: \"))\nprint(vehicles[index])",
+    "hi": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Enter vehicle index: \"))\nprint(vehicles[index])",
+    "es": "vehicles = ['car', 'bike', 'truck', 'bus']\nindex = int(input(\"Ingrese el índice del vehículo: \"))\nprint(vehicles[index])",
+    "ar": "cars = [\"Toyota\", \"Honda\", \"Ford\", \"Chevrolet\"]\nindex = int(input(\"Enter car index: \"))\nprint(cars[index])",
+    "bn": "cars = [\"Toyota\", \"Honda\", \"Ford\", \"Chevrolet\", \"BMW\"]\nindex = int(input(\"Enter car index: \"))\nprint(cars[index])",
+    "fr": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Entrez l'index : \"))\nprint(vehicles[index])",
+    "ru": "vehicles = ['car', 'bike', 'bus', 'train']\nindex = int(input(\"Введите индекс: \"))\nprint(vehicles[index])",
+    "pt": "vehicles = [\"carro\", \"moto\", \"ônibus\", \"caminhão\"]\nindex = int(input(\"Insira o índice do veículo: \"))\nprint(vehicles[index])",
+    "ur": "cars = ['Toyota', 'Honda', 'Ford', 'Chevrolet', 'Tesla']\nindex = int(input(\"Enter car index: \"))\nprint(cars[index])",
+    "id": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Masukkan indeks kendaraan: \"))\nprint(vehicles[index])",
+    "de": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Geben Sie einen Index eines Fahrzeugs ein: \"))\nprint(vehicles[index])",
+    "ja": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Enter index: \"))\nprint(vehicles[index])",
+    "sw": "cars = [\"Toyota\", \"Honda\", \"Ford\", \"Chevrolet\", \"BMW\"]\nplate = input()\nnum = sum(ord(c) for c in plate)\nindex = num % len(cars)\nprint(cars[index])",
+    "tr": "arac_dizisi = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Enter index: \"))\nprint(arac_dizisi[index])",
+    "vi": "cars = [\"Toyota\", \"Honda\", \"Ford\", \"Chevrolet\", \"BMW\"]\nindex = int(input(\"Enter index: \"))\nprint(cars[index])",
+    "ko": "vehicles = ['Car', 'Bike', 'Truck', 'Bus']\nindex = int(input(\"차량 색인을 입력하세요: \"))\nprint(vehicles[index])",
+    "ta": "vehicles = ['Car', 'Bike', 'Truck', 'Bus']\ncode = int(input(\"Enter vehicle code: \"))\nprint(vehicles[code])",
+    "mr": "vehicles = ['Car', 'Bike', 'Truck']\nindex = int(input(\"Enter the index: \"))\nprint(vehicles[index])",
+    "fa": "vehicles = ['Car', 'Bike', 'Truck', 'Bus']\nindex = int(input())\nprint(vehicles[index])"
+}
