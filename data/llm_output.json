@@ -1,3 +1,0 @@
-{
-    "en": "vehicles = ['Car', 'Bike', 'Truck', 'Bus', 'Motorcycle']\nindex = int(input(\"Enter an index: \"))\nprint(vehicles[index])"
-}

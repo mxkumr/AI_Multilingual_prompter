@@ -1,0 +1,596 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\en.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "destination",
+          "encode",
+          "num_bytes",
+          "source"
+        ],
+        "literals": [
+          "utf-8"
+        ],
+        "variables": [
+          "destination",
+          "encode",
+          "num_bytes",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "b'Hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\hi.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "dest",
+          "source",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "hello",
+          "utf-8",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "source",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\es.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [
+          "4",
+          "b'Hola",
+          "4"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\ar.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "copy_bytes",
+          "destination",
+          "i",
+          "num_bytes",
+          "source"
+        ],
+        "literals": [
+          "0",
+          "5",
+          "Hello"
+        ],
+        "variables": [
+          "buffer",
+          "destination",
+          "i",
+          "num_bytes",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\fr.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "dest",
+          "encode",
+          "src"
+        ],
+        "literals": [
+          "7",
+          "Bonjour",
+          "utf-8",
+          "7"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "encode",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\bn.py",
+      "elements": {
+        "identifiers": [
+          "bytearray",
+          "copy_bytes",
+          "decode",
+          "destination",
+          "num_bytes",
+          "source"
+        ],
+        "literals": [
+          "hello",
+          "utf-8",
+          "5",
+          "5"
+        ],
+        "variables": [
+          "decode",
+          "destination",
+          "num_bytes",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\pt.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "dest",
+          "i",
+          "source",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "Hello",
+          "utf-8",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "i",
+          "source",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\ru.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "destination",
+          "i",
+          "source"
+        ],
+        "literals": [
+          "5",
+          "b'Hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "destination",
+          "i",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\id.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "copy_bytes",
+          "destination",
+          "i",
+          "num_bytes",
+          "source"
+        ],
+        "literals": [
+          "0",
+          "5",
+          "Halo"
+        ],
+        "variables": [
+          "buffer",
+          "destination",
+          "i",
+          "num_bytes",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\ur.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [
+          "5",
+          "b'hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\de.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "b\"Hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\ja.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "b'Hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\mr.py",
+      "elements": {
+        "identifiers": [
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [
+          "b'hello"
+        ],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\vi.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "destination",
+          "encode",
+          "i",
+          "num_bytes",
+          "source",
+          "source_bytes"
+        ],
+        "literals": [
+          "ascii",
+          "5",
+          "Hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "destination",
+          "encode",
+          "i",
+          "num_bytes",
+          "source",
+          "source_bytes"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\te.py",
+      "elements": {
+        "identifiers": [
+          "bytearray",
+          "copy_bytes",
+          "dest",
+          "encode",
+          "src",
+          "src_str"
+        ],
+        "literals": [
+          "hello",
+          "utf-8"
+        ],
+        "variables": [
+          "dest",
+          "encode",
+          "src",
+          "src_str"
+        ],
+        "comments": [
+          "Convert string to bytes",
+          "Output: bytearray(b'hello')"
+        ],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\ha.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "byte",
+          "f",
+          "open",
+          "read"
+        ],
+        "literals": [
+          "file.bin",
+          "rb",
+          "b",
+          "1",
+          "b'Sannu"
+        ],
+        "variables": [
+          "buffer",
+          "byte",
+          "f",
+          "read"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q7vmfddi\\tr.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [
+          "5",
+          "b'Hello",
+          "5"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

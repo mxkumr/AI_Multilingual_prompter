@@ -1,0 +1,639 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\en.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "destination",
+          "encode",
+          "message",
+          "s",
+          "source",
+          "string_length"
+        ],
+        "literals": [
+          "Hello, World!",
+          "utf-8"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "destination",
+          "encode",
+          "message",
+          "s",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "encode",
+          "message",
+          "num_bytes",
+          "s",
+          "source",
+          "string_length",
+          "target"
+        ],
+        "literals": [
+          "Hello, world!",
+          "utf-8"
+        ],
+        "variables": [
+          "buffer",
+          "encode",
+          "message",
+          "num_bytes",
+          "s",
+          "source",
+          "target"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\hi.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "destination",
+          "encode",
+          "message",
+          "num_bytes",
+          "s",
+          "source",
+          "source_bytes",
+          "string_length"
+        ],
+        "literals": [
+          "Hello, World!"
+        ],
+        "variables": [
+          "buffer",
+          "destination",
+          "encode",
+          "message",
+          "num_bytes",
+          "s",
+          "source",
+          "source_bytes"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\es.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "decode",
+          "dest",
+          "encode",
+          "message",
+          "s",
+          "src",
+          "string_length"
+        ],
+        "literals": [
+          "0",
+          "0",
+          "Hello, world!"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "decode",
+          "dest",
+          "encode",
+          "message",
+          "s",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\ar.py",
+      "elements": {
+        "identifiers": [
+          "bytes",
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [
+          "utf-8"
+        ],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\fr.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "destination",
+          "encode",
+          "message",
+          "s",
+          "source",
+          "string_length"
+        ],
+        "literals": [
+          "Hello, world!",
+          "utf-8"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "destination",
+          "encode",
+          "message",
+          "s",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\bn.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\pt.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "destination",
+          "encode",
+          "message",
+          "num_bytes",
+          "s",
+          "source",
+          "string_length"
+        ],
+        "literals": [
+          "Hello, world!"
+        ],
+        "variables": [
+          "buffer",
+          "destination",
+          "encode",
+          "message",
+          "num_bytes",
+          "s",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\ru.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "encode",
+          "length",
+          "message",
+          "s",
+          "source",
+          "string_length",
+          "target"
+        ],
+        "literals": [
+          "Привет, мир!"
+        ],
+        "variables": [
+          "buffer",
+          "encode",
+          "length",
+          "message",
+          "s",
+          "source",
+          "target"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\id.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "destination",
+          "i",
+          "num_bytes",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "destination",
+          "i",
+          "num_bytes",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\ur.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "ctypes",
+          "dest",
+          "memmove",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "ctypes",
+          "dest",
+          "memmove",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\de.py",
+      "elements": {
+        "identifiers": [
+          "Stringlänge",
+          "copy_bytes",
+          "count",
+          "destination",
+          "encode",
+          "s",
+          "source",
+          "source_bytes"
+        ],
+        "literals": [
+          "utf-8"
+        ],
+        "variables": [
+          "count",
+          "destination",
+          "encode",
+          "s",
+          "source",
+          "source_bytes"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "Stringlänge",
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\ja.py",
+      "elements": {
+        "identifiers": [
+          "bytes_to_copy",
+          "copy_message_to_buffer",
+          "data",
+          "destination",
+          "encode",
+          "source",
+          "source_bytes"
+        ],
+        "literals": [
+          "utf-8"
+        ],
+        "variables": [
+          "bytes_to_copy",
+          "data",
+          "destination",
+          "encode",
+          "source",
+          "source_bytes"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_message_to_buffer"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\mr.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "destination",
+          "encode",
+          "s",
+          "source",
+          "string_length"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "destination",
+          "encode",
+          "s",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\vi.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "destination",
+          "encode",
+          "i",
+          "message",
+          "s",
+          "source",
+          "string_length"
+        ],
+        "literals": [
+          "Hello, world!"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "destination",
+          "encode",
+          "i",
+          "message",
+          "s",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\te.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "dest",
+          "s",
+          "src",
+          "string_length"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "s",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "string_length"
+        ],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\ha.py",
+      "elements": {
+        "identifiers": [
+          "bytes_count",
+          "content",
+          "count",
+          "f",
+          "line",
+          "lines",
+          "open",
+          "read",
+          "split",
+          "sum",
+          "words"
+        ],
+        "literals": [
+          "file.txt",
+          "rb",
+          "b'\\n",
+          "1",
+          "b'\\n",
+          "f\"Lines: {lines}, Words: {words}, Bytes: {bytes_count}"
+        ],
+        "variables": [
+          "bytes_count",
+          "content",
+          "count",
+          "f",
+          "line",
+          "lines",
+          "read",
+          "split",
+          "words"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_8uo3t3kx\\tr.py",
+      "elements": {
+        "identifiers": [
+          "buffer",
+          "bytearray",
+          "copy_bytes",
+          "count",
+          "destination",
+          "dize_uzunluğu",
+          "encode",
+          "message",
+          "s",
+          "source"
+        ],
+        "literals": [
+          "example message",
+          "utf-8"
+        ],
+        "variables": [
+          "buffer",
+          "count",
+          "destination",
+          "encode",
+          "message",
+          "s",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes",
+          "dize_uzunluğu"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

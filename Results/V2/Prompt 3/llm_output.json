@@ -1,0 +1,20 @@
+{
+    "en": "def copy_bytes(destination, source, num_bytes):\n    destination[:num_bytes] = source.encode('utf-8')[:num_bytes]",
+    "zh-CN": "def copy_bytes(dest, src, num_bytes):\n    dest[:num_bytes] = src[:num_bytes]\n    return dest\n\nbuffer = bytearray(5)\ncopy_bytes(buffer, b'Hello', 5)",
+    "hi": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]\n\nbuffer = bytearray(5)\nsource = bytearray('hello', 'utf-8')\ncopy_bytes(buffer, source, 5)",
+    "es": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]\n\nbuffer = bytearray(4)\ncopy_bytes(buffer, b'Hola', 4)",
+    "ar": "def copy_bytes(destination, source, num_bytes):\n    for i in range(num_bytes):\n        destination[i] = source[i]\n    return destination\n\nbuffer = [0] * 5\nsource = list('Hello')\ncopy_bytes(buffer, source, len(source))",
+    "fr": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]\n\nbuffer = bytearray(7)\ncopy_bytes(buffer, \"Bonjour\".encode('utf-8'), 7)",
+    "bn": "def copy_bytes(destination, source, num_bytes):\n    destination[:num_bytes] = source[:num_bytes]\n\nsource = bytearray('hello', 'utf-8')\ndestination = bytearray(5)\ncopy_bytes(destination, source, 5)\nprint(destination.decode())",
+    "pt": "def copy_bytes(dest, src, count):\n    for i in range(count):\n        dest[i] = src[i]\n\nbuffer = bytearray(5)\nsource = bytearray('Hello', 'utf-8')\ncopy_bytes(buffer, source, 5)",
+    "ru": "def copy_bytes(destination, source, count):\n    for i in range(count):\n        destination[i] = source[i]\n\nbuffer = bytearray(5)\nsource = bytearray(b'Hello')\ncopy_bytes(buffer, source, 5)\nprint(buffer)",
+    "id": "def copy_bytes(destination, source, num_bytes):\n    for i in range(num_bytes):\n        destination[i] = source[i]\n    return destination\n\nbuffer = [0] * 5\nsource = list('Halo')\ncopy_bytes(buffer, source, len(source))",
+    "ur": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]\n\nbuffer = bytearray(5)\ncopy_bytes(buffer, b'hello', 5)",
+    "de": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]\nbuffer = bytearray(5)\ncopy_bytes(buffer, b\"Hello\", 5)",
+    "ja": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]\n\nbuffer = bytearray(5)\ncopy_bytes(buffer, b'Hello', 5)",
+    "mr": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]\n\nsource = b'hello'\ndestination = bytearray(len(source))\ncopy_bytes(destination, source, len(source))\nprint(destination)",
+    "vi": "def copy_bytes(destination, source, num_bytes):\n    source_bytes = source.encode('ascii')\n    for i in range(num_bytes):\n        destination[i] = source_bytes[i]\n\nbuffer = bytearray(5)\ncopy_bytes(buffer, 'Hello', 5)",
+    "te": "src_str = 'hello'\nsrc = src_str.encode('utf-8')  # Convert string to bytes\ndest = bytearray(len(src))\ncopy_bytes(dest, src, len(src))\nprint(dest)  # Output: bytearray(b'hello')",
+    "ha": "with open('file.bin', 'rb') as f:\n    buffer = b''\n    while True:\n        byte = f.read(1)\n        if not byte:\n            break\n        buffer += byte\n        if b'Sannu' in buffer:\n            break\n    print(buffer)",
+    "tr": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]\n\nbuffer = bytearray(5)\ncopy_bytes(buffer, b'Hello', 5)"
+}

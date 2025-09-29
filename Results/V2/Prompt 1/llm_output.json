@@ -1,0 +1,20 @@
+{
+    "en": "def copy_bytes(dest, src, num_bytes):\n    dest[:num_bytes] = src[:num_bytes]",
+    "zh-CN": "def copy_bytes(target, source, length):\n    target_array = bytearray(target)\n    target_array[:length] = source[:length]\n    return target_array",
+    "hi": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]",
+    "es": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]",
+    "ar": "import ctypes\n\ndef copy_bytes(destination, source, count):\n    ctypes.memmove(destination, source, count)",
+    "fr": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]",
+    "bn": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]",
+    "pt": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]",
+    "ru": "def copy_bytes(destination, source, count):\n    if len(destination) < count:\n        raise ValueError(\"Destination buffer is too small\")\n    if len(source) < count:\n        raise ValueError(\"Source buffer is too small\")\n    destination[:count] = source[:count]",
+    "id": "def salin_byte(tujuan, sumber, jumlah_byte):\n    tujuan[:jumlah_byte] = sumber[:jumlah_byte]",
+    "ur": "def copy_bytes(destination, source, count):\n    destination[0:count] = source[0:count]\n    return destination",
+    "de": "def copy_bytes(destination, source, num_bytes):\n    destination[:num_bytes] = source[:num_bytes]",
+    "ja": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]",
+    "mr": "import ctypes\n\ndef copy_bytes(destination, source, count):\n    ctypes.memmove(destination, source, count)",
+    "vi": "def copy_bytes(dest, src, n):\n    dest[:n] = src[:n]",
+    "te": "def copy_bytes(destination, source, num_bytes):\n    for i in range(num_bytes):\n        destination[i] = source[i]",
+    "ha": "with open('file.bin', 'rb') as f:\n    farko, biyu, uku = 0, 0, 0\n    while chunk := f.read(256):\n        for b in chunk:\n            if 0 <= b <= 255:\n                farko += 1\n            elif b == 256:\n                biyu += 1\n            else:\n                uku += 1\nprint(f\"Farko: {farko}, Biyu: {biyu}, Uku: {uku}\")",
+    "tr": "def copy_bytes(dest, src, count):\n    dest[:count] = src[:count]"
+}

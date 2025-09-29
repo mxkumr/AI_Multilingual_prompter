@@ -1,0 +1,20 @@
+{
+    "en": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]\n\ndef string_length(s):\n    return len(s)\n\nmessage = \"Hello, World!\"\nbuffer = bytearray(len(message))\ncopy_bytes(buffer, message.encode('utf-8'), len(message))",
+    "zh-CN": "def string_length(s):\n    return len(s)\n\ndef copy_bytes(target, source, num_bytes):\n    target[:num_bytes] = source[:num_bytes]\n\nmessage = \"Hello, world!\"\nbuffer = bytearray(len(message))\ncopy_bytes(buffer, message.encode('utf-8'), len(message))",
+    "hi": "def string_length(s):\n    return len(s)\n\ndef copy_bytes(destination, source, num_bytes):\n    source_bytes = source.encode()\n    destination[:num_bytes] = source_bytes[:num_bytes]\n\nmessage = \"Hello, World!\"\nbuffer = bytearray(len(message))\ncopy_bytes(buffer, message, len(message))",
+    "es": "def copy_bytes(dest, src, count):\n    dest[0:count] = src[0:count]\n\ndef string_length(s):\n    return len(s)\n\nmessage = \"Hello, world!\"\nbuffer = bytearray(len(message))\ncopy_bytes(buffer, message.encode(), len(message))\nprint(buffer.decode())",
+    "ar": "def copy_bytes(destination, source, count):\n    destination[:count] = bytes(source, 'utf-8')[:count]\n    return len(source)",
+    "fr": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]\n\ndef string_length(s):\n    return len(s)\n\nmessage = \"Hello, world!\"\nbuffer = bytearray(len(message))\ncopy_bytes(buffer, message.encode('utf-8'), len(message))",
+    "bn": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]",
+    "pt": "def string_length(s):\n    return len(s)\n\ndef copy_bytes(destination, source, num_bytes):\n    destination[:num_bytes] = source[:num_bytes]\n\nmessage = \"Hello, world!\"\nbuffer = bytearray(string_length(message))\ncopy_bytes(buffer, message.encode(), string_length(message))",
+    "ru": "def copy_bytes(target, source, length):\n    target[:length] = source[:length]\n\ndef string_length(s):\n    return len(s)\n\nbuffer = bytearray()\nmessage = \"Привет, мир!\"\ncopy_bytes(buffer, message.encode(), len(message))",
+    "id": "def copy_bytes(destination, source, num_bytes):\n    for i in range(num_bytes):\n        destination[i] = source[i]\n    return len(destination)",
+    "ur": "import ctypes\n\ndef copy_bytes(dest, src, count):\n    ctypes.memmove(dest, src, count)",
+    "de": "def Stringlänge(s):\n    return len(s)\n\ndef copy_bytes(destination, source, count):\n    source_bytes = source.encode('utf-8')\n    destination[:count] = source_bytes[:count]",
+    "ja": "def copy_message_to_buffer(destination, source, bytes_to_copy):\n    source_bytes = source.encode('utf-8')\n    data = source_bytes[:bytes_to_copy]\n    destination[:len(data)] = data",
+    "mr": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count].encode()\n\ndef string_length(s):\n    return len(s)",
+    "vi": "def string_length(s):\n    return len(s)\n\ndef copy_bytes(destination, source, count):\n    for i in range(count):\n        destination[i] = source[i]\n\nmessage = \"Hello, world!\"\nbuffer = bytearray(string_length(message))\ncopy_bytes(buffer, message.encode(), string_length(message))",
+    "te": "def string_length(s):\n    return len(s)\n\ndef copy_bytes(dest, src, count):\n    dest[:count] = src[:count]",
+    "ha": "with open('file.txt', 'rb') as f:\n    content = f.read()\n    lines = content.count(b'\\n') + 1\n    words = sum(len(line.split()) for line in content.split(b'\\n'))\n    bytes_count = len(content)\n    print(f\"Lines: {lines}, Words: {words}, Bytes: {bytes_count}\")",
+    "tr": "def copy_bytes(destination, source, count):\n    destination[:count] = source[:count]\n\ndef dize_uzunluğu(s):\n    return len(s)\n\nmessage = \"example message\"\nbuffer = bytearray(dize_uzunluğu(message))\ncopy_bytes(buffer, message.encode('utf-8'), dize_uzunluğu(message))"
+}

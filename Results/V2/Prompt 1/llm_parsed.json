@@ -1,0 +1,495 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\en.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "num_bytes",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "bytearray",
+          "copy_bytes",
+          "length",
+          "source",
+          "target",
+          "target_array"
+        ],
+        "literals": [],
+        "variables": [
+          "length",
+          "source",
+          "target",
+          "target_array"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\hi.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\es.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\ar.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "ctypes",
+          "destination",
+          "memmove",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "ctypes",
+          "destination",
+          "memmove",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\fr.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\bn.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\pt.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\ru.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [
+          "Destination buffer is too small",
+          "Source buffer is too small"
+        ],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\id.py",
+      "elements": {
+        "identifiers": [
+          "jumlah_byte",
+          "salin_byte",
+          "sumber",
+          "tujuan"
+        ],
+        "literals": [],
+        "variables": [
+          "jumlah_byte",
+          "sumber",
+          "tujuan"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "salin_byte"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\ur.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [
+          "0",
+          "0"
+        ],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\de.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "destination",
+          "num_bytes",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "destination",
+          "num_bytes",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\ja.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "destination",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "destination",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\mr.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "ctypes",
+          "destination",
+          "memmove",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "ctypes",
+          "destination",
+          "memmove",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\vi.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "dest",
+          "n",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "dest",
+          "n",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\te.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "destination",
+          "i",
+          "num_bytes",
+          "source"
+        ],
+        "literals": [],
+        "variables": [
+          "destination",
+          "i",
+          "num_bytes",
+          "source"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\ha.py",
+      "elements": {
+        "identifiers": [
+          "b",
+          "biyu",
+          "chunk",
+          "f",
+          "farko",
+          "open",
+          "read",
+          "uku"
+        ],
+        "literals": [
+          "file.bin",
+          "rb",
+          "0",
+          "0",
+          "0",
+          "256",
+          "0",
+          "255",
+          "1",
+          "256",
+          "1",
+          "1",
+          "f\"Farko: {farko}, Biyu: {biyu}, Uku: {uku}"
+        ],
+        "variables": [
+          "b",
+          "biyu",
+          "chunk",
+          "f",
+          "farko",
+          "read",
+          "uku"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_6uraghp3\\tr.py",
+      "elements": {
+        "identifiers": [
+          "copy_bytes",
+          "count",
+          "dest",
+          "src"
+        ],
+        "literals": [],
+        "variables": [
+          "count",
+          "dest",
+          "src"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "copy_bytes"
+        ],
+        "classes": []
+      }
+    }
+  }
+}
