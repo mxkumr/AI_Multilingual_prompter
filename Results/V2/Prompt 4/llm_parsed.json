@@ -1,0 +1,526 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\en.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "car",
+          "bike",
+          "truck",
+          "bus",
+          "Enter an index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Motorcycle",
+          "Enter vehicle index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\hi.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Van",
+          "Enter an index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\es.py",
+      "elements": {
+        "identifiers": [
+          "indice",
+          "vehiculos"
+        ],
+        "literals": [
+          "Auto",
+          "Moto",
+          "Camion",
+          "Bicicleta",
+          "Avion",
+          "Ingrese un índice: "
+        ],
+        "variables": [
+          "indice",
+          "vehiculos"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\ar.py",
+      "elements": {
+        "identifiers": [
+          "cars",
+          "index"
+        ],
+        "literals": [
+          "BMW",
+          "Audi",
+          "Toyota",
+          "Honda",
+          "Enter the index of the car: "
+        ],
+        "variables": [
+          "cars",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\fr.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Voiture",
+          "Moto",
+          "Camion",
+          "Bus",
+          "Trolley",
+          "Entrez un index : "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\bn.py",
+      "elements": {
+        "identifiers": [
+          "cars",
+          "index"
+        ],
+        "literals": [
+          "Toyota",
+          "Honda",
+          "Ford",
+          "BMW",
+          "Tesla",
+          "Enter car index: "
+        ],
+        "variables": [
+          "cars",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\pt.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Carro",
+          "Moto",
+          "Caminhão",
+          "Avião",
+          "Navio",
+          "Digite o índice do veículo: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\ru.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "car",
+          "idx",
+          "index",
+          "keys",
+          "vehicles"
+        ],
+        "literals": [
+          "car1",
+          "Toyota",
+          "car2",
+          "BMW",
+          "car3",
+          "Tesla",
+          "car4",
+          "Ford",
+          "car5",
+          "Honda",
+          "Введите индекс транспортного средства: ",
+          "1",
+          "1",
+          "f\"Автомобиль: {vehicles[car]}",
+          "Неверный индекс.",
+          "Введите корректное целое число."
+        ],
+        "variables": [
+          "ValueError",
+          "car",
+          "idx",
+          "index",
+          "keys",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\id.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle_indices"
+        ],
+        "literals": [
+          "Mobil",
+          "Motor",
+          "Bus",
+          "Truk",
+          "Helikopter",
+          "Masukkan indeks kendaraan: "
+        ],
+        "variables": [
+          "index",
+          "vehicle_indices"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\ur.py",
+      "elements": {
+        "identifiers": [
+          "cars",
+          "index"
+        ],
+        "literals": [
+          "Car 1",
+          "Car 2",
+          "Car 3",
+          "Car 4",
+          "Car 5",
+          "Enter the index of the car: "
+        ],
+        "variables": [
+          "cars",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\de.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Auto",
+          "Motorrad",
+          "Bus",
+          "LKW",
+          "Fahrrad",
+          "Geben Sie den Index des Fahrzeugs ein: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\ja.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car A",
+          "Bike B",
+          "Truck C",
+          "Bus D"
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\mr.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Enter vehicle index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\vi.py",
+      "elements": {
+        "identifiers": [
+          "cars",
+          "index"
+        ],
+        "literals": [
+          "Car A",
+          "Car B",
+          "Car C",
+          "Car D",
+          "Enter index: "
+        ],
+        "variables": [
+          "cars",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\te.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Enter vehicle index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\ha.py",
+      "elements": {
+        "identifiers": [
+          "best_car",
+          "cars",
+          "key",
+          "max",
+          "x"
+        ],
+        "literals": [
+          "distance",
+          "100",
+          "fuel",
+          "5",
+          "distance",
+          "150",
+          "fuel",
+          "10",
+          "distance",
+          "200",
+          "fuel",
+          "20",
+          "distance",
+          "250",
+          "fuel",
+          "15",
+          "distance",
+          "fuel",
+          "f\"Car with highest Index: Distance={best_car['distance']}, Fuel={best_car['fuel']}, Index={best_car['distance']/best_car['fuel']}",
+          "distance",
+          "fuel",
+          "distance",
+          "fuel"
+        ],
+        "variables": [
+          "best_car",
+          "cars",
+          "key",
+          "x"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_64a0bls3\\tr.py",
+      "elements": {
+        "identifiers": [
+          "directory_input",
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Enter a directory: ",
+          "Car1",
+          "Car2",
+          "Car3",
+          "Car4",
+          "Car5"
+        ],
+        "variables": [
+          "directory_input",
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}

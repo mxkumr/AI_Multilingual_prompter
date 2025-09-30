@@ -1,7 +1,11 @@
 import os
 import sys
 import json
-from typing import Dict, Any
+import asyncio
+import time
+import logging
+from datetime import datetime
+from typing import Dict, Any, Optional
 
 
 def ensure_dirs() -> str:
@@ -11,40 +15,16 @@ def ensure_dirs() -> str:
     return project_root
 
 
-def translate_prompt(prompt_text: str) -> Dict[str, str]:
-    from deep_translator import GoogleTranslator
-    # Keep in sync with Prompt_translation.top_20_languages
-    target_langs = [
-        "en",      # English
-        "zh-CN",  # Chinese (Mandarin)
-        "hi",     # Hindi
-        "es",     # Spanish
-        "ar",     # Arabic
-        "bn",     # Bengali
-        "fr",     # French
-        "ru",     # Russian
-        "pt",     # Portuguese
-        "ur",     # Urdu
-        "id",     # Indonesian
-        "de",     # German
-        "ja",     # Japanese
-        "sw",     # Swahili
-        "tr",     # Turkish
-        "vi",     # Vietnamese
-        "ko",     # Korean
-        "ta",     # Tamil
-        "mr",     # Marathi
-        "fa"      # Persian
-    ]
+def translate_prompt(prompt_text: str) -> Dict[str, Optional[str]]:
+    # Delegate to Prompt_translation.translate_prompt (async) with TARGET_LANG_CODES
+    from Prompt_translation import translate_prompt as pt_translate_prompt, TARGET_LANG_CODES
 
-    translations: Dict[str, str] = {}
-    for lang in target_langs:
-        try:
-            translations[lang] = GoogleTranslator(source='en', target=lang).translate(prompt_text)
-        except Exception as e:
-            print(f"Translation failed for {lang}: {e}")
-            translations[lang] = None
-    return translations
+    try:
+        return asyncio.run(pt_translate_prompt(prompt_text, TARGET_LANG_CODES))
+    except RuntimeError:
+        # Fallback if an event loop is already running
+        loop = asyncio.get_event_loop()
+        return loop.run_until_complete(pt_translate_prompt(prompt_text, TARGET_LANG_CODES))
 
 
 def query_llm_for_translations(translations: Dict[str, str]) -> Dict[str, str]:
@@ -57,7 +37,22 @@ def query_llm_for_translations(translations: Dict[str, str]) -> Dict[str, str]:
             continue
         try:
             print(f"Querying LLM for {lang}...")
-            outputs[lang] = query_model(prompt)
+            start_perf = time.perf_counter()
+            start_wall = time.time()
+            try:
+                result = query_model(prompt)
+                end_wall = time.time()
+                duration = time.perf_counter() - start_perf
+                log_llm_duration(lang, start_wall, end_wall, duration, success=True)
+                outputs[lang] = result
+                print(f"Generated code for {lang}: {str(result)[:100]}...")
+            except Exception as inner_e:
+                end_wall = time.time()
+                duration = time.perf_counter() - start_perf
+                log_llm_duration(lang, start_wall, end_wall, duration, success=False, error_message=str(inner_e))
+                print(f"LLM query failed for {lang}: {inner_e}")
+                outputs[lang] = None
+            time.sleep(1)
         except Exception as e:
             print(f"LLM query failed for {lang}: {e}")
             outputs[lang] = None
@@ -78,9 +73,38 @@ def visualize_language_distribution() -> None:
     non_english.main()
 
 
+def setup_logger() -> None:
+    """Configure logging to file for LLM runtimes."""
+    logging.basicConfig(
+        filename="data/llm_runtime.log",
+        filemode="a",
+        level=logging.INFO,
+        format="%(asctime)s\t%(levelname)s\t%(message)s",
+    )
+    # Reduce noise from HTTP client libraries and others
+    for noisy in ("httpx", "urllib3", "requests", "googletrans"):
+        logging.getLogger(noisy).setLevel(logging.WARNING)
+
+
+def log_llm_duration(language: str, start_ts: float, end_ts: float, seconds: float, success: bool = True, error_message: Optional[str] = None) -> None:
+    """Log start time, end time, and total duration (in minutes) for an LLM run."""
+    start_iso = datetime.fromtimestamp(start_ts).isoformat(timespec="seconds")
+    end_iso = datetime.fromtimestamp(end_ts).isoformat(timespec="seconds")
+    minutes = seconds / 60.0
+    if success:
+        logging.info(
+            f"lang={language}\tstart={start_iso}\tend={end_iso}\tduration_min={minutes:.3f}"
+        )
+    else:
+        logging.error(
+            f"lang={language}\tstart={start_iso}\tend={end_iso}\tduration_min={minutes:.3f}\terror={error_message}"
+        )
+
+
 def main() -> None:
     project_root = ensure_dirs()
     data_dir = os.path.join(project_root, "data")
+    setup_logger()
 
     # 1) Prompt input
     prompt_text = None

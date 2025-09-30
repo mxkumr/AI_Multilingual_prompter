@@ -1,0 +1,20 @@
+{
+  "en": "vehicles = [\"car\", \"bike\", \"truck\", \"bus\"]\nindex = int(input(\"Enter an index: \"))\nprint(vehicles[index])",
+  "zh-CN": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\", \"Motorcycle\"]\nindex = int(input(\"Enter vehicle index: \"))\nprint(vehicles[index])",
+  "hi": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\", \"Van\"]\nindex = int(input(\"Enter an index: \"))\nprint(vehicles[index])",
+  "es": "vehiculos = [\"Auto\", \"Moto\", \"Camion\", \"Bicicleta\", \"Avion\"]\nindice = int(input(\"Ingrese un índice: \"))\nprint(vehiculos[indice])",
+  "ar": "cars = [\"BMW\", \"Audi\", \"Toyota\", \"Honda\"]\nindex = int(input(\"Enter the index of the car: \"))\nprint(cars[index])",
+  "fr": "vehicles = [\"Voiture\", \"Moto\", \"Camion\", \"Bus\", \"Trolley\"]\nindex = int(input(\"Entrez un index : \"))\nprint(vehicles[index])",
+  "bn": "cars = [\"Toyota\", \"Honda\", \"Ford\", \"BMW\", \"Tesla\"]\nindex = int(input(\"Enter car index: \"))\nprint(cars[index])",
+  "pt": "vehicles = [\"Carro\", \"Moto\", \"Caminhão\", \"Avião\", \"Navio\"]\nindex = int(input(\"Digite o índice do veículo: \"))\nprint(vehicles[index])",
+  "ru": "vehicles = {\"car1\": \"Toyota\", \"car2\": \"BMW\", \"car3\": \"Tesla\", \"car4\": \"Ford\", \"car5\": \"Honda\"}\nindex = input(\"Введите индекс транспортного средства: \")\ntry:\n    idx = int(index)\n    if 1 <= idx <= len(vehicles):\n        car = list(vehicles.keys())[idx - 1]\n        print(f\"Автомобиль: {vehicles[car]}\")\n    else:\n        print(\"Неверный индекс.\")\nexcept ValueError:\n    print(\"Введите корректное целое число.\")",
+  "id": "vehicle_indices = [\"Mobil\", \"Motor\", \"Bus\", \"Truk\", \"Helikopter\"]\nindex = int(input(\"Masukkan indeks kendaraan: \"))\nprint(vehicle_indices[index])",
+  "ur": "cars = [\"Car 1\", \"Car 2\", \"Car 3\", \"Car 4\", \"Car 5\"]\nindex = int(input(\"Enter the index of the car: \"))\nprint(cars[index])",
+  "de": "vehicles = [\"Auto\", \"Motorrad\", \"Bus\", \"LKW\", \"Fahrrad\"]\nindex = int(input(\"Geben Sie den Index des Fahrzeugs ein: \"))\nprint(vehicles[index])",
+  "ja": "vehicles = [\"Car A\", \"Bike B\", \"Truck C\", \"Bus D\"]\nindex = int(input())\nprint(vehicles[index])",
+  "mr": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Enter vehicle index: \"))\nprint(vehicles[index])",
+  "vi": "cars = [\"Car A\", \"Car B\", \"Car C\", \"Car D\"]\nindex = int(input(\"Enter index: \"))\nprint(cars[index])",
+  "te": "vehicles = [\"Car\", \"Bike\", \"Truck\", \"Bus\"]\nindex = int(input(\"Enter vehicle index: \"))\nprint(vehicles[index])",
+  "ha": "cars = [\n    {'distance': 100, 'fuel': 5},\n    {'distance': 150, 'fuel': 10},\n    {'distance': 200, 'fuel': 20},\n    {'distance': 250, 'fuel': 15},\n]\n\nbest_car = max(cars, key=lambda x: x['distance'] / x['fuel'])\nprint(f\"Car with highest Index: Distance={best_car['distance']}, Fuel={best_car['fuel']}, Index={best_car['distance']/best_car['fuel']}\")",
+  "tr": "directory_input = input(\"Enter a directory: \")\nindex = int(directory_input)\nvehicles = [\"Car1\", \"Car2\", \"Car3\", \"Car4\", \"Car5\"]\nprint(vehicles[index])"
+}
