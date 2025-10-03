@@ -1,0 +1,20 @@
+{
+  "en": "Generate Python code for the following: The code creates an array of elements. The code takes in a command line argument and converts it to an integer. It then prints the element at that index.",
+  "zh-CN": "为以下内容生成Python代码：该代码创建元素数组。该代码接收命令行参数并将其转换为整数。然后，它在该索引处打印元素。",
+  "hi": "निम्नलिखित के लिए पायथन कोड उत्पन्न करें: कोड तत्वों की एक सरणी बनाता है। कोड एक कमांड लाइन तर्क में लेता है और इसे एक पूर्णांक में परिवर्तित करता है। यह तब उस सूचकांक पर तत्व को प्रिंट करता है।",
+  "es": "Genere el código Python para lo siguiente: el código crea una matriz de elementos. El código toma un argumento de línea de comandos y lo convierte en un entero. Luego imprime el elemento en ese índice.",
+  "ar": "إنشاء رمز Python لما يلي: الرمز ينشئ مجموعة من العناصر. يأخذ الرمز في وسيطة سطر الأوامر ويحولها إلى عدد صحيح. ثم يطبع العنصر في هذا الفهرس.",
+  "fr": "Générer le code Python pour ce qui suit: Le code crée un tableau d'éléments. Le code prend un argument de ligne de commande et le convertit en un entier. Il imprime ensuite l'élément de cet index.",
+  "bn": "নিম্নলিখিতগুলির জন্য পাইথন কোড তৈরি করুন: কোডটি উপাদানগুলির একটি অ্যারে তৈরি করে। কোডটি একটি কমান্ড লাইন আর্গুমেন্ট গ্রহণ করে এবং এটিকে একটি পূর্ণসংখ্যায় রূপান্তর করে। এটি তখন সেই সূচকে উপাদানটি মুদ্রণ করে।",
+  "pt": "Gere código Python para o seguinte: O código cria uma matriz de elementos. O código leva um argumento da linha de comando e o converte em um número inteiro. Em seguida, ele imprime o elemento nesse índice.",
+  "ru": "Создайте код Python для следующего: Код создает множество элементов. Код принимает аргумент командной строки и преобразует его в целое число. Затем он печатает элемент в этом индексе.",
+  "id": "Hasilkan Kode Python untuk yang berikut: Kode membuat berbagai elemen. Kode mengambil argumen baris perintah dan mengubahnya menjadi bilangan bulat. Kemudian mencetak elemen pada indeks itu.",
+  "ur": "مندرجہ ذیل کے لئے ازگر کا کوڈ بنائیں: کوڈ عناصر کی ایک صف تیار کرتا ہے۔ کوڈ ایک کمانڈ لائن دلیل میں لیتا ہے اور اسے عددی میں تبدیل کرتا ہے۔ اس کے بعد اس انڈیکس میں عنصر کو پرنٹ کرتا ہے۔",
+  "de": "Generieren Sie den Python -Code für Folgendes: Der Code erstellt eine Reihe von Elementen. Der Code nimmt ein Befehlszeilenargument auf und wandelt es in eine Ganzzahl um. Es druckt dann das Element in diesem Index.",
+  "ja": "以下のPythonコードを生成します。コードは、一連の要素を作成します。コードはコマンドラインの引数を取り入れ、整数に変換します。次に、そのインデックスで要素を印刷します。",
+  "mr": "पुढीलसाठी पायथन कोड व्युत्पन्न करा: कोड घटकांचा एक अ‍ॅरे तयार करतो. कोड कमांड लाइन वितर्क घेते आणि त्यास पूर्णांकात रूपांतरित करते. त्यानंतर त्या निर्देशांकात घटक मुद्रित करते.",
+  "vi": "Tạo mã Python cho các mục sau: Mã tạo ra một mảng các phần tử. Mã lấy một đối số dòng lệnh và chuyển đổi nó thành một số nguyên. Sau đó, nó in phần tử tại chỉ mục đó.",
+  "te": "కింది వాటి కోసం పైథాన్ కోడ్‌ను రూపొందించండి: కోడ్ మూలకాల శ్రేణిని సృష్టిస్తుంది. కోడ్ కమాండ్ లైన్ ఆర్గ్యుమెంట్‌లో తీసుకొని దానిని పూర్ణాంకంగా మారుస్తుంది. అది ఆ సూచిక వద్ద మూలకాన్ని ముద్రిస్తుంది.",
+  "ha": "Haɗa lambar Python don masu zuwa: Lambar ta haifar da tsararru na abubuwa. Lambar tana ɗaukar kanta ta hanyar haɗin gwiwa kuma tana canza shi zuwa lamba. Daga nan ya buga kashi a waccan taken.",
+  "tr": "Aşağıdakiler için Python kodu oluşturun: Kod bir dizi öğe oluşturur. Kod bir komut satırı bağımsız değişkeni alır ve bir tamsaya dönüştürür. Daha sonra öğeyi o dizin üzerine yazdırır."
+}

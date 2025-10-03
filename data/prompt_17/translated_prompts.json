@@ -1,0 +1,20 @@
+{
+  "en": "Generate Python code for the following: The code takes in a number from the user and returns the value at that index in the array.",
+  "zh-CN": "为以下内容生成Python代码：该代码从用户中获取一个数字，并在数组中的该索引返回该值。",
+  "hi": "निम्नलिखित के लिए पायथन कोड उत्पन्न करें: कोड उपयोगकर्ता से एक नंबर में लेता है और सरणी में उस इंडेक्स पर मान लौटाता है।",
+  "es": "Genere el código Python para lo siguiente: el código toma un número del usuario y devuelve el valor en ese índice en la matriz.",
+  "ar": "قم بإنشاء رمز Python لما يلي: يأخذ الرمز رقمًا من المستخدم ويعيد القيمة في هذا الفهرس في الصفيف.",
+  "fr": "Générez le code Python pour les éléments suivants: Le code prend un nombre de l'utilisateur et renvoie la valeur à cet index dans le tableau.",
+  "bn": "নিম্নলিখিতগুলির জন্য পাইথন কোড তৈরি করুন: কোডটি ব্যবহারকারীর কাছ থেকে একটি সংখ্যা নেয় এবং অ্যারেতে সেই সূচকে মানটি দেয়।",
+  "pt": "Gere código Python para o seguinte: O código recebe um número do usuário e retorna o valor nesse índice na matriz.",
+  "ru": "Сгенерируйте код Python для следующего: код получает число от пользователя и возвращает значение в этом индексе в массиве.",
+  "id": "Hasilkan kode Python untuk yang berikut: Kode mengambil nomor dari pengguna dan mengembalikan nilai pada indeks itu dalam array.",
+  "ur": "مندرجہ ذیل کے لئے ازگر کا کوڈ بنائیں: کوڈ صارف سے ایک نمبر لے جاتا ہے اور صف میں اس انڈیکس میں قیمت لوٹاتا ہے۔",
+  "de": "Generieren Sie den Python -Code für Folgendes: Der Code nimmt eine Nummer vom Benutzer ein und gibt den Wert in diesem Index im Array zurück.",
+  "ja": "以下のPythonコードを生成します。コードはユーザーから数字を取得し、配列のそのインデックスで値を返します。",
+  "mr": "पुढीलसाठी पायथन कोड व्युत्पन्न करा: कोड वापरकर्त्याकडून एक नंबर घेते आणि अ‍ॅरेमधील त्या निर्देशांकातील मूल्य परत करते.",
+  "vi": "Tạo mã Python cho các mục sau: Mã lấy một số từ người dùng và trả về giá trị tại chỉ mục đó trong mảng.",
+  "te": "కింది వాటి కోసం పైథాన్ కోడ్‌ను రూపొందించండి: కోడ్ వినియోగదారు నుండి ఒక సంఖ్యను తీసుకుంటుంది మరియు శ్రేణిలోని ఆ సూచిక వద్ద విలువను తిరిగి ఇస్తుంది.",
+  "ha": "Haɗa lambar Python don masu zuwa: Lambar tana ɗaukar lamba daga mai amfani kuma ya dawo da darajar a wannan bayanin a cikin jerin abubuwan cikin tsararre.",
+  "tr": "Aşağıdakiler için Python kodu oluşturun: Kod kullanıcıdan bir sayı alır ve dizideki o dizinde değeri döndürür."
+}

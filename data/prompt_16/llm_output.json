@@ -1,0 +1,20 @@
+{
+  "en": "def get_index_value(arr, index):\n    return arr[index]",
+  "zh-CN": "def get_value(index, arr):\n    return arr[index]",
+  "hi": "arr = [10, 20, 30, 40, 50, 60]\nn = int(input())\nprint(arr[n])",
+  "es": "arr = [10, 20, 30, 40, 50, 60]\nn = int(input())\nprint(arr[n])",
+  "ar": "def get_index_value(arr, index):\n    return arr[index]",
+  "fr": "n = int(input())\narr = [10, 20, 30, 40, 50, 60]\nprint(arr[n])",
+  "bn": "n = int(input())\narray = list(range(n + 1))\nprint(array[n])",
+  "pt": "n = int(input())\narr = [10, 20, 30, 40, 50, 60]\nprint(arr[n])",
+  "ru": "def get_value_by_index(input_number):\n    array = [10, 20, 30, 40, 50, 60]\n    return array[input_number]",
+  "id": "def get_index_value(arr, index):\n    return arr[index]",
+  "ur": "def get_value(index):\n    my_list = [0, 1, 2, 3, 4, 5]\n    return my_list[index]",
+  "de": "array = [10, 20, 30, 40, 50, 60]\nindex = int(input())\nprint(array[index])",
+  "ja": "def get_value(index):\n    arr = [10, 20, 30, 40, 50, 60]\n    return arr[index]",
+  "mr": "n = int(input())\narr = [0, 1, 2, 3, 4, 5]\nprint(arr[n])",
+  "vi": "def get_element(index, arr):\n    return arr[index]",
+  "te": "numbers = [10, 20, 30, 40, 50, 60, 70]\nindex = int(input())\nprint(numbers[index])",
+  "ha": "def sum_at_index(lists, index):\n    return sum(sublist[index] for sublist in lists if index < len(sublist))",
+  "tr": "def get_value(index):\n    my_list = [10, 20, 30, 40, 50, 60]\n    return my_list[index]"
+}

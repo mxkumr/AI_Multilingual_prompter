@@ -1,0 +1,20 @@
+{
+  "en": "def get_id_value():\n    index = int(input(\"Enter index: \"))\n    return id_sequence[index]",
+  "zh-CN": "ID_SEQUENCE = [10, 20, 30, 40, 50]\ndef get_value():\n    index = int(input(\"Enter index: \"))\n    return ID_SEQUENCE[index]",
+  "hi": "def get_value():\n    index = int(input(\"Enter an index value: \"))\n    return ID_PEATION[index]",
+  "es": "def get_id_from_index():\n    index = int(input(\"Ingrese el valor de índice: \"))\n    return id_sequence[index]",
+  "ar": "def get_value_from_index():\n    index = int(input(\"Enter index: \"))\n    return ID_Seference[index]",
+  "fr": "def get_value():\n    index = int(input(\"Enter index: \"))\n    return id_Sequence[index]",
+  "bn": "id_sensors = [10, 20, 30, 40, 50]\n\ndef get_sensor_value():\n    index = int(input(\"Enter index: \"))\n    return id_sensors[index]",
+  "pt": "def get_value():\n    index = int(input(\"Enter index: \"))\n    return id_sequence[index]",
+  "ru": "def get_id_from_index():\n    index = int(input(\"Введите значение индекса: \"))\n    return id_sequence[index]",
+  "id": "def get_value_from_sequence():\n    index = int(input(\"Enter index: \"))\n    return ID_SEQUENCE[index]",
+  "ur": "def get_price():\n    index = int(input(\"Enter the index value: \"))\n    return ID_SECANCE[index]",
+  "de": "ID_SEQUENCE = [10, 20, 30, 40, 50]\n\ndef get_value_at_index():\n    index = int(input(\"Geben Sie den Indexwert ein: \"))\n    print(ID_SEQUENCE[index])",
+  "ja": "def get_value_from_sequence(id_sequence):\n    index = int(input(\"Enter index: \"))\n    return id_sequence[index]",
+  "mr": "def get_id_from_index():\n    index = int(input(\"Enter the index value: \"))\n    ids = ['ID1', 'ID2', 'ID3', 'ID4', 'ID5']\n    return ids[index]",
+  "vi": "def get_value_from_id_sequence():\n    index = int(input(\"Nhập chỉ mục: \"))\n    return ID_Sequence[index]",
+  "te": "def get_value():\n    index = int(input(\"Enter index: \"))\n    id_sequence = [101, 102, 103, 104]  # Example list\n    return id_sequence[index]",
+  "ha": "numbers = [1, 2, 3, 4]\nresult = max(map(lambda x: x**2, numbers))\nprint(result)",
+  "tr": "def get_value_from_directory():\n    directory = input(\"Enter a directory value: \")\n    return ID_REXENCE[int(directory)]"
+}

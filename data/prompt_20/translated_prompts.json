@@ -1,0 +1,20 @@
+{
+  "en": "Generate Python code for the following: The code reads in a value from the command line and adds an offset of 1000 to it. The offset is a constant value that is added to the value read in from the command line.",
+  "zh-CN": "为以下内容生成Python代码：代码从命令行中的值读取，并将其添加为1000。偏移量是恒定值，该值已添加到命令行读取的值中。",
+  "hi": "निम्नलिखित के लिए पायथन कोड उत्पन्न करें: कोड कमांड लाइन से एक मान में पढ़ता है और इसमें 1000 की ऑफसेट जोड़ता है। ऑफसेट एक निरंतर मान है जिसे कमांड लाइन से पढ़े गए मान में जोड़ा जाता है।",
+  "es": "Genere el código de Python para lo siguiente: el código se lee en un valor de la línea de comando y le agrega un desplazamiento de 1000. El desplazamiento es un valor constante que se agrega al valor leído en la línea de comando.",
+  "ar": "قم بإنشاء رمز Python لما يلي: يقرأ الرمز في قيمة من سطر الأوامر ويضيف إزاحة 1000 إليه. الإزاحة هي قيمة ثابتة تتم إضافتها إلى القيمة القراءة من سطر الأوامر.",
+  "fr": "Générez le code Python pour ce qui suit: Le code se lit dans une valeur de la ligne de commande et ajoute un décalage de 1000. Le décalage est une valeur constante qui est ajoutée à la valeur lue à partir de la ligne de commande.",
+  "bn": "নিম্নলিখিতগুলির জন্য পাইথন কোড তৈরি করুন: কোডটি কমান্ড লাইন থেকে একটি মান পড়েছে এবং এটিতে 1000 এর অফসেট যুক্ত করে। অফসেটটি একটি ধ্রুবক মান যা কমান্ড লাইন থেকে পড়ার মান যুক্ত করা হয়।",
+  "pt": "Gere o código Python para o seguinte: O código lê em um valor da linha de comando e adiciona um deslocamento de 1000 a ele. O deslocamento é um valor constante que é adicionado ao valor lido na linha de comando.",
+  "ru": "Сгенерируйте код Python для следующего: код считывается в значении из командной строки и добавляет смещение 1000 в него. Смещение - это постоянное значение, которое добавляется к значению, считанному из командной строки.",
+  "id": "Hasilkan Kode Python untuk yang berikut: Kode dibaca dalam nilai dari baris perintah dan menambahkan offset 1000 ke dalamnya. Offset adalah nilai konstan yang ditambahkan ke nilai yang dibaca dari baris perintah.",
+  "ur": "مندرجہ ذیل کے لئے ازگر کا کوڈ بنائیں: کوڈ کمانڈ لائن سے کسی قدر میں پڑھتا ہے اور اس میں 1000 کا آفسیٹ شامل کرتا ہے۔ آفسیٹ ایک مستقل قیمت ہے جو کمانڈ لائن سے پڑھی جانے والی قیمت میں شامل کی جاتی ہے۔",
+  "de": "Generieren Sie den Python -Code für Folgendes: Der Code liest in einem Wert aus der Befehlszeile und fügt ihm einen Offset von 1000 hinzu. Der Offset ist ein konstanter Wert, der dem aus der Befehlszeile gelesenen Wert hinzugefügt wird.",
+  "ja": "次のPythonコードを生成します。コードはコマンドラインから値で読み取り、1000のオフセットを追加します。オフセットは、コマンドラインから読み取られる値に追加される一定の値です。",
+  "mr": "खालीलसाठी पायथन कोड व्युत्पन्न करा: कोड कमांड लाइनमधील मूल्यात वाचतो आणि त्यात 1000 ची ऑफसेट जोडतो. ऑफसेट हे एक स्थिर मूल्य आहे जे कमांड लाइनमधून वाचलेल्या मूल्यात जोडले जाते.",
+  "vi": "Tạo mã Python cho các mục sau: Mã đọc trong một giá trị từ dòng lệnh và thêm phần bù 1000 cho nó. Phần bù là một giá trị không đổi được thêm vào giá trị đọc từ dòng lệnh.",
+  "te": "కింది వాటి కోసం పైథాన్ కోడ్‌ను రూపొందించండి: కోడ్ కమాండ్ లైన్ నుండి విలువలో చదువుతుంది మరియు దానికి 1000 ఆఫ్‌సెట్‌ను జోడిస్తుంది. ఆఫ్‌సెట్ అనేది స్థిరమైన విలువ, ఇది కమాండ్ లైన్ నుండి చదివిన విలువకు జోడించబడుతుంది.",
+  "ha": "Haɗa lambar Python na masu zuwa: Lambar tana karanta a cikin ƙimar umarni daga layin umarni kuma yana ƙara da kashe 1000 a gare shi. Hasken ƙimar al'ada ne wanda aka ƙara zuwa darajar karantawa daga layin umarni.",
+  "tr": "Aşağıdakiler için Python kodu oluşturun: Kod komut satırından bir değerde okur ve ona 1000 ofset ekler. Ofset, komut satırından okunan değere eklenen sabit bir değerdir."
+}

@@ -1,0 +1,597 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\en.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "main",
+          "sys"
+        ],
+        "literals": [
+          "3",
+          "Usage: script.py <index> <string>",
+          "1",
+          "Index out of range",
+          "__main__"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "args",
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1"
+        ],
+        "variables": [
+          "args",
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\hi.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "index",
+          "print_string_at_index",
+          "sys"
+        ],
+        "literals": [
+          "3",
+          "Not enough arguments",
+          "2",
+          "0",
+          "Index out of range",
+          "Invalid index"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "print_string_at_index"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\es.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "exit",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py <index>",
+          "1",
+          "1",
+          "Index must be an integer.",
+          "1",
+          "0",
+          "Index out of range.",
+          "1"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "exit",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\ar.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "main",
+          "sys"
+        ],
+        "literals": [
+          "3",
+          "Usage: script.py <index> <string>",
+          "1",
+          "1",
+          "Index out of range.",
+          "__main__"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\fr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\bn.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "convert_string_to_integer",
+          "converted",
+          "exit",
+          "index",
+          "s",
+          "string_arg",
+          "sys"
+        ],
+        "literals": [
+          "__main__",
+          "3",
+          "Usage: script.py <string> <index>",
+          "1",
+          "1",
+          "2"
+        ],
+        "variables": [
+          "argv",
+          "converted",
+          "exit",
+          "index",
+          "s",
+          "string_arg",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "convert_string_to_integer"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\pt.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\ru.py",
+      "elements": {
+        "identifiers": [
+          "args",
+          "argv",
+          "index",
+          "print_arg",
+          "s",
+          "second_arg",
+          "str_to_int",
+          "sys"
+        ],
+        "literals": [
+          "__main__",
+          "3",
+          "Not enough arguments",
+          "1",
+          "Index out of range"
+        ],
+        "variables": [
+          "args",
+          "argv",
+          "index",
+          "s",
+          "second_arg",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "print_arg",
+          "str_to_int"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\id.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "s",
+          "second_arg",
+          "string_to_int",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "s",
+          "second_arg",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "string_to_int"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\ur.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "index",
+          "main",
+          "sys"
+        ],
+        "literals": [
+          "3",
+          "Usage: program.py <string> <index>",
+          "2",
+          "0",
+          "1",
+          "1",
+          "Index out of range",
+          "Index must be an integer",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\de.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "s",
+          "str_to_int",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "s",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "str_to_int"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\ja.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "s",
+          "str_to_int",
+          "sys"
+        ],
+        "literals": [
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "s",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "str_to_int"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\mr.py",
+      "elements": {
+        "identifiers": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "index",
+          "main",
+          "sys",
+          "target_index"
+        ],
+        "literals": [
+          "3",
+          "Usage: script.py <string_to_convert> <index>",
+          "1",
+          "2",
+          "0",
+          "Index out of range",
+          "Invalid input: Please provide valid integers",
+          "Index out of range",
+          "__main__"
+        ],
+        "variables": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "index",
+          "sys",
+          "target_index"
+        ],
+        "comments": [
+          "Check for minimum number of arguments",
+          "Convert the first command-line argument to an integer",
+          "Use the second argument as the target index",
+          "Validate that the target index is within the list of arguments",
+          "Print the command-line argument at the specified index"
+        ],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\vi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "s",
+          "str_to_int",
+          "sys"
+        ],
+        "literals": [
+          "__main__",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "s",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "str_to_int"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\te.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "num",
+          "s",
+          "string_to_integer",
+          "sys"
+        ],
+        "literals": [
+          "__main__",
+          "2",
+          "Usage: python script.py <integer_string>",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "num",
+          "s",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "string_to_integer"
+        ],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\ha.py",
+      "elements": {
+        "identifiers": [
+          "append",
+          "i",
+          "lst",
+          "process_list",
+          "result"
+        ],
+        "literals": [
+          "2",
+          "0",
+          "1",
+          "0",
+          "2",
+          "0"
+        ],
+        "variables": [
+          "append",
+          "i",
+          "lst",
+          "result"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "process_list"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z2deogcw\\tr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "result",
+          "s",
+          "str_to_int",
+          "sys"
+        ],
+        "literals": [
+          "__main__",
+          "3",
+          "Usage: script.py <directory> <string>",
+          "1",
+          "2"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "result",
+          "s",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "str_to_int"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

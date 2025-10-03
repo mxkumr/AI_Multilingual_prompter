@@ -1,0 +1,567 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\en.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "index",
+          "main",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: python script.py <index>",
+          "1",
+          "Error: Index must be an integer.",
+          "1",
+          "Error: Index out of range.",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\hi.py",
+      "elements": {
+        "identifiers": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "idx",
+          "index",
+          "main",
+          "split",
+          "startswith",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py /argv_index <index>",
+          "1",
+          "/argv_index ",
+          "Usage: script.py /argv_index <index>",
+          " ",
+          "1",
+          "1",
+          "1",
+          "Index out of range.",
+          "Invalid index.",
+          "__main__"
+        ],
+        "variables": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "idx",
+          "index",
+          "split",
+          "startswith",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\es.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\ar.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "index",
+          "main",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py <index>",
+          "1",
+          "1",
+          "1",
+          "Index out of range.",
+          "Please provide a valid integer index.",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\fr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\bn.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1",
+          "1",
+          "0",
+          "Index out of range",
+          "No argument provided"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\pt.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\ru.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "exit",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py index",
+          "1",
+          "1",
+          "Index must be an integer.",
+          "1",
+          "1",
+          "1",
+          "Index out of range."
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "exit",
+          "index",
+          "sys"
+        ],
+        "comments": [
+          "The user arguments start at index 1 in sys.argv"
+        ],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\id.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\ur.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py <index>",
+          "1",
+          "0",
+          "1",
+          "Index out of range",
+          "Index must be an integer"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\de.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\ja.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py <index>",
+          "1",
+          "1",
+          "1",
+          "Argument out of range",
+          "1",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\mr.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "index",
+          "main",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: get_argument.py <index>",
+          "1",
+          "Error: Index must be an integer.",
+          "0",
+          "Error: Index out of range.",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [
+          "Check if at least one argument (index) is provided",
+          "Check if the index is valid",
+          "Print the argument at the given index"
+        ],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\vi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py index",
+          "1",
+          "1",
+          "1",
+          "Argument out of range"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\te.py",
+      "elements": {
+        "identifiers": [
+          "ArgumentParser",
+          "action",
+          "add_argument",
+          "argparse",
+          "args",
+          "description",
+          "example",
+          "help",
+          "parse_args",
+          "parser"
+        ],
+        "literals": [
+          "Process some flags.",
+          "--example",
+          "store_true",
+          "Example flag",
+          "Program is called with --example"
+        ],
+        "variables": [
+          "ArgumentParser",
+          "action",
+          "add_argument",
+          "argparse",
+          "args",
+          "description",
+          "example",
+          "help",
+          "parse_args",
+          "parser"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\ha.py",
+      "elements": {
+        "identifiers": [
+          "arg1",
+          "arg3",
+          "argv",
+          "sys"
+        ],
+        "literals": [
+          "4",
+          "Usage: script.py <arg1> <arg2> <arg3>",
+          "1",
+          "3",
+          "f\"Argument 1: {arg1}",
+          "f\"Argument 3: {arg3}"
+        ],
+        "variables": [
+          "arg1",
+          "arg3",
+          "argv",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qkrp8yg_\\tr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}

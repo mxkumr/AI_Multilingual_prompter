@@ -1,0 +1,490 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\en.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "n"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "variables": [
+          "arr",
+          "n"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "get_value_from_index",
+          "index"
+        ],
+        "literals": [],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_index"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\hi.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "n"
+        ],
+        "literals": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "variables": [
+          "arr",
+          "n"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\es.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "get_index_value",
+          "index"
+        ],
+        "literals": [],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_index_value"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\ar.py",
+      "elements": {
+        "identifiers": [
+          "array",
+          "get_index_value",
+          "n"
+        ],
+        "literals": [],
+        "variables": [
+          "array",
+          "n"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_index_value"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\fr.py",
+      "elements": {
+        "identifiers": [
+          "array",
+          "n"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "variables": [
+          "array",
+          "n"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\bn.py",
+      "elements": {
+        "identifiers": [
+          "array",
+          "n"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "variables": [
+          "array",
+          "n"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\pt.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "n"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "variables": [
+          "arr",
+          "n"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\ru.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "get_index_value",
+          "input_num"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "variables": [
+          "arr",
+          "input_num"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_index_value"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\id.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "get_index_value",
+          "index"
+        ],
+        "literals": [],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_index_value"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\ur.py",
+      "elements": {
+        "identifiers": [
+          "get_value",
+          "index"
+        ],
+        "literals": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "variables": [
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\de.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "get_value_from_index",
+          "n"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60",
+          "70",
+          "0",
+          "Index out of range"
+        ],
+        "variables": [
+          "arr",
+          "n"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_index"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\ja.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\mr.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "get_array_value",
+          "n"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "1",
+          "1",
+          "Invalid index"
+        ],
+        "variables": [
+          "arr",
+          "n"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_array_value"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\vi.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "get_value",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\te.py",
+      "elements": {
+        "identifiers": [
+          "n",
+          "numbers"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "variables": [
+          "n",
+          "numbers"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\ha.py",
+      "elements": {
+        "identifiers": [
+          "get_element",
+          "index",
+          "lst"
+        ],
+        "literals": [],
+        "variables": [
+          "index",
+          "lst"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_element"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_xia8adkr\\tr.py",
+      "elements": {
+        "identifiers": [
+          "find_value_at_index",
+          "lst",
+          "n"
+        ],
+        "literals": [],
+        "variables": [
+          "lst",
+          "n"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "find_value_at_index"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

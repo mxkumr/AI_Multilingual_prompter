@@ -1,0 +1,485 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\en.py",
+      "elements": {
+        "identifiers": [
+          "get_id_value",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_id_value"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEQUENCE",
+          "get_value",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter index: "
+        ],
+        "variables": [
+          "ID_SEQUENCE",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\hi.py",
+      "elements": {
+        "identifiers": [
+          "ID_PEATION",
+          "get_value",
+          "index"
+        ],
+        "literals": [
+          "Enter an index value: "
+        ],
+        "variables": [
+          "ID_PEATION",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\es.py",
+      "elements": {
+        "identifiers": [
+          "get_id_from_index",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Ingrese el valor de índice: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_id_from_index"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\ar.py",
+      "elements": {
+        "identifiers": [
+          "ID_Seference",
+          "get_value_from_index",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "ID_Seference",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_index"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\fr.py",
+      "elements": {
+        "identifiers": [
+          "get_value",
+          "id_Sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "id_Sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\bn.py",
+      "elements": {
+        "identifiers": [
+          "get_sensor_value",
+          "id_sensors",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter index: "
+        ],
+        "variables": [
+          "id_sensors",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_sensor_value"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\pt.py",
+      "elements": {
+        "identifiers": [
+          "get_value",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\ru.py",
+      "elements": {
+        "identifiers": [
+          "get_id_from_index",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Введите значение индекса: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_id_from_index"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\id.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEQUENCE",
+          "get_value_from_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "ID_SEQUENCE",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_sequence"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\ur.py",
+      "elements": {
+        "identifiers": [
+          "ID_SECANCE",
+          "get_price",
+          "index"
+        ],
+        "literals": [
+          "Enter the index value: "
+        ],
+        "variables": [
+          "ID_SECANCE",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_price"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\de.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEQUENCE",
+          "get_value_at_index",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Geben Sie den Indexwert ein: "
+        ],
+        "variables": [
+          "ID_SEQUENCE",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_at_index"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\ja.py",
+      "elements": {
+        "identifiers": [
+          "get_value_from_sequence",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_sequence"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\mr.py",
+      "elements": {
+        "identifiers": [
+          "get_id_from_index",
+          "ids",
+          "index"
+        ],
+        "literals": [
+          "Enter the index value: ",
+          "ID1",
+          "ID2",
+          "ID3",
+          "ID4",
+          "ID5"
+        ],
+        "variables": [
+          "ids",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_id_from_index"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\vi.py",
+      "elements": {
+        "identifiers": [
+          "ID_Sequence",
+          "get_value_from_id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Nhập chỉ mục: "
+        ],
+        "variables": [
+          "ID_Sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_id_sequence"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\te.py",
+      "elements": {
+        "identifiers": [
+          "get_value",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: ",
+          "101",
+          "102",
+          "103",
+          "104"
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [
+          "Example list"
+        ],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\ha.py",
+      "elements": {
+        "identifiers": [
+          "max",
+          "numbers",
+          "result",
+          "x"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "2"
+        ],
+        "variables": [
+          "numbers",
+          "result",
+          "x"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_gv68olof\\tr.py",
+      "elements": {
+        "identifiers": [
+          "ID_REXENCE",
+          "directory",
+          "get_value_from_directory"
+        ],
+        "literals": [
+          "Enter a directory value: "
+        ],
+        "variables": [
+          "ID_REXENCE",
+          "directory"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_directory"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

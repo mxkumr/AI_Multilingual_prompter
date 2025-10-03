@@ -1,0 +1,541 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\en.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "main",
+          "number",
+          "offset",
+          "result",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py <number>",
+          "1",
+          "1000",
+          "Please provide a valid number.",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "number",
+          "offset",
+          "result",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\hi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\es.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "main",
+          "shifted_value",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py <value>",
+          "1",
+          "1000",
+          "Please provide a valid number.",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "shifted_value",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\ar.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "shift",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1000",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "shift",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\fr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\bn.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py <value>",
+          "1",
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\pt.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\ru.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "offset",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "offset",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\id.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "2",
+          "Usage: python script.py <value>",
+          "1",
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\ur.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py <number>",
+          "1",
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\de.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "offset",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1",
+          "0",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "offset",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\ja.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "number",
+          "result",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: python script.py <number>",
+          "1",
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "number",
+          "result",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\mr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\vi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\te.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\ha.py",
+      "elements": {
+        "identifiers": [
+          "cycle",
+          "full_cycles",
+          "min",
+          "quarantine_days",
+          "remaining",
+          "total_days"
+        ],
+        "literals": [
+          "1000",
+          "100",
+          "10",
+          "100",
+          "100"
+        ],
+        "variables": [
+          "cycle",
+          "full_cycles",
+          "quarantine_days",
+          "remaining",
+          "total_days"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_7p3c0onv\\tr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}

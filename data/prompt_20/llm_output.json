@@ -1,0 +1,20 @@
+{
+  "en": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "zh-CN": "import sys\n\ndef main():\n    if len(sys.argv) != 2:\n        print(\"Usage: script.py <number>\")\n        return\n    try:\n        number = float(sys.argv[1])\n        offset = 1000\n        result = number + offset\n        print(result)\n    except ValueError:\n        print(\"Please provide a valid number.\")\n\nif __name__ == \"__main__\":\n    main()",
+  "hi": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "es": "import sys\n\ndef main():\n    if len(sys.argv) != 2:\n        print(\"Usage: script.py <value>\")\n        return\n    try:\n        value = float(sys.argv[1])\n        shifted_value = value + 1000\n        print(shifted_value)\n    except ValueError:\n        print(\"Please provide a valid number.\")\n\nif __name__ == \"__main__\":\n    main()",
+  "ar": "import sys\n\nshift = 1000\nvalue = int(sys.argv[1])\nresult = value + shift\nprint(result)",
+  "fr": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "bn": "import sys\n\nif len(sys.argv) != 2:\n    print(\"Usage: script.py <value>\")\n    sys.exit(1)\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "pt": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "ru": "import sys\n\nvalue = int(sys.argv[1])\noffset = 1000\nresult = value + offset\nprint(result)",
+  "id": "import sys\n\nif len(sys.argv) != 2:\n    print(\"Usage: python script.py <value>\")\n    sys.exit(1)\n\nvalue = int(sys.argv[1])\nprint(value + 1000)",
+  "ur": "import sys\n\nif len(sys.argv) != 2:\n    print(\"Usage: script.py <number>\")\n    sys.exit(1)\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "de": "import sys\n\nvalue = int(sys.argv[1]) if len(sys.argv) > 1 else 0\noffset = 1000\nresult = value + offset\nprint(result)",
+  "ja": "import sys\n\nif len(sys.argv) != 2:\n    print(\"Usage: python script.py <number>\")\n    sys.exit(1)\n\nnumber = int(sys.argv[1])\nresult = number + 1000\nprint(result)",
+  "mr": "import sys\n\nvalue = int(sys.argv[1]) + 1000\nprint(value)",
+  "vi": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "te": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "ha": "total_days = 1000\ncycle = 100 + 10\nfull_cycles = total_days // cycle\nremaining = total_days % cycle\nquarantine_days = full_cycles * 100 + min(remaining, 100)\nprint(quarantine_days)",
+  "tr": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)"
+}

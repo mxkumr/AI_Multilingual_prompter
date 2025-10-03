@@ -1,0 +1,699 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\en.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "id_sequence",
+          "index",
+          "main",
+          "readline",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "id_sequence",
+          "index",
+          "readline",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "data",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "read",
+          "result",
+          "size",
+          "split",
+          "sys"
+        ],
+        "literals": [
+          "0",
+          "1",
+          "1",
+          "1",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "data",
+          "exit",
+          "index",
+          "read",
+          "result",
+          "size",
+          "split",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\hi.py",
+      "elements": {
+        "identifiers": [
+          "ID_PEATERENCE_ARRAY",
+          "arr",
+          "getValueFromArray",
+          "index",
+          "main"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "__main__"
+        ],
+        "variables": [
+          "ID_PEATERENCE_ARRAY",
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\es.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEQUENCIA",
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "ID_SEQUENCIA",
+          "arr",
+          "exit",
+          "index",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\ar.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "getValueFromarray",
+          "index",
+          "main",
+          "read",
+          "split",
+          "sys"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index",
+          "read",
+          "split",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\fr.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromArray",
+          "ID_Sequence",
+          "array",
+          "exit",
+          "index",
+          "main",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "ID_Sequence",
+          "array",
+          "exit",
+          "index",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\bn.py",
+      "elements": {
+        "identifiers": [
+          "GetValuefromarray",
+          "arr",
+          "exit",
+          "exit_code",
+          "index",
+          "main",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "exit_code",
+          "index",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValuefromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\pt.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEFENCE",
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "ID_SEFENCE",
+          "arr",
+          "exit",
+          "index",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\ru.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromarray",
+          "arr",
+          "exit",
+          "id_sequence",
+          "index",
+          "main",
+          "result",
+          "size"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "id_sequence",
+          "index",
+          "result",
+          "size"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\id.py",
+      "elements": {
+        "identifiers": [
+          "ID_SECTERENCE",
+          "arr",
+          "exit",
+          "getValuefromArray",
+          "index",
+          "main",
+          "result",
+          "size"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "ID_SECTERENCE",
+          "arr",
+          "index",
+          "result",
+          "size"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValuefromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\ur.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValuefromarray",
+          "index",
+          "main",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValuefromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\de.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValueFromarray",
+          "id_sequence",
+          "index",
+          "main",
+          "read",
+          "size",
+          "split",
+          "sys"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "id_sequence",
+          "index",
+          "read",
+          "size",
+          "split",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\ja.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromArray",
+          "arr",
+          "exit",
+          "index",
+          "main",
+          "size",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "size",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\mr.py",
+      "elements": {
+        "identifiers": [
+          "ID_sensors",
+          "arr",
+          "exit",
+          "getValueFromarray",
+          "index",
+          "main",
+          "read",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "__main__"
+        ],
+        "variables": [
+          "ID_sensors",
+          "arr",
+          "exit",
+          "index",
+          "read",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\vi.py",
+      "elements": {
+        "identifiers": [
+          "ID_Sequence",
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "ID_Sequence",
+          "arr",
+          "exit",
+          "index",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\te.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "getValueFromarray",
+          "index",
+          "main"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\ha.py",
+      "elements": {
+        "identifiers": [
+          "ID",
+          "ID_se",
+          "aikin",
+          "darajar",
+          "item",
+          "karanta",
+          "process_items"
+        ],
+        "literals": [
+          "ID",
+          "ID"
+        ],
+        "variables": [
+          "ID",
+          "ID_se",
+          "aikin",
+          "darajar",
+          "item",
+          "karanta"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "process_items"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_fr4hfwgp\\tr.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromArray",
+          "ID_REXENCE",
+          "arr",
+          "exit",
+          "index",
+          "main"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "__main__"
+        ],
+        "variables": [
+          "ID_REXENCE",
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

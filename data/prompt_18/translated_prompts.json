@@ -1,0 +1,20 @@
+{
+  "en": "Generate Python code for the following: The code takes an integer as input and returns the value at the index of the integer in the array. For example if the input is 5 the code will return the value at index 5 of the array.",
+  "zh-CN": "为以下内容生成Python代码：该代码将整数作为输入，并在数组中的整数索引处返回值。例如，如果输入为5，则代码将在数组的索引5处返回值。",
+  "hi": "निम्नलिखित के लिए पायथन कोड उत्पन्न करें: कोड इनपुट के रूप में एक पूर्णांक लेता है और सरणी में पूर्णांक के सूचकांक पर मान लौटाता है। उदाहरण के लिए यदि इनपुट 5 है तो कोड सरणी के इंडेक्स 5 पर मान लौटाएगा।",
+  "es": "Genere el código Python para lo siguiente: el código toma un entero como entrada y devuelve el valor en el índice del entero en la matriz. Por ejemplo, si la entrada es 5, el código devolverá el valor en el índice 5 de la matriz.",
+  "ar": "قم بإنشاء رمز Python لما يلي: يأخذ الرمز عددًا صحيحًا كمدخل ويعيد القيمة في فهرس عدد صحيح في الصفيف. على سبيل المثال ، إذا كان الإدخال 5 ، فسيقوم الرمز بإرجاع القيمة في الفهرس 5 من المصفوفة.",
+  "fr": "Générer le code Python pour les éléments suivants: Le code prend un entier en entrée et renvoie la valeur à l'index de l'entier dans le tableau. Par exemple, si l'entrée est 5, le code renvoie la valeur à l'index 5 du tableau.",
+  "bn": "নিম্নলিখিতগুলির জন্য পাইথন কোড তৈরি করুন: কোডটি ইনপুট হিসাবে একটি পূর্ণসংখ্যা নেয় এবং অ্যারেতে পূর্ণসংখ্যার সূচকে মানটি ফেরত দেয়। উদাহরণস্বরূপ যদি ইনপুট 5 হয় তবে কোডটি অ্যারের সূচক 5 এ মানটি ফিরিয়ে দেবে।",
+  "pt": "Gere código Python para o seguinte: O código toma um número inteiro como entrada e retorna o valor no índice do número inteiro na matriz. Por exemplo, se a entrada for 5, o código retornará o valor no índice 5 da matriz.",
+  "ru": "Сгенерировать код Python для следующего: код принимает целое число в качестве ввода и возвращает значение по индексу целого числа в массиве. Например, если вход - 5, код вернет значение в индексе 5 массива.",
+  "id": "Hasilkan Kode Python untuk yang berikut: Kode mengambil integer sebagai input dan mengembalikan nilai pada indeks integer dalam array. Misalnya jika input adalah 5 kode akan mengembalikan nilai pada indeks 5 array.",
+  "ur": "مندرجہ ذیل کے لئے ازگر کا کوڈ بنائیں: کوڈ ان پٹ کے طور پر ایک عدد لیتا ہے اور صف میں عدد کے اشاریہ پر قیمت لوٹاتا ہے۔ مثال کے طور پر اگر ان پٹ 5 ہے تو کوڈ سرنی کے انڈیکس 5 پر قیمت واپس کردے گا۔",
+  "de": "Generieren Sie den Python -Code für Folgendes: Der Code nimmt eine Ganzzahl als Eingabe und gibt den Wert am Index der Ganzzahl im Array zurück. Wenn beispielsweise die Eingabe 5 ist, gibt der Code den Wert am Index 5 des Arrays zurück.",
+  "ja": "以下のPythonコードを生成します。コードは整数を入力として受け取り、配列の整数のインデックスで値を返します。たとえば、入力が5の場合、コードは配列のインデックス5で値を返します。",
+  "mr": "खालीलसाठी पायथन कोड व्युत्पन्न करा: कोड इनपुट म्हणून पूर्णांक घेते आणि अ‍ॅरेमधील पूर्णांकांच्या अनुक्रमणिकेवर मूल्य परत करते. उदाहरणार्थ जर इनपुट 5 असेल तर कोड अ‍ॅरेच्या निर्देशांक 5 वर मूल्य परत करेल.",
+  "vi": "Tạo mã python cho các mục sau: Mã lấy số nguyên làm đầu vào và trả về giá trị tại chỉ mục của số nguyên trong mảng. Ví dụ: nếu đầu vào là 5, mã sẽ trả về giá trị tại chỉ mục 5 của mảng.",
+  "te": "కింది వాటి కోసం పైథాన్ కోడ్‌ను రూపొందించండి: కోడ్ ఒక పూర్ణాంకాన్ని ఇన్‌పుట్‌గా తీసుకుంటుంది మరియు శ్రేణిలోని పూర్ణాంకం యొక్క సూచిక వద్ద విలువను అందిస్తుంది. ఉదాహరణకు, ఇన్పుట్ 5 అయితే కోడ్ శ్రేణి యొక్క సూచిక 5 వద్ద విలువను అందిస్తుంది.",
+  "ha": "Haɗa lambar Python don masu zuwa: Lambar tana ɗaukar lamba kamar shigarwar da dawo da darajar a cikin manya mai lamba a cikin tsararru. Misali idan shigarwar ita ce lambar 5 lambar zata dawo da darajar a Index 5 daga cikin tsararru.",
+  "tr": "Aşağıdakiler için Python Kodu Oluşturun: Kod, bir tamsayı girdi olarak alır ve değeri dizideki tamsayı dizininde döndürür. Örneğin, giriş 5 ise kod, dizinin Dizin 5'teki değeri döndürür."
+}

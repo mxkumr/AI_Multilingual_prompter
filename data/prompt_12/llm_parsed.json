@@ -1,0 +1,680 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\en.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "getValueFromArray",
+          "index",
+          "main",
+          "n",
+          "readline",
+          "result",
+          "size",
+          "split",
+          "sys"
+        ],
+        "literals": [
+          "Invalid input",
+          "Error",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index",
+          "n",
+          "readline",
+          "result",
+          "size",
+          "split",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "size",
+          "split",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "size",
+          "split",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\hi.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "getValueFromArray",
+          "index",
+          "main"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\es.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "array",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "readline",
+          "size",
+          "split",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "array",
+          "index",
+          "readline",
+          "size",
+          "split",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\ar.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "data",
+          "exit",
+          "getValueFromarray",
+          "index",
+          "main",
+          "read",
+          "result",
+          "size",
+          "split",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "data",
+          "index",
+          "read",
+          "result",
+          "size",
+          "split",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\fr.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromArray",
+          "arr",
+          "exit",
+          "index",
+          "main",
+          "readline",
+          "size",
+          "split",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "readline",
+          "size",
+          "split",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\bn.py",
+      "elements": {
+        "identifiers": [
+          "GetValuefromarray",
+          "arr",
+          "index",
+          "main"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "3",
+          "4",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValuefromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\pt.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\ru.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromarray",
+          "arr",
+          "index",
+          "main",
+          "result",
+          "size",
+          "split"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index",
+          "result",
+          "size",
+          "split"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\id.py",
+      "elements": {
+        "identifiers": [
+          "array",
+          "exit",
+          "getValuefromArray",
+          "index",
+          "main",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "array",
+          "exit",
+          "index",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValuefromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\ur.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\de.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValueFromarray",
+          "index",
+          "main",
+          "result",
+          "size",
+          "split"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index",
+          "result",
+          "size",
+          "split"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\ja.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromArray",
+          "arr",
+          "exit",
+          "index",
+          "main",
+          "size",
+          "split",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "size",
+          "split",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\mr.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "exit_code",
+          "getValueFromArray",
+          "index",
+          "main",
+          "read",
+          "split",
+          "sys"
+        ],
+        "literals": [],
+        "variables": [
+          "arr",
+          "exit",
+          "exit_code",
+          "index",
+          "read",
+          "split",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\vi.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "readline",
+          "size",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "readline",
+          "size",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\te.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValueFromarray",
+          "index",
+          "main",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\ha.py",
+      "elements": {
+        "identifiers": [
+          "amount",
+          "annual_rate",
+          "compound_interest",
+          "compounding",
+          "compounding_periods",
+          "future_value",
+          "principal",
+          "rate",
+          "time",
+          "time_years"
+        ],
+        "literals": [
+          "1",
+          "Enter principal amount: ",
+          "Enter annual interest rate (as a decimal): ",
+          "Enter time in years: ",
+          "Enter number of compounding periods per year: ",
+          "f\"Future value: {future_value:.2f}"
+        ],
+        "variables": [
+          "amount",
+          "annual_rate",
+          "compounding",
+          "compounding_periods",
+          "future_value",
+          "principal",
+          "rate",
+          "time",
+          "time_years"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "compound_interest"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9dkul582\\tr.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromArray",
+          "arr",
+          "index",
+          "main"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

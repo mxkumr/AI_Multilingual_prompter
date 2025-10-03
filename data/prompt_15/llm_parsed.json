@@ -1,0 +1,519 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\en.py",
+      "elements": {
+        "identifiers": [
+          "get_value",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEQUENCE",
+          "get_value_from_sequence",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "请输入索引值: "
+        ],
+        "variables": [
+          "ID_SEQUENCE",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_sequence"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\hi.py",
+      "elements": {
+        "identifiers": [
+          "ID_PEATION",
+          "get_value_from_array",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter an index value: "
+        ],
+        "variables": [
+          "ID_PEATION",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_array"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\es.py",
+      "elements": {
+        "identifiers": [
+          "get_id_from_index",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "1001",
+          "1002",
+          "1003",
+          "1004",
+          "1005",
+          "Ingrese el valor de índice: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_id_from_index"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\ar.py",
+      "elements": {
+        "identifiers": [
+          "get_value",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\fr.py",
+      "elements": {
+        "identifiers": [
+          "get_value_from_sequence",
+          "id_Sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "id_Sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_sequence"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\bn.py",
+      "elements": {
+        "identifiers": [
+          "get_sensor_value",
+          "id_sensors",
+          "index"
+        ],
+        "literals": [
+          "101",
+          "102",
+          "103",
+          "104",
+          "105",
+          "Enter the index: "
+        ],
+        "variables": [
+          "id_sensors",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_sensor_value"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\pt.py",
+      "elements": {
+        "identifiers": [
+          "get_value_from_id_sequence",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_id_sequence"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\ru.py",
+      "elements": {
+        "identifiers": [
+          "get_id_from_index",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Введите значение индекса: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_id_from_index"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\id.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEQUENCE",
+          "get_value",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter index: "
+        ],
+        "variables": [
+          "ID_SEQUENCE",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\ur.py",
+      "elements": {
+        "identifiers": [
+          "ID_SECANCE",
+          "get_price",
+          "index"
+        ],
+        "literals": [
+          "Enter the index value: "
+        ],
+        "variables": [
+          "ID_SECANCE",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_price"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\de.py",
+      "elements": {
+        "identifiers": [
+          "get_value_at_index",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Geben Sie den Indexwert ein: ",
+          "101",
+          "102",
+          "103",
+          "104",
+          "105"
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_at_index"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\ja.py",
+      "elements": {
+        "identifiers": [
+          "ID_Sequence",
+          "get_value_from_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter index value: "
+        ],
+        "variables": [
+          "ID_Sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_sequence"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\mr.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEQUENCE",
+          "get_value_at_index",
+          "index"
+        ],
+        "literals": [
+          "Enter the index value:",
+          "10",
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "variables": [
+          "ID_SEQUENCE",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_at_index"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\vi.py",
+      "elements": {
+        "identifiers": [
+          "ID_Sequence",
+          "get_value",
+          "index"
+        ],
+        "literals": [
+          "101",
+          "102",
+          "103",
+          "104",
+          "105",
+          "Enter index: "
+        ],
+        "variables": [
+          "ID_Sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\te.py",
+      "elements": {
+        "identifiers": [
+          "get_value_from_sequence",
+          "id_sequence",
+          "index"
+        ],
+        "literals": [
+          "Enter the index value: "
+        ],
+        "variables": [
+          "id_sequence",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_sequence"
+        ],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\ha.py",
+      "elements": {
+        "identifiers": [
+          "by",
+          "df",
+          "df_sorted",
+          "index",
+          "pandas",
+          "pd",
+          "read_csv",
+          "sort_values",
+          "to_csv"
+        ],
+        "literals": [
+          "input.csv",
+          "ID_Se",
+          "index",
+          "output.csv"
+        ],
+        "variables": [
+          "by",
+          "df",
+          "df_sorted",
+          "index",
+          "pandas",
+          "pd",
+          "read_csv",
+          "sort_values",
+          "to_csv"
+        ],
+        "comments": [
+          "Read the CSV file into a DataFrame",
+          "Sort the DataFrame by 'ID_Se' and 'index' columns",
+          "Write the sorted DataFrame to a new CSV file"
+        ],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_qmxvqrh6\\tr.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEXENSE",
+          "dir_entry",
+          "directory",
+          "get_value_from_id_sexense",
+          "value"
+        ],
+        "literals": [
+          "Lütfen bir dizin değeri girin: "
+        ],
+        "variables": [
+          "ID_SEXENSE",
+          "dir_entry",
+          "directory",
+          "value"
+        ],
+        "comments": [
+          "Assuming ID_SEXENSE is a predefined list of tuples (directory, value)"
+        ],
+        "docstrings": [],
+        "functions": [
+          "get_value_from_id_sexense"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

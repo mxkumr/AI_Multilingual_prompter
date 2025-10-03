@@ -1,0 +1,20 @@
+{
+  "en": "def get_value():\n    index = int(input(\"Enter index: \"))\n    return id_sequence[index]",
+  "zh-CN": "ID_SEQUENCE = [10, 20, 30, 40, 50]\n\ndef get_value_from_sequence():\n    index = int(input(\"请输入索引值: \"))\n    return ID_SEQUENCE[index]",
+  "hi": "ID_PEATION = [10, 20, 30, 40, 50]\n\ndef get_value_from_array():\n    index = int(input(\"Enter an index value: \"))\n    return ID_PEATION[index]",
+  "es": "def get_id_from_index():\n    id_sequence = [1001, 1002, 1003, 1004, 1005]\n    index = int(input(\"Ingrese el valor de índice: \"))\n    return id_sequence[index]",
+  "ar": "def get_value():\n    index = int(input(\"Enter index: \"))\n    return id_sequence[index]",
+  "fr": "def get_value_from_sequence():\n    index = int(input(\"Enter index: \"))\n    return id_Sequence[index]",
+  "bn": "id_sensors = [101, 102, 103, 104, 105]\n\ndef get_sensor_value():\n    index = int(input(\"Enter the index: \"))\n    return id_sensors[index]",
+  "pt": "def get_value_from_id_sequence():\n    index = int(input(\"Enter index: \"))\n    return id_sequence[index]",
+  "ru": "def get_id_from_index():\n    index = int(input(\"Введите значение индекса: \"))\n    return id_sequence[index]",
+  "id": "ID_SEQUENCE = [10, 20, 30, 40, 50]\n\ndef get_value():\n    index = int(input(\"Enter index: \"))\n    return ID_SEQUENCE[index]",
+  "ur": "def get_price():\n    index = int(input(\"Enter the index value: \"))\n    return ID_SECANCE[index]",
+  "de": "def get_value_at_index():\n    index = int(input(\"Geben Sie den Indexwert ein: \"))\n    id_sequence = [101, 102, 103, 104, 105]\n    print(id_sequence[index])",
+  "ja": "def get_value_from_sequence(ID_Sequence):\n    index = int(input(\"Enter index value: \"))\n    return ID_Sequence[index]",
+  "mr": "def get_value_at_index(index):\n    print(\"Enter the index value:\")\n    index = int(input())\n    ID_SEQUENCE = [10, 20, 30, 40, 50]\n    return ID_SEQUENCE[index]",
+  "vi": "ID_Sequence = [101, 102, 103, 104, 105]\n\ndef get_value():\n    index = int(input(\"Enter index: \"))\n    return ID_Sequence[index]",
+  "te": "def get_value_from_sequence():\n    index = int(input(\"Enter the index value: \"))\n    return id_sequence[index]",
+  "ha": "import pandas as pd\n\n# Read the CSV file into a DataFrame\ndf = pd.read_csv('input.csv')\n\n# Sort the DataFrame by 'ID_Se' and 'index' columns\ndf_sorted = df.sort_values(by=['ID_Se', 'index'])\n\n# Write the sorted DataFrame to a new CSV file\ndf_sorted.to_csv('output.csv', index=False)",
+  "tr": "def get_value_from_id_sexense():\n    directory = input(\"Lütfen bir dizin değeri girin: \")\n    # Assuming ID_SEXENSE is a predefined list of tuples (directory, value)\n    for dir_entry, value in ID_SEXENSE:\n        if dir_entry == directory:\n            return value\n    return None"
+}

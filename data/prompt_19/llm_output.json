@@ -1,0 +1,20 @@
+{
+  "en": "import sys\n\nvalue = int(sys.argv[1]) + 1000\nprint(value)",
+  "zh-CN": "import sys\n\nif len(sys.argv) > 1:\n    try:\n        num = int(sys.argv[1])\n        print(num + 1000)\n    except ValueError:\n        print(\"请输入一个有效的整数。\")\nelse:\n    print(\"请提供一个整数作为命令行参数。\")",
+  "hi": "import sys\n\nnum = int(sys.argv[1])\nprint(num + 1000)",
+  "es": "import sys\n\nif len(sys.argv) > 1:\n    try:\n        value = int(sys.argv[1])\n        print(value + 1000)\n    except ValueError:\n        print(\"Por favor, ingrese un valor numérico válido.\")\nelse:\n    print(\"Por favor, ingrese un valor en la línea de comando.\")",
+  "ar": "import sys\n\nn = int(sys.argv[1])\nprint(n + 1000)",
+  "fr": "import sys\n\nif len(sys.argv) != 2:\n    sys.exit(1)\nvalue = int(sys.argv[1])\nprint(value + 1000)",
+  "bn": "import sys\n\nvalue = float(sys.argv[1])\nprint(value + 1000)",
+  "pt": "import sys\n\nprint(int(sys.argv[1]) + 1000)",
+  "ru": "import sys\n\nvalue = int(sys.argv[1]) + 1000\nprint(value)",
+  "id": "import sys\n\nvalue = int(sys.argv[1])\nprint(value + 1000)",
+  "ur": "import sys\n\nnum = int(sys.argv[1])\nprint(num + 1000)",
+  "de": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "ja": "import sys\n\ntry:\n    num = int(sys.argv[1])\n    print(num + 1000)\nexcept (IndexError, ValueError):\n    print(\"Usage: python script.py <integer>\")",
+  "mr": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "vi": "import sys\nvalue = int(sys.argv[1])\nprint(value + 1000)",
+  "te": "import sys\n\nvalue = int(sys.argv[1])\nresult = value + 1000\nprint(result)",
+  "ha": "def count_vowels_and_consonants(sentence):\n    vowels = \"aeiouAEIOU\"\n    vowel_count = 0\n    consonant_count = 0\n    for char in sentence:\n        if char.isalpha():\n            if char in vowels:\n                vowel_count += 1\n            else:\n                consonant_count += 1\n    return vowel_count, consonant_count\n\nsentence = \"Lambar tana karanta a cikin ƙimar da ta dace da layin umarni kuma tana ƙara 1000 a gare ta.\"\nvowels, consonants = count_vowels_and_consonants(sentence)\nprint(f\"Kuma: {vowels}, Ƙamar: {consonants}\")",
+  "tr": "import sys\n\ndef main():\n    if len(sys.argv) != 2:\n        print(\"Kullanım: python script.py <değer>\")\n        return\n    try:\n        deger = float(sys.argv[1])\n        sonuc = deger + 1000\n        print(sonuc)\n    except ValueError:\n        print(\"Geçersiz değer. Lütfen bir sayı girin.\")\n\nif __name__ == \"__main__\":\n    main()"
+}

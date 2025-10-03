@@ -5,7 +5,7 @@ import asyncio
 import time
 import logging
 from datetime import datetime
-from typing import Dict, Any, Optional
+from typing import Dict, Any, Optional, List
 
 
 def ensure_dirs() -> str:
@@ -13,6 +13,38 @@ def ensure_dirs() -> str:
     data_dir = os.path.join(project_root, "data")
     os.makedirs(data_dir, exist_ok=True)
     return project_root
+
+
+def ensure_prompt_dir(data_dir: str, prompt_id: str) -> str:
+    """Create and return the directory path for a specific prompt."""
+    prompt_dir = os.path.join(data_dir, prompt_id)
+    os.makedirs(prompt_dir, exist_ok=True)
+    return prompt_dir
+
+
+def load_prompts_from_json(json_file: str) -> List[Dict[str, str]]:
+    """Load prompts from JSON file."""
+    try:
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        if 'prompts' not in data:
+            raise ValueError("JSON file must contain a 'prompts' key")
+        
+        prompts = []
+        for prompt_data in data['prompts']:
+            if not all(key in prompt_data for key in ['id', 'text']):
+                raise ValueError("Each prompt must have 'id' and 'text' keys")
+            prompts.append({
+                'id': prompt_data['id'],
+                'text': prompt_data['text']
+            })
+        
+        return prompts
+    except FileNotFoundError:
+        raise FileNotFoundError(f"JSON file '{json_file}' not found")
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Invalid JSON format: {e}")
 
 
 def translate_prompt(prompt_text: str) -> Dict[str, Optional[str]]:
@@ -101,54 +133,107 @@ def log_llm_duration(language: str, start_ts: float, end_ts: float, seconds: flo
         )
 
 
-def main() -> None:
-    project_root = ensure_dirs()
-    data_dir = os.path.join(project_root, "data")
-    setup_logger()
-
-    # 1) Prompt input
-    prompt_text = None
-    if len(sys.argv) > 1:
-        prompt_text = " ".join(sys.argv[1:]).strip()
-    if not prompt_text:
-        prompt_text = input("Enter the base prompt (in English): ").strip()
-    if not prompt_text:
-        print("Empty prompt; aborting.")
-        return
-
-    # Normalize prompt formatting (spaces after punctuation, collapse multiple spaces)
+def process_single_prompt(prompt_data: Dict[str, str], data_dir: str) -> None:
+    """Process a single prompt through the entire pipeline."""
+    prompt_id = prompt_data['id']
+    prompt_text = prompt_data['text']
+    
+    print(f"\n{'='*60}")
+    print(f"Processing Prompt ID: {prompt_id}")
+    print(f"{'='*60}")
+    
+    # Create prompt-specific directory
+    prompt_dir = ensure_prompt_dir(data_dir, prompt_id)
+    
+    # Normalize prompt formatting
     try:
         from Prompt_translation import normalize_text
         prompt_text = normalize_text(prompt_text)
     except Exception:
         # Fallback to original prompt if normalization import fails
         pass
-
-    # 2) Translate
+    
+    # 1) Translate
     print("Translating prompt to multiple languages...")
     translations = translate_prompt(prompt_text)
-    translated_path = os.path.join(data_dir, "translated_prompts.json")
+    translated_path = os.path.join(prompt_dir, "translated_prompts.json")
     with open(translated_path, "w", encoding="utf-8") as f:
         json.dump(translations, f, ensure_ascii=False, indent=2)
     print(f"Saved translations to {translated_path}")
-
-    # 3) Query LLM (Ollama)
+    
+    # 2) Query LLM (Ollama)
     llm_outputs = query_llm_for_translations(translations)
-    llm_out_path = os.path.join(data_dir, "llm_output.json")
+    llm_out_path = os.path.join(prompt_dir, "llm_output.json")
     with open(llm_out_path, "w", encoding="utf-8") as f:
         json.dump(llm_outputs, f, ensure_ascii=False, indent=2)
     print(f"Saved LLM outputs to {llm_out_path}")
-
-    # 4) Parse
+    
+    # 3) Parse
     parsed = parse_llm_outputs(llm_outputs)
-    parsed_path = os.path.join(data_dir, "llm_parsed.json")
+    parsed_path = os.path.join(prompt_dir, "llm_parsed.json")
     with open(parsed_path, "w", encoding="utf-8") as f:
         json.dump(parsed, f, ensure_ascii=False, indent=2)
     print(f"Saved parsed results to {parsed_path}")
+    
+    # 4) Visualize
+    visualize_language_distribution_for_prompt(prompt_dir)
+    print(f"Completed processing for prompt ID: {prompt_id}")
 
-    # 5) Visualize
-    visualize_language_distribution()
-    print("Pipeline complete.")
+
+def visualize_language_distribution_for_prompt(prompt_dir: str) -> None:
+    """Generate language charts for a specific prompt directory."""
+    # Change to the prompt directory temporarily for visualization
+    original_cwd = os.getcwd()
+    try:
+        os.chdir(prompt_dir)
+        # Reuse non_english.main to generate charts and summary
+        import non_english
+        print("Generating language charts...")
+        non_english.main()
+    finally:
+        os.chdir(original_cwd)
+
+
+def main() -> None:
+    project_root = ensure_dirs()
+    data_dir = os.path.join(project_root, "data")
+    setup_logger()
+
+    # Check for JSON input file
+    if len(sys.argv) > 1:
+        json_file = sys.argv[1]
+        try:
+            prompts = load_prompts_from_json(json_file)
+            print(f"Loaded {len(prompts)} prompts from {json_file}")
+            
+            # Process each prompt
+            for i, prompt_data in enumerate(prompts, 1):
+                print(f"\nProcessing prompt {i}/{len(prompts)}")
+                process_single_prompt(prompt_data, data_dir)
+            
+            print(f"\n{'='*60}")
+            print("All prompts processed successfully!")
+            print(f"Results saved in individual folders under: {data_dir}")
+            print(f"{'='*60}")
+            
+        except Exception as e:
+            print(f"Error processing JSON file: {e}")
+            return
+    else:
+        # Fallback to single prompt input for backward compatibility
+        prompt_text = input("Enter the base prompt (in English): ").strip()
+        if not prompt_text:
+            print("Empty prompt; aborting.")
+            return
+
+        # Create a single prompt data structure
+        prompt_data = {
+            'id': 'single_prompt',
+            'text': prompt_text
+        }
+        
+        process_single_prompt(prompt_data, data_dir)
+        print("Pipeline complete.")
 
 
 if __name__ == "__main__":

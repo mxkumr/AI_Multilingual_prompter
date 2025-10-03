@@ -1,0 +1,725 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\en.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "exit_code",
+          "getValueFromArray",
+          "id_sequence",
+          "index",
+          "main",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "exit_code",
+          "id_sequence",
+          "index",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "getValueFromArray",
+          "index",
+          "main",
+          "read",
+          "size",
+          "split",
+          "sys"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index",
+          "read",
+          "size",
+          "split",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\hi.py",
+      "elements": {
+        "identifiers": [
+          "_",
+          "arr",
+          "getValueFromArray",
+          "index",
+          "main",
+          "size"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "_",
+          "arr",
+          "index",
+          "size"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\es.py",
+      "elements": {
+        "identifiers": [
+          "ID_SECHENCIA",
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "size",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "__main__",
+          "10",
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "variables": [
+          "ID_SECHENCIA",
+          "arr",
+          "exit",
+          "index",
+          "size",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\ar.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValueFromarray",
+          "index",
+          "main",
+          "read",
+          "result",
+          "split",
+          "sys"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "read",
+          "result",
+          "split",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\fr.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromArray",
+          "ID_Sequence",
+          "arr",
+          "exit",
+          "index",
+          "main",
+          "size",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "ID_Sequence",
+          "arr",
+          "exit",
+          "index",
+          "size",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\bn.py",
+      "elements": {
+        "identifiers": [
+          "GetValuefromarray",
+          "arr",
+          "array",
+          "index",
+          "main",
+          "split"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "array",
+          "index",
+          "split"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValuefromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\pt.py",
+      "elements": {
+        "identifiers": [
+          "ID_SEFENCE",
+          "arr",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "ID_SEFENCE",
+          "arr",
+          "exit",
+          "index",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\ru.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromarray",
+          "arr",
+          "exit",
+          "id_sequence",
+          "index",
+          "main",
+          "readline",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "id_sequence",
+          "index",
+          "readline",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\id.py",
+      "elements": {
+        "identifiers": [
+          "ID_SECTERENCE",
+          "arr",
+          "exit",
+          "getValuefromArray",
+          "index",
+          "main",
+          "result",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "ID_SECTERENCE",
+          "arr",
+          "exit",
+          "index",
+          "result",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValuefromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\ur.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "exit",
+          "getValuefromarray",
+          "index",
+          "main",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "exit",
+          "index",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValuefromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\de.py",
+      "elements": {
+        "identifiers": [
+          "array",
+          "exit",
+          "exit_code",
+          "getValueFromarray",
+          "id_sequence",
+          "index",
+          "main",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "__main__"
+        ],
+        "variables": [
+          "array",
+          "exit",
+          "exit_code",
+          "id_sequence",
+          "index",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\ja.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromArray",
+          "ID_Sequence",
+          "arr",
+          "exit",
+          "index",
+          "main",
+          "read",
+          "size",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "__main__"
+        ],
+        "variables": [
+          "ID_Sequence",
+          "arr",
+          "index",
+          "read",
+          "size",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\mr.py",
+      "elements": {
+        "identifiers": [
+          "_",
+          "arr",
+          "exit",
+          "getValueFromarray",
+          "index",
+          "main",
+          "readline",
+          "size",
+          "sys"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "_",
+          "arr",
+          "exit",
+          "index",
+          "readline",
+          "size",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\vi.py",
+      "elements": {
+        "identifiers": [
+          "ID_Sequence",
+          "array",
+          "exit",
+          "getValueFromArray",
+          "index",
+          "main",
+          "size",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "__main__",
+          "10",
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "variables": [
+          "ID_Sequence",
+          "array",
+          "exit",
+          "index",
+          "size",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\te.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "getValueFromarray",
+          "index",
+          "main",
+          "size",
+          "split"
+        ],
+        "literals": [
+          "__main__"
+        ],
+        "variables": [
+          "arr",
+          "index",
+          "size",
+          "split"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getValueFromarray",
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\ha.py",
+      "elements": {
+        "identifiers": [
+          "append",
+          "avg",
+          "collections",
+          "data",
+          "defaultdict",
+          "dumps",
+          "envalufromaray",
+          "gano",
+          "group",
+          "grouped",
+          "indent",
+          "item",
+          "items",
+          "json",
+          "key",
+          "ma_anar",
+          "process_lamba",
+          "result",
+          "sum",
+          "total"
+        ],
+        "literals": [
+          "ID",
+          "ID_se",
+          "ID",
+          "0",
+          "ID_se",
+          "1",
+          "Gano",
+          "Envalufromaray",
+          "Total",
+          "Average",
+          "2"
+        ],
+        "variables": [
+          "append",
+          "avg",
+          "collections",
+          "data",
+          "defaultdict",
+          "dumps",
+          "envalufromaray",
+          "gano",
+          "group",
+          "grouped",
+          "indent",
+          "item",
+          "items",
+          "json",
+          "key",
+          "ma_anar",
+          "result",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "process_lamba"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_d6ecmeig\\tr.py",
+      "elements": {
+        "identifiers": [
+          "GetValueFromArray",
+          "ID_REXENCE",
+          "arr",
+          "index",
+          "main"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "__main__"
+        ],
+        "variables": [
+          "ID_REXENCE",
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetValueFromArray",
+          "main"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

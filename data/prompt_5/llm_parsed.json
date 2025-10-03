@@ -1,0 +1,681 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\en.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "arr",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "arr",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "arr",
+          "index",
+          "main",
+          "split",
+          "sys"
+        ],
+        "literals": [
+          "3",
+          "Usage: script.py <array> <index>",
+          "1",
+          "2",
+          "0",
+          "Index out of range",
+          "__main__"
+        ],
+        "variables": [
+          "argv",
+          "arr",
+          "index",
+          "split",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\hi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "elements",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "elements",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\es.py",
+      "elements": {
+        "identifiers": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "index",
+          "main",
+          "matrix",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: python script.py <index>",
+          "1",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "Invalid index",
+          "__main__"
+        ],
+        "variables": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "index",
+          "matrix",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\ar.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "elements",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "elements",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\fr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "elements",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "elements",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\bn.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "index",
+          "numbers",
+          "sys"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "index",
+          "numbers",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\pt.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "col",
+          "index",
+          "matrix",
+          "row",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "1",
+          "0",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "col",
+          "index",
+          "matrix",
+          "row",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\ru.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "elements",
+          "get",
+          "i",
+          "index",
+          "main",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: python script.py <index>",
+          "1",
+          "f\"element_{i}",
+          "10",
+          "Index out of range",
+          "Index must be an integer",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "elements",
+          "get",
+          "i",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\id.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "elements",
+          "index",
+          "main",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Usage: script.py <index>",
+          "1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "0",
+          "Index out of range",
+          "Please provide a valid integer index",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "elements",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\ur.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "code_elements",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "element0",
+          "element1",
+          "element2",
+          "element3",
+          "element4",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "code_elements",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\de.py",
+      "elements": {
+        "identifiers": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "elements",
+          "i",
+          "index",
+          "main",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Please provide an integer index.",
+          "1",
+          "10",
+          "Invalid index or out of range.",
+          "__main__"
+        ],
+        "variables": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "elements",
+          "i",
+          "index",
+          "sys"
+        ],
+        "comments": [
+          "Example list of elements"
+        ],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\ja.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "elements",
+          "index",
+          "indices",
+          "sys"
+        ],
+        "literals": [
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "elements",
+          "index",
+          "indices",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\mr.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "array",
+          "command_line_args",
+          "exit",
+          "idx",
+          "indices",
+          "sys"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "60",
+          "1",
+          "Error: Command line arguments must be integers.",
+          "1",
+          "0",
+          "f\"Index {idx} is out of bounds for the array."
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "array",
+          "command_line_args",
+          "exit",
+          "idx",
+          "indices",
+          "sys"
+        ],
+        "comments": [
+          "Step 1: Create an array of components",
+          "Step 2: Extract command line arguments (excluding the script name)",
+          "These will be used as indices",
+          "Step 3: Convert command line arguments to integers",
+          "Step 4: Print elements at the given indices (if valid)"
+        ],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\vi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "arr",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "arr",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\te.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "elements",
+          "index",
+          "sys"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "1"
+        ],
+        "variables": [
+          "argv",
+          "elements",
+          "index",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\ha.py",
+      "elements": {
+        "identifiers": [
+          "Button",
+          "Label",
+          "Tk",
+          "button",
+          "cget",
+          "command",
+          "config",
+          "count",
+          "font",
+          "increment_counter",
+          "label",
+          "mainloop",
+          "pack",
+          "pady",
+          "root",
+          "text",
+          "title",
+          "tk",
+          "tkinter"
+        ],
+        "literals": [
+          "text",
+          "1",
+          "Lambar Counter",
+          "0",
+          "Arial",
+          "48",
+          "20",
+          "Hanyar Haɗin",
+          "Arial",
+          "24",
+          "10"
+        ],
+        "variables": [
+          "Button",
+          "Label",
+          "Tk",
+          "button",
+          "cget",
+          "command",
+          "config",
+          "count",
+          "font",
+          "increment_counter",
+          "label",
+          "mainloop",
+          "pack",
+          "pady",
+          "root",
+          "text",
+          "title",
+          "tk",
+          "tkinter"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "increment_counter"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_v0f16c22\\tr.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "arg",
+          "argv",
+          "main",
+          "num",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "f\"Item {num}",
+          "Please provide a valid integer.",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "arg",
+          "argv",
+          "num",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

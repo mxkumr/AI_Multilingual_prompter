@@ -1,0 +1,528 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\en.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "get_index_value",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter an index: "
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_index_value"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "index"
+        ],
+        "literals": [
+          "Enter an index: ",
+          "10",
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\hi.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "num"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "variables": [
+          "arr",
+          "num"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\es.py",
+      "elements": {
+        "identifiers": [
+          "arreglo",
+          "indice",
+          "obtener_valor_en_indice"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Ingrese un índice: "
+        ],
+        "variables": [
+          "arreglo",
+          "indice"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "obtener_valor_en_indice"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\ar.py",
+      "elements": {
+        "identifiers": [
+          "get_index_value",
+          "index",
+          "numbers",
+          "split"
+        ],
+        "literals": [
+          "Enter numbers separated by spaces: ",
+          "Enter the index: "
+        ],
+        "variables": [
+          "index",
+          "numbers",
+          "split"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_index_value"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\fr.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter index: "
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\bn.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\pt.py",
+      "elements": {
+        "identifiers": [
+          "flattened",
+          "index",
+          "matrix",
+          "num",
+          "row"
+        ],
+        "literals": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "Enter an index: ",
+          "0",
+          "Index out of range"
+        ],
+        "variables": [
+          "flattened",
+          "index",
+          "matrix",
+          "num",
+          "row"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\ru.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "array",
+          "get_index_value",
+          "index"
+        ],
+        "literals": [
+          "i",
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter index: ",
+          "0",
+          "Index out of range"
+        ],
+        "variables": [
+          "arr",
+          "array",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_index_value"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\id.py",
+      "elements": {
+        "identifiers": [
+          "get_index_value",
+          "index",
+          "nums",
+          "split"
+        ],
+        "literals": [
+          "Masukkan angka-angka (pisahkan dengan spasi): ",
+          "Masukkan indeks: "
+        ],
+        "variables": [
+          "index",
+          "nums",
+          "split"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_index_value"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\ur.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "my_list"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "Enter index: "
+        ],
+        "variables": [
+          "index",
+          "my_list"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\de.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter index: ",
+          "0",
+          "Index out of range"
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\ja.py",
+      "elements": {
+        "identifiers": [
+          "array",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter index: "
+        ],
+        "variables": [
+          "array",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\mr.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter index: "
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\vi.py",
+      "elements": {
+        "identifiers": [
+          "arr",
+          "index"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "Enter index: "
+        ],
+        "variables": [
+          "arr",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\te.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "lst"
+        ],
+        "literals": [
+          "10",
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "variables": [
+          "index",
+          "lst"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\ha.py",
+      "elements": {
+        "identifiers": [
+          "max",
+          "max_current",
+          "max_global",
+          "max_subarray_sum",
+          "num",
+          "nums"
+        ],
+        "literals": [
+          "0",
+          "0",
+          "1"
+        ],
+        "variables": [
+          "max_current",
+          "max_global",
+          "num",
+          "nums"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "max_subarray_sum"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_q8g86r9c\\tr.py",
+      "elements": {
+        "identifiers": [
+          "find_value_in_list",
+          "i",
+          "lst",
+          "num"
+        ],
+        "literals": [
+          "Bir sayı girin: ",
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "1"
+        ],
+        "variables": [
+          "i",
+          "lst",
+          "num"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "find_value_in_list"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

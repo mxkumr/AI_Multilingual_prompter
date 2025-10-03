@@ -1,0 +1,20 @@
+{
+  "en": "import sys\n\ndef get_value(args):\n    index = int(args[1])\n    return args[index]",
+  "zh-CN": "import sys\n\ndef main():\n    index = int(sys.argv[1])\n    params = sys.argv[2:]\n    print(params[index])\n\nif __name__ == \"__main__\":\n    main()",
+  "hi": "import sys\n\ndef main(args):\n    index = int(args[0])\n    return args[index]\n\nif __name__ == \"__main__\":\n    print(main(sys.argv[1:]))",
+  "es": "import sys\n\ndef get_second_argument():\n    return sys.argv[1]",
+  "ar": "import sys\n\ndef main():\n    if len(sys.argv) > 1:\n        return sys.argv[1]\n    return None\n\nif __name__ == \"__main__\":\n    print(main())",
+  "fr": "import sys\n\ndef main(args):\n    return args[1]\n\nif __name__ == \"__main__\":\n    print(main(sys.argv))",
+  "bn": "import sys\n\ndef get_argument(index):\n    return sys.argv[index]",
+  "pt": "import sys\n\ndef main():\n    if len(sys.argv) < 2:\n        return None\n    index = int(sys.argv[1])\n    if index >= len(sys.argv) - 1:\n        return None\n    return sys.argv[index]\n\nif __name__ == \"__main__\":\n    print(main())",
+  "ru": "import sys\n\ndef main():\n    if len(sys.argv) < 2:\n        print(\"Not enough arguments\")\n        return\n    try:\n        index = int(sys.argv[1])\n        if index < 0 or index >= len(sys.argv):\n            print(\"Index out of range\")\n            return\n        print(sys.argv[index])\n    except ValueError:\n        print(\"Invalid index\")\n\nif __name__ == \"__main__\":\n    main()",
+  "id": "import sys\n\ndef get_value(args):\n    index = int(args[1])\n    return args[index]\n\nif __name__ == \"__main__\":\n    args = sys.argv\n    print(get_value(args))",
+  "ur": "import sys\n\ndef get_value(args):\n    index = int(args[1])\n    return args[index]\n\nif __name__ == \"__main__\":\n    print(get_value(sys.argv))",
+  "de": "import sys\n\ndef get_argument(index):\n    return sys.argv[index]",
+  "ja": "import sys\n\ndef main(args):\n    index = int(args[1])\n    return args[index]\n\nif __name__ == \"__main__\":\n    print(main(sys.argv))",
+  "mr": "import sys\n\ndef get_argument():\n    return sys.argv[1]",
+  "vi": "import sys\n\ndef main():\n    if len(sys.argv) < 3:\n        print(\"Usage: script.py <index> <arg1> <arg2>...\")\n        sys.exit(1)\n    index = int(sys.argv[1])\n    args_list = sys.argv[2:]\n    if index < 0 or index >= len(args_list):\n        print(\"Index out of range\")\n        sys.exit(1)\n    print(args_list[index])\n\nif __name__ == \"__main__\":\n    main()",
+  "te": "import sys\n\ndef get_first_argument():\n    return sys.argv[1]\n\nif __name__ == \"__main__\":\n    print(get_first_argument())",
+  "ha": "import sys\n\ndef main():\n    if len(sys.argv) < 2:\n        print(\"Error: At least one argument is required.\")\n        return\n    for arg in sys.argv[1:]:\n        try:\n            num = int(arg)\n            print(f\"Processed integer: {num}\")\n        except ValueError:\n            print(f\"Error: '{arg}' is not a valid integer.\")\n\nif __name__ == \"__main__\":\n    main()",
+  "tr": "import sys\n\ndef get_arg(args):\n    return args[1]\n\nif __name__ == \"__main__\":\n    print(get_arg(sys.argv))"
+}

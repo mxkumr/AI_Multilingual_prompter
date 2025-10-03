@@ -1,0 +1,20 @@
+{
+  "en": "arr = [10, 20, 30, 40, 50, 60]\nn = int(input())\nprint(arr[n])",
+  "zh-CN": "def get_value_from_index(arr, index):\n    return arr[index]",
+  "hi": "arr = [0, 1, 2, 3, 4, 5]\nn = int(input())\nprint(arr[n])",
+  "es": "def get_index_value(arr, index):\n    return arr[index]",
+  "ar": "def get_index_value(n, array):\n    return array[n]",
+  "fr": "array = [10, 20, 30, 40, 50, 60]\nn = int(input())\nprint(array[n])",
+  "bn": "array = [10, 20, 30, 40, 50, 60]\nn = int(input())\nprint(array[n])",
+  "pt": "arr = [10, 20, 30, 40, 50, 60]\nn = int(input())\nprint(arr[n])",
+  "ru": "def get_index_value(input_num):\n    arr = [10, 20, 30, 40, 50, 60]\n    return arr[input_num]",
+  "id": "def get_index_value(arr, index):\n    return arr[index]",
+  "ur": "def get_value(index):\n    return [0, 1, 2, 3, 4, 5][index]",
+  "de": "def get_value_from_index(n):\n    arr = [10, 20, 30, 40, 50, 60, 70]\n    if 0 <= n < len(arr):\n        return arr[n]\n    else:\n        return \"Index out of range\"",
+  "ja": "arr = [10, 20, 30, 40, 50, 60]\nindex = int(input())\nprint(arr[index])",
+  "mr": "def get_array_value(n):\n    arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\n    return arr[n-1] if 1 <= n <= len(arr) else \"Invalid index\"",
+  "vi": "def get_value(index):\n    arr = [10, 20, 30, 40, 50, 60]\n    return arr[index]",
+  "te": "numbers = [10, 20, 30, 40, 50, 60]\nn = int(input())\nprint(numbers[n])",
+  "ha": "def get_element(lst, index):\n    return lst[index]",
+  "tr": "def find_value_at_index(n, lst):\n    return lst[n]"
+}

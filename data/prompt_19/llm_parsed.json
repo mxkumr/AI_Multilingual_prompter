@@ -1,0 +1,505 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\en.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "num",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1",
+          "1000",
+          "请输入一个有效的整数。",
+          "请提供一个整数作为命令行参数。"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "num",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\hi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "num",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "num",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\es.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1",
+          "1000",
+          "Por favor, ingrese un valor numérico válido.",
+          "Por favor, ingrese un valor en la línea de comando."
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\ar.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "n",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "n",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\fr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "2",
+          "1",
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\bn.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\pt.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\ru.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\id.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\ur.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "num",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "num",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\de.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\ja.py",
+      "elements": {
+        "identifiers": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "num",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "Usage: python script.py <integer>"
+        ],
+        "variables": [
+          "IndexError",
+          "ValueError",
+          "argv",
+          "num",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\mr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\vi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\te.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\ha.py",
+      "elements": {
+        "identifiers": [
+          "char",
+          "consonant_count",
+          "consonants",
+          "count_vowels_and_consonants",
+          "isalpha",
+          "sentence",
+          "vowel_count",
+          "vowels"
+        ],
+        "literals": [
+          "aeiouAEIOU",
+          "0",
+          "0",
+          "1",
+          "1",
+          "Lambar tana karanta a cikin ƙimar da ta dace da layin umarni kuma tana ƙara 1000 a gare ta.",
+          "f\"Kuma: {vowels}, Ƙamar: {consonants}"
+        ],
+        "variables": [
+          "char",
+          "consonant_count",
+          "consonants",
+          "isalpha",
+          "sentence",
+          "vowel_count",
+          "vowels"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "count_vowels_and_consonants"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_zn9jhyyu\\tr.py",
+      "elements": {
+        "identifiers": [
+          "ValueError",
+          "argv",
+          "deger",
+          "main",
+          "sonuc",
+          "sys"
+        ],
+        "literals": [
+          "2",
+          "Kullanım: python script.py <değer>",
+          "1",
+          "1000",
+          "Geçersiz değer. Lütfen bir sayı girin.",
+          "__main__"
+        ],
+        "variables": [
+          "ValueError",
+          "argv",
+          "deger",
+          "sonuc",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

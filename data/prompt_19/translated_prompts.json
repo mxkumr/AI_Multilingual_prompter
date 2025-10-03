@@ -1,0 +1,20 @@
+{
+  "en": "Generate Python code for the following: The code reads in a value from the command line and adds 1000 to it.",
+  "zh-CN": "为以下内容生成Python代码：代码以命令行中的值读取，并向其添加1000。",
+  "hi": "निम्नलिखित के लिए पायथन कोड उत्पन्न करें: कोड कमांड लाइन से एक मान में पढ़ता है और इसमें 1000 जोड़ता है।",
+  "es": "Genere el código Python para lo siguiente: el código se lee en un valor de la línea de comando y le agrega 1000.",
+  "ar": "قم بإنشاء رمز Python لما يلي: يقرأ الرمز في قيمة من سطر الأوامر ويضيف 1000 إليه.",
+  "fr": "Générez le code Python pour les éléments suivants: Le code se lit dans une valeur de la ligne de commande et en ajoute 1000.",
+  "bn": "নিম্নলিখিতগুলির জন্য পাইথন কোড তৈরি করুন: কোডটি কমান্ড লাইন থেকে একটি মান পড়েছে এবং এটিতে 1000 যুক্ত করে।",
+  "pt": "Gere o código Python para o seguinte: O código lê em um valor da linha de comando e adiciona 1000 a ele.",
+  "ru": "Сгенерируйте код Python для следующего: код считывается в значении из командной строки и добавляет 1000 к нему.",
+  "id": "Hasilkan Kode Python untuk yang berikut: Kode dibaca dalam nilai dari baris perintah dan menambahkan 1000 ke dalamnya.",
+  "ur": "مندرجہ ذیل کے لئے ازگر کا کوڈ بنائیں: کوڈ کمانڈ لائن سے کسی قدر میں پڑھتا ہے اور اس میں 1000 کا اضافہ کرتا ہے۔",
+  "de": "Generieren Sie den Python -Code für Folgendes: Der Code liest in einem Wert aus der Befehlszeile und fügt 1000 hinzu.",
+  "ja": "以下のPythonコードを生成します。コードはコマンドラインから値で読み取り、1000を追加します。",
+  "mr": "पुढीलसाठी पायथन कोड व्युत्पन्न करा: कोड कमांड लाइनमधील मूल्यात वाचतो आणि त्यात 1000 जोडतो.",
+  "vi": "Tạo mã Python cho các mục sau: Mã đọc trong một giá trị từ dòng lệnh và thêm 1000 vào nó.",
+  "te": "కింది వాటి కోసం పైథాన్ కోడ్‌ను రూపొందించండి: కోడ్ కమాండ్ లైన్ నుండి విలువలో చదివి దానికి 1000 ను జోడిస్తుంది.",
+  "ha": "Haɗa lambar Python don masu zuwa: Lambar tana karanta a cikin ƙimar da ta dace da layin umarni kuma tana ƙara 1000 a gare ta.",
+  "tr": "Aşağıdakiler için Python kodu oluşturun: Kod komut satırından bir değerde okur ve ona 1000 ekler."
+}

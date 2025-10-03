@@ -1,0 +1,20 @@
+{
+  "en": "def get_index_value():\n    arr = [10, 20, 30, 40, 50]\n    index = int(input(\"Enter an index: \"))\n    print(arr[index])",
+  "zh-CN": "index = int(input(\"Enter an index: \"))\narr = [10, 20, 30, 40, 50]\nprint(arr[index])",
+  "hi": "num = int(input())\narr = [10, 20, 30, 40, 50]\nprint(arr[num])",
+  "es": "def obtener_valor_en_indice():\n    arreglo = [10, 20, 30, 40, 50]\n    indice = int(input(\"Ingrese un índice: \"))\n    print(arreglo[indice])\nobtener_valor_en_indice()",
+  "ar": "def get_index_value():\n    numbers = list(map(int, input(\"Enter numbers separated by spaces: \").split()))\n    index = int(input(\"Enter the index: \"))\n    print(numbers[index])",
+  "fr": "arr = [10, 20, 30, 40, 50]\nindex = int(input(\"Enter index: \"))\nprint(arr[index])",
+  "bn": "arr = [10, 20, 30, 40, 50]\nindex = int(input())\nprint(arr[index])",
+  "pt": "matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]\nindex = int(input(\"Enter an index: \"))\nflattened = [num for row in matrix for num in row]\nif 0 <= index < len(flattened):\n    print(flattened[index])\nelse:\n    print(\"Index out of range\")",
+  "ru": "def get_index_value():\n    import array\n    arr = array.array('i', [10, 20, 30, 40, 50])\n    index = int(input(\"Enter index: \"))\n    if 0 <= index < len(arr):\n        print(arr[index])\n    else:\n        print(\"Index out of range\")",
+  "id": "def get_index_value():\n    nums = list(map(int, input(\"Masukkan angka-angka (pisahkan dengan spasi): \").split()))\n    index = int(input(\"Masukkan indeks: \"))\n    print(nums[index])",
+  "ur": "my_list = [10, 20, 30, 40]\nindex = int(input(\"Enter index: \"))\nprint(my_list[index])",
+  "de": "arr = [10, 20, 30, 40, 50]\nindex = int(input(\"Enter index: \"))\nif 0 <= index < len(arr):\n    print(arr[index])\nelse:\n    print(\"Index out of range\")",
+  "ja": "array = [10, 20, 30, 40, 50]\nindex = int(input(\"Enter index: \"))\nprint(array[index])",
+  "mr": "arr = [10, 20, 30, 40, 50]\nindex = int(input(\"Enter index: \"))\nprint(arr[index])",
+  "vi": "arr = [10, 20, 30, 40, 50]\nindex = int(input(\"Enter index: \"))\nprint(arr[index])",
+  "te": "lst = [10, 20, 30, 40, 50]\nindex = int(input())\nprint(lst[index])",
+  "ha": "def max_subarray_sum(nums):\n    if not nums:\n        return 0\n    max_current = max_global = nums[0]\n    for num in nums[1:]:\n        max_current = max(num, max_current + num)\n        max_global = max(max_global, max_current)\n    return max_global",
+  "tr": "def find_value_in_list():\n    num = int(input(\"Bir sayı girin: \"))\n    lst = [10, 20, 30, 40, 50]\n    for i in range(len(lst)):\n        if lst[i] == num:\n            print(i)\n            return\n    print(-1)\nfind_value_in_list()"
+}

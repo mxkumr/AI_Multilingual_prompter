@@ -1,0 +1,576 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\en.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "car",
+          "bike",
+          "truck",
+          "bus",
+          "Enter index: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "v",
+          "vehicles"
+        ],
+        "literals": [
+          "car",
+          "bus",
+          "truck",
+          "Enter vehicle index: "
+        ],
+        "variables": [
+          "index",
+          "v",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\hi.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Motorcycle",
+          "Enter the index of the vehicle: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\es.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bicycle",
+          "Train",
+          "Airplane",
+          "Enter the index of the vehicle: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\ar.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "car",
+          "bike",
+          "truck",
+          "boat",
+          "Enter index: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\fr.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "car",
+          "bus",
+          "truck",
+          "bike",
+          "Enter the index of the vehicle: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\bn.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Van",
+          "Enter the index of the vehicle: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\pt.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "car",
+          "bus",
+          "truck",
+          "bike",
+          "boat",
+          "Enter the index of the vehicle: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\ru.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "car",
+          "bus",
+          "bike",
+          "train",
+          "plane",
+          "Enter the index of the vehicle: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\id.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "Motorcycle",
+          "Car",
+          "Truck",
+          "Bicycle",
+          "Enter index: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\ur.py",
+      "elements": {
+        "identifiers": [
+          "car",
+          "cars",
+          "index"
+        ],
+        "literals": [
+          "Toyota",
+          "Honda",
+          "Ford",
+          "BMW",
+          "Tesla",
+          "Enter car index: ",
+          "Selected car:"
+        ],
+        "variables": [
+          "car",
+          "cars",
+          "index"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\de.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "Tesla",
+          "BMW",
+          "Ford",
+          "Toyota",
+          "Honda",
+          "Enter index: "
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\ja.py",
+      "elements": {
+        "identifiers": [
+          "i",
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Truck",
+          "Bus",
+          "Train",
+          "Boat",
+          "Enter vehicle index: "
+        ],
+        "variables": [
+          "i",
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\mr.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Train",
+          "Enter the index of the vehicle: ",
+          "Vehicle at index",
+          "is:",
+          "List of vehicles:"
+        ],
+        "variables": [
+          "index",
+          "vehicle",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\vi.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "phuong_tien",
+          "vehicle"
+        ],
+        "literals": [
+          "xe may",
+          "oto",
+          "xe dap",
+          "moto",
+          "xe bua",
+          "Nhap chi so: "
+        ],
+        "variables": [
+          "index",
+          "phuong_tien",
+          "vehicle"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\te.py",
+      "elements": {
+        "identifiers": [
+          "index",
+          "vehicles"
+        ],
+        "literals": [
+          "Car",
+          "Bike",
+          "Truck",
+          "Bus",
+          "Enter vehicle index: "
+        ],
+        "variables": [
+          "index",
+          "vehicles"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\ha.py",
+      "elements": {
+        "identifiers": [
+          "DictReader",
+          "Exception",
+          "FileNotFoundError",
+          "avg_temp",
+          "capitalize",
+          "csv",
+          "data",
+          "e",
+          "file",
+          "file_path",
+          "get",
+          "isdigit",
+          "items",
+          "lower",
+          "motorcycle_count",
+          "open",
+          "process_motorcycle_data",
+          "reader",
+          "row",
+          "strip",
+          "temp",
+          "weather",
+          "weather_data"
+        ],
+        "literals": [
+          "0",
+          "r",
+          "1",
+          "weather",
+          "count",
+          "0",
+          "total_temp",
+          "0.0",
+          "count",
+          "1",
+          "temperature",
+          "0",
+          "total_temp",
+          "total_temp",
+          "count",
+          "count",
+          "0",
+          "0",
+          "f\"Weather: {weather.capitalize()}, Motorcycles: {data['count']}, Avg Temp: {avg_temp:.1f}",
+          "count",
+          "Error: File not found.",
+          "f\"An error occurred: {e}",
+          "motorcycles.csv"
+        ],
+        "variables": [
+          "DictReader",
+          "Exception",
+          "FileNotFoundError",
+          "avg_temp",
+          "capitalize",
+          "csv",
+          "data",
+          "e",
+          "file",
+          "file_path",
+          "get",
+          "isdigit",
+          "items",
+          "lower",
+          "motorcycle_count",
+          "reader",
+          "row",
+          "strip",
+          "temp",
+          "weather",
+          "weather_data"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "process_motorcycle_data"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_z3te7r4p\\tr.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "araç",
+          "kullanici_girdisi"
+        ],
+        "literals": [
+          "araba",
+          "otobüs",
+          "taksi",
+          "Bir aracın dizinini girin: "
+        ],
+        "variables": [
+          "a",
+          "araç",
+          "kullanici_girdisi"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}
