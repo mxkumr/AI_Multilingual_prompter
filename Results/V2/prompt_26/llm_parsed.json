@@ -1,0 +1,463 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\en.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "sum"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlysales",
+          "i",
+          "sum_sales"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "sum_sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\hi.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "sum_total"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "sum_total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\es.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "total_sales"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "total_sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\ar.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "sum"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\fr.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "i",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "sum"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\bn.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "total"
+        ],
+        "literals": [
+          "0",
+          "3",
+          "Total sales for the first three months:"
+        ],
+        "variables": [
+          "i",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\pt.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "i",
+          "sum_sales"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "sum_sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\ru.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "total_sales"
+        ],
+        "literals": [
+          "1000",
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "total_sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\id.py",
+      "elements": {
+        "identifiers": [
+          "GetOnthlysales",
+          "SUM",
+          "i"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "SUM",
+          "i"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\ur.py",
+      "elements": {
+        "identifiers": [
+          "calculate_total_sales",
+          "getmonthlysales",
+          "month",
+          "total"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "month",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "calculate_total_sales"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\de.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "i",
+          "sum"
+        ],
+        "literals": [
+          "100",
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "sum"
+        ],
+        "comments": [
+          "Beispielimplementierung, ersetzen Sie dies durch Ihre eigene Logik"
+        ],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\ja.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "i",
+          "total"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\mr.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "total"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\vi.py",
+      "elements": {
+        "identifiers": [
+          "getmonthlysales",
+          "i",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "sum"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\te.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlysales",
+          "i",
+          "total"
+        ],
+        "literals": [
+          "0",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\ha.py",
+      "elements": {
+        "identifiers": [
+          "even_sum",
+          "num",
+          "numbers",
+          "odd_sum",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "3",
+          "2",
+          "0",
+          "2",
+          "0",
+          "Sum of even numbers:",
+          "Sum of odd numbers:"
+        ],
+        "variables": [
+          "even_sum",
+          "num",
+          "numbers",
+          "odd_sum"
+        ],
+        "comments": [
+          "Generate numbers from 0 to 2"
+        ],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_pt62guev\\tr.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "total"
+        ],
+        "literals": [
+          "0",
+          "0",
+          "2",
+          "3"
+        ],
+        "variables": [
+          "i",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "en": "sum = 0\nfor i in range(3):\n    sum += getMonthlySales(i)",
+  "zh-CN": "sum_sales = 0\nfor i in range(3):\n    sum_sales += getMonthlysales(i)\nprint(sum_sales)",
+  "hi": "sum_total = 0\nfor i in range(3):\n    sum_total += getMonthlySales(i)",
+  "es": "total_sales = 0\nfor i in range(3):\n    total_sales += getMonthlySales(i)",
+  "ar": "sum = 0\nfor i in range(3):\n    sum += getMonthlySales(i)",
+  "fr": "sum = 0\nfor i in range(3):\n    sum += GetMonthlySales(i)",
+  "bn": "total = 0\nfor i in range(3):\n    total += getMonthlySales(i)\nprint(\"Total sales for the first three months:\", total)",
+  "pt": "sum_sales = 0\nfor i in range(3):\n    sum_sales += GetMonthlySales(i)",
+  "ru": "def getMonthlySales(i):\n    return i * 1000\n\ntotal_sales = 0\nfor i in range(3):\n    total_sales += getMonthlySales(i)\nprint(total_sales)",
+  "id": "SUM = 0\nfor i in range(3):\n    SUM += GetOnthlysales(i)",
+  "ur": "def calculate_total_sales():\n    total = 0\n    for month in range(3):\n        total += getmonthlysales(month)\n    return total",
+  "de": "def GetMonthlySales(i):\n    # Beispielimplementierung, ersetzen Sie dies durch Ihre eigene Logik\n    return i * 100\n\nsum = 0\nfor i in range(3):\n    sum += GetMonthlySales(i)",
+  "ja": "total = 0\nfor i in range(3):\n    total += GetMonthlySales(i)\nprint(total)",
+  "mr": "total = 0\nfor i in range(3):\n    total += getMonthlySales(i)\nprint(total)",
+  "vi": "sum = 0\nfor i in range(3):\n    sum += getmonthlysales(i)",
+  "te": "total = 0\nfor i in range(3):\n    total += getMonthlysales(i)\nprint(total)",
+  "ha": "# Generate numbers from 0 to 2\nnumbers = list(range(0, 3))\neven_sum = sum(num for num in numbers if num % 2 == 0)\nodd_sum = sum(num for num in numbers if num % 2 != 0)\nprint(\"Sum of even numbers:\", even_sum)\nprint(\"Sum of odd numbers:\", odd_sum)",
+  "tr": "total = 0\nfor i in range(0, 2, 3):\n    total += getMonthlySales(i)"
+}
