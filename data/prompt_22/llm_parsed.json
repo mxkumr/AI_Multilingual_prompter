@@ -1,0 +1,420 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\en.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\hi.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\es.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\ar.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\fr.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\bn.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\pt.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\ru.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\id.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\ur.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\de.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\ja.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\mr.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\vi.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\te.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "1000000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\ha.py",
+      "elements": {
+        "identifiers": [
+          "numbers",
+          "sum",
+          "total"
+        ],
+        "literals": [
+          "1",
+          "1001"
+        ],
+        "variables": [
+          "numbers",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_p6kubnml\\tr.py",
+      "elements": {
+        "identifiers": [
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}

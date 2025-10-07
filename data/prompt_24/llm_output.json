@@ -1,0 +1,20 @@
+{
+  "en": "import random\nnum1 = random.randint(10, 1000)\nnum2 = random.randint(10, 1000)\ndifference = num1 - num2\nprint(num1, num2, difference)",
+  "zh-CN": "import random\na = random.randint(10, 1000)\nb = random.randint(10, 1000)\nprint(abs(a - b))",
+  "hi": "import random\n\na = random.randint(10, 1000)\nb = random.randint(10, 1000)\ndifference = a - b\nprint(a)\nprint(b)\nprint(difference)\nprint(f\"Result: {a}, {b}, {difference}\")",
+  "es": "import random\na = random.randint(10, 1000)\nb = random.randint(10, 1000)\nc = a - b\nprint(a, b, c)",
+  "ar": "import random\na = random.randint(10, 1000)\nb = random.randint(10, 1000)\ndifference = a - b\nprint(f\"العدد الأول: {a}, العدد الثاني: {b}, الفرق: {difference}\")",
+  "fr": "import random\nnum1 = random.randint(10, 1000)\nnum2 = random.randint(10, 1000)\ndifference = num1 - num2\nprint(f\"num1: {num1}, num2: {num2}, difference: {difference}\")",
+  "bn": "import random\n\nfirst = random.randint(10, 1000)\nsecond = random.randint(10, 1000)\ndifference = first - second\nprint(first)\nprint(second)\nprint(difference)\nprint(difference)",
+  "pt": "import random\nnum1 = random.randint(10, 1000)\nnum2 = random.randint(10, 1000)\ndifference = num1 - num2\nprint(num1, num2, difference)",
+  "ru": "import random\na = random.randint(10, 1000)\nb = random.randint(10, 1000)\ndifference = a - b\nprint(f\"Сгенерированные числа: {a}, {b}, разница: {difference}\")",
+  "id": "import random\na = random.randint(10, 1000)\nb = random.randint(10, 1000)\ndifference = a - b\nprint(difference)",
+  "ur": "import random\n\nprint(random.randint(10, 1000))\nprint(random.randint(10, 1000))\nprint(abs(random.randint(10, 1000) - random.randint(10, 1000)))",
+  "de": "import random\na = random.randint(10, 1000)\nb = random.randint(10, 1000)\nc = a - b\nprint(f\"{a}, {b}, {c}\")",
+  "ja": "a = random.randint(10, 1000)\nb = random.randint(10, 1000)\nresult = a - b\nprint(result)",
+  "mr": "import random\n\na = random.randint(10, 1000)\nb = random.randint(10, 1000)\ndifference = a - b\nprint(difference)",
+  "vi": "import random\na = random.randint(10, 1000)\nb = random.randint(10, 1000)\ndiff = a - b\nprint(diff)",
+  "te": "import random\n\nnum1 = random.randint(10, 1000)\nnum2 = random.randint(10, 1000)\ndifference = num1 - num2\nprint(difference)",
+  "ha": "for num in range(10, 1001):\n    if num % 10 != 0:\n        continue\n    digit_sum = sum(int(d) for d in str(num))\n    if num % digit_sum == 0:\n        print(num)",
+  "tr": "import random\nnum1 = random.randint(10, 1000)\nnum2 = random.randint(10, 1000)\nprint(num1)\nprint(num2)\ndifference = num1 - num2\nprint(difference)"
+}

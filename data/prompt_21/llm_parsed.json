@@ -1,0 +1,515 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\en.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\hi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1000"
+        ],
+        "variables": [
+          "argv",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\es.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "main",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0",
+          "__main__"
+        ],
+        "variables": [
+          "argv",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "main"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\ar.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\fr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\bn.py",
+      "elements": {
+        "identifiers": [
+          "exit",
+          "num",
+          "sys"
+        ],
+        "literals": [
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "exit",
+          "num",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\pt.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\ru.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\id.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\ur.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "num",
+          "result",
+          "sys"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "num",
+          "result",
+          "sys"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\de.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\ja.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\mr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\vi.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "result",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\te.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\ha.py",
+      "elements": {
+        "identifiers": [
+          "count_even_odd_numbers",
+          "even",
+          "even_count",
+          "num",
+          "odd",
+          "odd_count"
+        ],
+        "literals": [
+          "0",
+          "0",
+          "1000",
+          "2",
+          "0",
+          "1",
+          "1",
+          "f\"Even numbers: {even}, Odd numbers: {odd}"
+        ],
+        "variables": [
+          "even",
+          "even_count",
+          "num",
+          "odd",
+          "odd_count"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "count_even_odd_numbers"
+        ],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_utkgkqky\\tr.py",
+      "elements": {
+        "identifiers": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "literals": [
+          "1",
+          "1000",
+          "0"
+        ],
+        "variables": [
+          "argv",
+          "exit",
+          "sys",
+          "value"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "summary": {
+    "en": {
+      "overall": {
+        "English/ASCII": 23
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 6
+        },
+        "variables": {
+          "English/ASCII": 6
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "zh-CN": {
+      "overall": {
+        "English/ASCII": 23
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 6
+        },
+        "variables": {
+          "English/ASCII": 6
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "hi": {
+      "overall": {
+        "English/ASCII": 21
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 5
+        },
+        "variables": {
+          "English/ASCII": 5
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "es": {
+      "overall": {
+        "English/ASCII": 23
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 6
+        },
+        "variables": {
+          "English/ASCII": 6
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "ar": {
+      "overall": {
+        "English/ASCII": 21
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 5
+        },
+        "variables": {
+          "English/ASCII": 5
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "fr": {
+      "overall": {
+        "English/ASCII": 21
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 5
+        },
+        "variables": {
+          "English/ASCII": 5
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "bn": {
+      "overall": {
+        "English/ASCII": 16,
+        "Bengali": 2
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 5
+        },
+        "variables": {
+          "English/ASCII": 5
+        },
+        "literals": {
+          "English/ASCII": 6,
+          "Bengali": 2
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "pt": {
+      "overall": {
+        "English/ASCII": 23
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 6
+        },
+        "variables": {
+          "English/ASCII": 6
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "ru": {
+      "overall": {
+        "English/ASCII": 21
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 5
+        },
+        "variables": {
+          "English/ASCII": 5
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "id": {
+      "overall": {
+        "English/ASCII": 21
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 5
+        },
+        "variables": {
+          "English/ASCII": 5
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "ur": {
+      "overall": {
+        "English/ASCII": 23
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 6
+        },
+        "variables": {
+          "English/ASCII": 6
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "de": {
+      "overall": {
+        "English/ASCII": 21
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 5
+        },
+        "variables": {
+          "English/ASCII": 5
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "ja": {
+      "overall": {
+        "English/ASCII": 23
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 6
+        },
+        "variables": {
+          "English/ASCII": 6
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "mr": {
+      "overall": {
+        "English/ASCII": 18,
+        "Devanagari (Hindi, etc.)": 5
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 6
+        },
+        "variables": {
+          "English/ASCII": 6
+        },
+        "literals": {
+          "English/ASCII": 6,
+          "Devanagari (Hindi, etc.)": 5
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "vi": {
+      "overall": {
+        "English/ASCII": 23
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 6
+        },
+        "variables": {
+          "English/ASCII": 6
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "te": {
+      "overall": {
+        "English/ASCII": 25
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 7
+        },
+        "variables": {
+          "English/ASCII": 7
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "ha": {
+      "overall": {
+        "English/ASCII": 11
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 2
+        },
+        "variables": {
+          "English/ASCII": 2
+        },
+        "literals": {
+          "English/ASCII": 5
+        },
+        "comments": {
+          "English/ASCII": 2
+        },
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    },
+    "tr": {
+      "overall": {
+        "English/ASCII": 25
+      },
+      "by_category": {
+        "identifiers": {
+          "English/ASCII": 7
+        },
+        "variables": {
+          "English/ASCII": 7
+        },
+        "literals": {
+          "English/ASCII": 11
+        },
+        "comments": {},
+        "docstrings": {},
+        "functions": {},
+        "classes": {}
+      }
+    }
+  }
+}

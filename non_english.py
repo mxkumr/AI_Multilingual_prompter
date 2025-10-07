@@ -2,7 +2,7 @@ import os
 import sys
 import json
 from collections import defaultdict
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional
 
 import matplotlib.pyplot as plt
 
@@ -94,12 +94,7 @@ def plot_category_bars(by_category: Dict[str, Dict[str, int]], out_path: str, ti
     plt.close()
 
 
-def main() -> None:
-    project_root = os.path.abspath(os.path.dirname(__file__))
-    ensure_mlp_on_path(project_root)
-
-    input_path = os.path.join(project_root, "data", "llm_parsed.json")
-    charts_dir = os.path.join(project_root, "data", "language_charts")
+def run_visualization(input_path: str, charts_dir: str, summary_out: Optional[str] = None) -> None:
     os.makedirs(charts_dir, exist_ok=True)
 
     if not os.path.exists(input_path):
@@ -127,12 +122,23 @@ def main() -> None:
         plot_category_bars(counts["by_category"], bars_path, f"By Category: {lang_key}")
 
     # Save summary JSON
-    out_json = os.path.join(project_root, "data", "non_english_summary.json")
-    with open(out_json, "w", encoding="utf-8") as f:
-        json.dump({"summary": summary}, f, ensure_ascii=False, indent=2)
+    if summary_out:
+        with open(summary_out, "w", encoding="utf-8") as f:
+            json.dump({"summary": summary}, f, ensure_ascii=False, indent=2)
 
     print(f"Saved charts to: {charts_dir}")
-    print(f"Saved summary to: {out_json}")
+    if summary_out:
+        print(f"Saved summary to: {summary_out}")
+
+
+def main() -> None:
+    project_root = os.path.abspath(os.path.dirname(__file__))
+    ensure_mlp_on_path(project_root)
+
+    input_path = os.path.join(project_root, "data", "llm_parsed.json")
+    charts_dir = os.path.join(project_root, "data", "language_charts")
+    summary_out = os.path.join(project_root, "data", "non_english_summary.json")
+    run_visualization(input_path, charts_dir, summary_out)
 
 
 if __name__ == "__main__":

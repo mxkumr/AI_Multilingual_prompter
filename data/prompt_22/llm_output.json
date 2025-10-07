@@ -1,0 +1,20 @@
+{
+  "en": "import random\nprint(random.randint(1001, 1000000))",
+  "zh-CN": "import random\nprint(random.randint(1001, 1000000))",
+  "hi": "import random\nprint(random.randint(1001, 1000000))",
+  "es": "import random\nprint(random.randint(1001, 9999))",
+  "ar": "import random\nprint(random.randint(1001, 1000000))",
+  "fr": "import random\n\nprint(random.randint(1001, 1000000))",
+  "bn": "import random\n\nprint(random.randint(1001, 1000000))",
+  "pt": "import random\nprint(random.randint(1001, 9999))",
+  "ru": "import random\nprint(random.randint(1001, 1000000))",
+  "id": "import random\n\nprint(random.randint(1001, 1000000))",
+  "ur": "import random\nprint(random.randint(1001, 9999))",
+  "de": "import random\nprint(random.randint(1001, 1000000))",
+  "ja": "import random\nprint(random.randint(1001, 1000000))",
+  "mr": "import random\nprint(random.randint(1001, 1000000))",
+  "vi": "import random\nprint(random.randint(1001, 1000000))",
+  "te": "import random\nprint(random.randint(1001, 1000000))",
+  "ha": "numbers = list(range(1, 1001))\ntotal = sum(numbers)\nprint(total)",
+  "tr": "import random\nprint(random.randint(1001, 9999))"
+}

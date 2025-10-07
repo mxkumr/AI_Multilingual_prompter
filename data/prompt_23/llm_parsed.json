@@ -1,0 +1,701 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\en.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"a : {a}",
+          "f\"b : {b}",
+          "f\"c : {c}",
+          "f\"sum: {total}",
+          "f\"sum2: {total}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"a : {a}",
+          "f\"b : {b}",
+          "f\"c : {c}",
+          "f\"sum: {total}",
+          "f\"sum2: {total}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\hi.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"SUM: {a + b + c}",
+          "f\"SUM2: {a + b + c}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\es.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"Suma: {total}",
+          "f\"Sum2: {total}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\ar.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"SUM: {a + b + c}",
+          "f\"SUM2: {a + b + c}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\fr.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"Sum: {a + b + c}",
+          "f\"SUM2: {a + b + c}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\bn.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"এ: {a} বি: {b} সি: {c}",
+          "f\"যোগ: {a + b + c}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\pt.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "soma"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"Soma: {soma}",
+          "f\"SUM2: {soma}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "soma"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\ru.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"a: {a}",
+          "f\"b: {b}",
+          "f\"c: {c}",
+          "f\"sum: {a + b + c}",
+          "f\"sum2: {a + b + c}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\id.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"a : {a}",
+          "f\"b : {b}",
+          "f\"c : {c}",
+          "f\"jumlah: {a + b + c}",
+          "f\"jumlah2: {a + b + c}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\ur.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"Total: {total}",
+          "f\"SUM2: {total}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\de.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"Summe: {a + b + c}",
+          "f\"Sum2: {a + b + c}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\ja.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"SUM: {total}",
+          "f\"SUM2: {total}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\mr.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "sum_result"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"अ: {a}",
+          "f\"बी: {b}",
+          "f\"सी: {c}",
+          "f\"बेरीज: {sum_result}",
+          "f\"सम 2: {sum_result}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "sum_result"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\vi.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"Sum: {total}",
+          "f\"Sum2: {total}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\te.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "sum2_result",
+          "sum_result"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"SUM: {sum_result}",
+          "f\"SUM2: {sum2_result}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "sum2_result",
+          "sum_result"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\ha.py",
+      "elements": {
+        "identifiers": [
+          "sum1",
+          "sum2"
+        ],
+        "literals": [
+          "1234",
+          "5678",
+          "9012",
+          "SUM1:",
+          "SUM2:"
+        ],
+        "variables": [
+          "sum1",
+          "sum2"
+        ],
+        "comments": [
+          "Calculate the sum of the given numbers",
+          "Output the results"
+        ],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_9ezx78dd\\tr.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "sum2",
+          "total"
+        ],
+        "literals": [
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "1001",
+          "9999",
+          "f\"A: {a}",
+          "f\"B: {b}",
+          "f\"C: {c}",
+          "f\"Toplam: {total}",
+          "f\"SUM2: {sum2}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random",
+          "sum2",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}

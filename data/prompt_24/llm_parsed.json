@@ -1,0 +1,564 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\en.py",
+      "elements": {
+        "identifiers": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "abs",
+          "b",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\hi.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000",
+          "f\"Result: {a}, {b}, {difference}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\es.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\ar.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000",
+          "f\"العدد الأول: {a}, العدد الثاني: {b}, الفرق: {difference}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\fr.py",
+      "elements": {
+        "identifiers": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000",
+          "f\"num1: {num1}, num2: {num2}, difference: {difference}"
+        ],
+        "variables": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\bn.py",
+      "elements": {
+        "identifiers": [
+          "difference",
+          "first",
+          "randint",
+          "random",
+          "second"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "difference",
+          "first",
+          "randint",
+          "random",
+          "second"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\pt.py",
+      "elements": {
+        "identifiers": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\ru.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000",
+          "f\"Сгенерированные числа: {a}, {b}, разница: {difference}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\id.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\ur.py",
+      "elements": {
+        "identifiers": [
+          "abs",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000",
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\de.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000",
+          "f\"{a}, {b}, {c}"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "c",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\ja.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "randint",
+          "random",
+          "result"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "randint",
+          "random",
+          "result"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\mr.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "difference",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\vi.py",
+      "elements": {
+        "identifiers": [
+          "a",
+          "b",
+          "diff",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "a",
+          "b",
+          "diff",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\te.py",
+      "elements": {
+        "identifiers": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\ha.py",
+      "elements": {
+        "identifiers": [
+          "d",
+          "digit_sum",
+          "num",
+          "sum"
+        ],
+        "literals": [
+          "10",
+          "1001",
+          "10",
+          "0",
+          "0"
+        ],
+        "variables": [
+          "d",
+          "digit_sum",
+          "num"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code_j1tmo188\\tr.py",
+      "elements": {
+        "identifiers": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "literals": [
+          "10",
+          "1000",
+          "10",
+          "1000"
+        ],
+        "variables": [
+          "difference",
+          "num1",
+          "num2",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    }
+  }
+}

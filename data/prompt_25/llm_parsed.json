@@ -1,0 +1,890 @@
+{
+  "success": true,
+  "results": {
+    "en": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\en.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "0",
+          "12",
+          "3",
+          "6",
+          "9",
+          "f\"Q1: {q1}, Q2: {q2}, Q3: {q3}, Q4: {q4}"
+        ],
+        "variables": [
+          "i",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "zh-CN": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\zh-CN.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlysales",
+          "_",
+          "monthly_sales",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "Q1 Sales:",
+          "Q2 Sales:",
+          "Q3 Sales:",
+          "Q4 Sales:"
+        ],
+        "variables": [
+          "_",
+          "monthly_sales",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlysales"
+        ],
+        "classes": []
+      }
+    },
+    "hi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\hi.py",
+      "elements": {
+        "identifiers": [
+          "_",
+          "enumerate",
+          "getMonthlySales",
+          "i",
+          "quarter_sums",
+          "randint",
+          "random",
+          "sales",
+          "sum",
+          "total"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "f\"Quarter {i+1} total sales: {total}",
+          "1"
+        ],
+        "variables": [
+          "_",
+          "i",
+          "quarter_sums",
+          "randint",
+          "random",
+          "sales",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "es": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\es.py",
+      "elements": {
+        "identifiers": [
+          "_",
+          "getMonthlySales",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "f\"Ventas primer trimestre: {q1}",
+          "f\"Ventas segundo trimestre: {q2}",
+          "f\"Ventas tercer trimestre: {q3}",
+          "f\"Ventas cuarto trimestre: {q4}"
+        ],
+        "variables": [
+          "_",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "ar": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\ar.py",
+      "elements": {
+        "identifiers": [
+          "getMonthlySales",
+          "i",
+          "quarterly_sales",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "0",
+          "0",
+          "0",
+          "12",
+          "3",
+          "0",
+          "0",
+          "3",
+          "1",
+          "1",
+          "2",
+          "First Quarter Sales:",
+          "0",
+          "Second Quarter Sales:",
+          "1",
+          "Third Quarter Sales:",
+          "2"
+        ],
+        "variables": [
+          "i",
+          "quarterly_sales",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "fr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\fr.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "_",
+          "monthly_sales",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "f\"Q1: {q1}, Q2: {q2}, Q3: {q3}, Q4: {q4}"
+        ],
+        "variables": [
+          "_",
+          "monthly_sales",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "bn": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\bn.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "i",
+          "randint",
+          "random",
+          "sales",
+          "sum_sales"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "0",
+          "12",
+          "1",
+          "3",
+          "0",
+          "f\"Quarter {i//3 + 1} total: {sum_sales}",
+          "3",
+          "1",
+          "0"
+        ],
+        "variables": [
+          "i",
+          "randint",
+          "random",
+          "sales",
+          "sum_sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "pt": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\pt.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "_",
+          "monthly_sales",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "f\"Q1: {q1}, Q2: {q2}, Q3: {q3}, Q4: {q4}"
+        ],
+        "variables": [
+          "_",
+          "monthly_sales",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "ru": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\ru.py",
+      "elements": {
+        "identifiers": [
+          "_",
+          "append",
+          "getMonthlySales",
+          "q",
+          "quarterly_sales",
+          "randint",
+          "random",
+          "sales",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12"
+        ],
+        "variables": [
+          "_",
+          "append",
+          "q",
+          "quarterly_sales",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "id": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\id.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlysales",
+          "_",
+          "quarter1",
+          "quarter2",
+          "quarter3",
+          "quarter4",
+          "randint",
+          "random",
+          "sales",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "Quarter 1 sales:",
+          "Quarter 2 sales:",
+          "Quarter 3 sales:",
+          "Quarter 4 sales:"
+        ],
+        "variables": [
+          "_",
+          "quarter1",
+          "quarter2",
+          "quarter3",
+          "quarter4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlysales"
+        ],
+        "classes": []
+      }
+    },
+    "ur": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\ur.py",
+      "elements": {
+        "identifiers": [
+          "getmonthlysales",
+          "month",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "0",
+          "1",
+          "13",
+          "3",
+          "6",
+          "9",
+          "f\"Q1: {q1}, Q2: {q2}, Q3: {q3}, Q4: {q4}"
+        ],
+        "variables": [
+          "month",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getmonthlysales"
+        ],
+        "classes": []
+      }
+    },
+    "de": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\de.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "_",
+          "quarter1",
+          "quarter2",
+          "quarter3",
+          "quarter4",
+          "randint",
+          "random",
+          "sales",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "Quartal 1 Umsatz:",
+          "Quartal 2 Umsatz:",
+          "Quartal 3 Umsatz:",
+          "Quartal 4 Umsatz:"
+        ],
+        "variables": [
+          "_",
+          "quarter1",
+          "quarter2",
+          "quarter3",
+          "quarter4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "ja": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\ja.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "month",
+          "q",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "0",
+          "12",
+          "3",
+          "1",
+          "1",
+          "2",
+          "3",
+          "f\"Q1: {q1}",
+          "f\"Q2: {q2}",
+          "f\"Q3: {q3}",
+          "f\"Q4: {q4}"
+        ],
+        "variables": [
+          "month",
+          "q",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "mr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\mr.py",
+      "elements": {
+        "identifiers": [
+          "get_monthly_sales",
+          "month",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "0",
+          "1",
+          "13",
+          "1",
+          "3",
+          "4",
+          "6",
+          "7",
+          "9",
+          "Q1:",
+          "Q2:",
+          "Q3:",
+          "Q4:"
+        ],
+        "variables": [
+          "month",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "get_monthly_sales"
+        ],
+        "classes": []
+      }
+    },
+    "vi": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\vi.py",
+      "elements": {
+        "identifiers": [
+          "_",
+          "getmonthlysales",
+          "i",
+          "quarter_sum",
+          "randint",
+          "random",
+          "sales",
+          "start",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "4",
+          "3",
+          "3",
+          "f\"Quý {i+1} doanh số: {quarter_sum}",
+          "1"
+        ],
+        "variables": [
+          "_",
+          "i",
+          "quarter_sum",
+          "randint",
+          "random",
+          "sales",
+          "start"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "getmonthlysales"
+        ],
+        "classes": []
+      }
+    },
+    "te": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\te.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "_",
+          "enumerate",
+          "i",
+          "monthly_sales",
+          "quarterly_totals",
+          "randint",
+          "random",
+          "sum",
+          "total"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "1",
+          "f\"Quarter {i} Total: {total}"
+        ],
+        "variables": [
+          "_",
+          "i",
+          "monthly_sales",
+          "quarterly_totals",
+          "randint",
+          "random",
+          "total"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlySales"
+        ],
+        "classes": []
+      }
+    },
+    "ha": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\ha.py",
+      "elements": {
+        "identifiers": [
+          "f",
+          "index",
+          "line",
+          "max",
+          "max_index",
+          "max_val",
+          "open",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "quarters",
+          "sales",
+          "strip",
+          "sum"
+        ],
+        "literals": [
+          "Getmonthysales",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "f\"Q1 Total: {q1}",
+          "f\"Q2 Total: {q2}",
+          "f\"Q3 Total: {q3}",
+          "f\"Q4 Total: {q4}",
+          "f\"Highest Quarter: Q{max_index + 1}",
+          "1"
+        ],
+        "variables": [
+          "f",
+          "index",
+          "line",
+          "max_index",
+          "max_val",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "quarters",
+          "sales",
+          "strip"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [],
+        "classes": []
+      }
+    },
+    "tr": {
+      "success": true,
+      "language": "python",
+      "file_path": "C:\\Users\\MANISH~1\\AppData\\Local\\Temp\\llm_code__6o8ttl7\\tr.py",
+      "elements": {
+        "identifiers": [
+          "GetMonthlySales",
+          "_",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales",
+          "sum"
+        ],
+        "literals": [
+          "0",
+          "100000",
+          "12",
+          "0",
+          "3",
+          "3",
+          "6",
+          "6",
+          "9",
+          "9",
+          "12",
+          "f\"1. Çeyrek Satışları: {q1}",
+          "f\"2. Çeyrek Satışları: {q2}",
+          "f\"3. Çeyrek Satışları: {q3}",
+          "f\"4. Çeyrek Satışları: {q4}"
+        ],
+        "variables": [
+          "_",
+          "q1",
+          "q2",
+          "q3",
+          "q4",
+          "randint",
+          "random",
+          "sales"
+        ],
+        "comments": [],
+        "docstrings": [],
+        "functions": [
+          "GetMonthlySales"
+        ],
+        "classes": []
+      }
+    }
+  }
+}

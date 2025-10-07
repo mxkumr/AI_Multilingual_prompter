@@ -1,0 +1,20 @@
+{
+  "en": "Generate Python code for the following: The code generates a random number larger than 1000 and prints it.",
+  "zh-CN": "为以下几点生成Python代码：该代码生成一个大于1000的随机数并将其打印。",
+  "hi": "निम्नलिखित के लिए पायथन कोड उत्पन्न करें: कोड 1000 से बड़ा एक यादृच्छिक संख्या उत्पन्न करता है और इसे प्रिंट करता है।",
+  "es": "Genere el código de Python para lo siguiente: El código genera un número aleatorio de más de 1000 y lo imprime.",
+  "ar": "قم بإنشاء رمز Python لما يلي: يقوم الرمز بإنشاء رقم عشوائي أكبر من 1000 ويطبعه.",
+  "fr": "Générez du code Python pour les éléments suivants : Le code génère un nombre aléatoire supérieur à 1 000 et l'imprime.",
+  "bn": "নিম্নলিখিতগুলির জন্য পাইথন কোড তৈরি করুন: কোডটি 1000 এর চেয়ে বড় একটি এলোমেলো সংখ্যা উত্পন্ন করে এবং এটি মুদ্রণ করে।",
+  "pt": "Gere código Python para o seguinte: O código gera um número aleatório maior que 1000 e o imprime.",
+  "ru": "Сгенерируйте код Python для следующего: код генерирует случайное число, превышающее 1000, и печатает его.",
+  "id": "Hasilkan Kode Python untuk yang berikut: Kode menghasilkan angka acak yang lebih besar dari 1000 dan mencetaknya.",
+  "ur": "مندرجہ ذیل کے لئے ازگر کا کوڈ تیار کریں: کوڈ 1000 سے بڑا بے ترتیب نمبر تیار کرتا ہے اور اسے پرنٹ کرتا ہے۔",
+  "de": "Generieren Sie den Python -Code für Folgendes: Der Code generiert eine Zufallszahl größer als 1000 und druckt ihn aus.",
+  "ja": "以下のPythonコードを生成します。コードは、1000を超える乱数を生成し、印刷します。",
+  "mr": "खालीलसाठी पायथन कोड व्युत्पन्न करा: कोड 1000 पेक्षा मोठा यादृच्छिक संख्या व्युत्पन्न करतो आणि त्यास मुद्रित करतो.",
+  "vi": "Tạo mã Python cho mục sau: Mã tạo một số ngẫu nhiên lớn hơn 1000 và in nó.",
+  "te": "కింది వాటి కోసం పైథాన్ కోడ్‌ను రూపొందించండి: కోడ్ 1000 కన్నా పెద్ద యాదృచ్ఛిక సంఖ్యను ఉత్పత్తి చేస్తుంది మరియు దానిని ప్రింట్ చేస్తుంది.",
+  "ha": "Haɗa lambar Python don masu zuwa: Lambar tana haifar da lambar bazuwar girma fiye da 1000 da kuma buga shi.",
+  "tr": "Aşağıdakiler için Python kodu oluşturun: Kod 1000'den büyük rastgele bir sayı oluşturur ve yazdırır."
+}

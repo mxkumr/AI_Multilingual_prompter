@@ -182,16 +182,13 @@ def process_single_prompt(prompt_data: Dict[str, str], data_dir: str) -> None:
 
 def visualize_language_distribution_for_prompt(prompt_dir: str) -> None:
     """Generate language charts for a specific prompt directory."""
-    # Change to the prompt directory temporarily for visualization
-    original_cwd = os.getcwd()
-    try:
-        os.chdir(prompt_dir)
-        # Reuse non_english.main to generate charts and summary
-        import non_english
-        print("Generating language charts...")
-        non_english.main()
-    finally:
-        os.chdir(original_cwd)
+    # Use non_english.run_visualization with per-prompt paths
+    import non_english
+    print("Generating language charts...")
+    input_path = os.path.join(prompt_dir, "llm_parsed.json")
+    charts_dir = os.path.join(prompt_dir, "language_charts")
+    summary_out = os.path.join(prompt_dir, "non_english_summary.json")
+    non_english.run_visualization(input_path, charts_dir, summary_out)
 
 
 def main() -> None:
